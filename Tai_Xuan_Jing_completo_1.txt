@@ -1,0 +1,3351 @@
+太玄經 · EL TÀI XUÁN JĪNG COMPLETO — The Canon of Supreme Mystery
+Yáng Xióng (揚雄, 53 a.C.–18 d.C.)  ·  Edición bilingüe chino–español, con ficha y figura por cabeza
+
+Texto canónico: 四部叢刊, transcripción CHANT/TLS (Kanripo KR3g0001) —
+https://github.com/bkkbooks/KR3g0001 · 81 首 × 9 贊 = 729 + 2 intercalares (踦贊·嬴贊) = 731.
+Traducción propia al español (CC0). Texto original: dominio público.
+Cada cabeza muestra su figura de tetragrama (碼 Unicode, bloque 𝌆–𝍖).
+
+— NOTA SOBRE LA FICHA —
+La ficha de cada cabeza es aparato calculado (no forma parte del Canon):
+• Fase (五行): suma de los dígitos del nº de cabeza → 1=Agua 水, 2=Fuego 火, 3=Madera 木,
+  4=Metal 金, 5=Tierra 土 (ciclo de cinco). Ej.: 41 → 4+1=5 → Tierra. Verificado con Fàn Wàng.
+• Grados solares: cada cabeza ocupa 4,5° del año (365,25°) desde el solsticio de invierno
+  (cabeza 1 = 0°); su apreciación 5, el centro, marca el punto solar. La 41 cae en el
+  solsticio de verano. 方州部家: la 1 es 1·1·1·1, la 41 es 2·2·2·2 (centro), la 81 es 3·3·3·3.
+• Hexagrama: correspondencia 卦氣 arbitrada con Sīmǎ Guāng (véase Apéndice de correspondencias).
+
+八十一首擬乎卦者也 — «Las ochenta y una cabezas imitan a los hexagramas.»
+==============================================================================
+
+━━━ 首 1 · 𝌆 · 中 (Zhōng) · «Centro» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 61 中孚 «La Verdad Interior» · Grados solares 0°–4.5° · Término 冬至 (Solsticio de invierno) · Tercio Cielo · Familia yang · 方州部家 1·1·1·1 · Solsticio de invierno (comienzo del ciclo)
+首辭　陽氣潛萌於黃宮信無不在乎中
+　　→ El aliento yang germina oculto en el Palacio Amarillo; en verdad, nada hay que no esté en el centro.
+  初一 (apreciación 1)　昆侖旁薄幽
+  　　→ El caos primordial (Kūnlún) se extiende vasto y oscuro.
+  　　測曰　昆侖旁薄思諸貞也
+  　　→ El caos vasto: el pensamiento se asienta en lo recto.
+  次二 (apreciación 2)　神戰于玄其陳陰陽
+  　　→ Los espíritus combaten en el Misterio; su formación es Yin y Yang.
+  　　測曰　神戰于玄善惡并也
+  　　→ Combaten en el Misterio: el bien y el mal van juntos.
+  次三 (apreciación 3)　龍出于中首尾信可以為庸
+  　　→ El dragón surge del centro; cabeza y cola son fiables: puede servir de norma.
+  　　測曰　龍出于中見其造也
+  　　→ El dragón surge del centro: se ve su obra creadora.
+  次四 (apreciación 4)　庳虛無因大受性命否
+  　　→ El granero está vacío, sin fundamento; ¿recibir en grande la naturaleza y el destino? No.
+  　　測曰　庳虛之否不能大受也
+  　　→ Granero vacío y cerrado: no puede recibir en grande.
+  次五 (apreciación 5)　日正于天利以其辰作主
+  　　→ El sol se yergue recto en el cielo; conviene, por su hora, hacerse dueño.
+  　　測曰　日正于天貴當位也
+  　　→ El sol recto en el cielo: lo noble ocupa su justo lugar.
+  次六 (apreciación 6)　月闕其摶不如開明于西
+  　　→ La luna mengua de su plenitud; no iguala a la claridad que se abre en el poniente.
+  　　測曰　月闕其摶明始退也
+  　　→ La luna mengua: la luz empieza a retirarse.
+  次七 (apreciación 7)　酋酋火魁頤水包貞
+  　　→ Maduro y pleno, el gran cucharón; la boca nutre, el agua envuelve, y hay rectitud. [verso oscuro]
+  　　測曰　酋酋之包任臣則也
+  　　→ Ese envolver maduro: encomendar a los ministros es la norma.
+  次八 (apreciación 8)　黃不黃覆秋常
+  　　→ Amarillo y no amarillo; trastorna el otoño. [verso oscuro]
+  　　測曰　黃不黃失中德也
+  　　→ El corazón que vuelve, cerrado: el centro no es indulgente.
+  上九 (apreciación 9)　顛靈氣形反
+  　　→ En la cima el numen; aliento y forma se invierten.
+  　　測曰　顛靈之反時不克也
+  　　→ La inversión del numen en la cima: el momento no da fruto.
+
+━━━ 首 2 · 𝌇 · 周 (Zhōu) · «Círculo Completo» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 24 復 «El Retorno» · Grados solares 4.5°–9° · Término 冬至 (Solsticio de invierno) · Tercio Cielo · Familia yin · 方州部家 1·1·1·2
+首辭　陽氣周神而反乎始物繼其彙
+　　→ El aliento yang rodea al numen y vuelve al comienzo; los seres continúan según su especie.
+  初一 (apreciación 1)　還於天心何德之僭否
+  　　→ Retorno al corazón del Cielo: ¿qué virtud osaría usurparlo? No.
+  　　測曰　還心之否中不恕也
+  　　→ El «no» del corazón que retorna: el centro no es indulgente.
+  次二 (apreciación 2)　植中樞周無隅
+  　　→ Se planta el eje central; el círculo no tiene esquinas.
+  　　測曰　植中樞立督慮也
+  　　→ Plantar el eje central: se establece la vigilancia y la previsión.
+  次三 (apreciación 3)　出我入我吉凶之魁
+  　　→ Sale de mí, entra en mí: es el jefe de la fortuna y del infortunio.
+  　　測曰　出我入我不可不懼也
+  　　→ Sale de mí y entra en mí: no cabe sino el temor.
+  次四 (apreciación 4)　帶其鉤鞶錘以玉鐶
+  　　→ Ciñe su hebilla y su faja, lastradas con un anillo de jade.
+  　　測曰　帶其鉤鞶自約束也
+  　　→ Ceñir hebilla y faja: se impone a sí mismo la mesura.
+  次五 (apreciación 5)　土中其廬設于金輿厥戒渝
+  　　→ En medio de la tierra, su choza; asentada sobre un carro de metal: su cautela flaquea.
+  　　測曰　廬金戒渝小人不克也
+  　　→ Choza sobre metal, cautela que flaquea: el hombre pequeño no puede con ello.
+  次六 (apreciación 6)　信周其誠上亨于天
+  　　→ La confianza rodea su sinceridad y asciende en comunión con el Cielo.
+  　　測曰　信周其誠上通也
+  　　→ La confianza que rodea su sinceridad: penetra hasta lo alto.
+  次七 (apreciación 7)　豐淫見其朋還于蒙不克從
+  　　→ Desbordamiento y exceso muestran a los suyos; al volver a la tiniebla, no logra seguirlos.
+  　　測曰　豐淫見朋不能從也
+  　　→ Exceso que muestra a los suyos: no puede seguirlos.
+  次八 (apreciación 8)　還遇躬外其禍不大
+  　　→ Al volver lo encuentra; mantiene el cuerpo afuera: el daño no es grande.
+  　　測曰　還遇躬外禍不中也
+  　　→ Mantener el cuerpo afuera: el daño no da en el centro.
+  上九 (apreciación 9)　還于喪或棄之行
+  　　→ Retorno hacia la pérdida; alguno abandona la marcha.
+  　　測曰　還于喪其道窮也
+  　　→ Retorno hacia la pérdida: su camino se agota.
+
+━━━ 首 3 · 𝌈 · 礥 (Xián) · «Atascado» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 3 屯 «La Dificultad Inicial» · Grados solares 9°–13.5° · Término 小寒 (Frío menor) · Tercio Cielo · Familia yang · 方州部家 1·1·1·3
+首辭　陽氣微動動而礥礥物生之難也
+　　→ El aliento yang se mueve apenas; al moverse, con dificultad: es lo arduo del nacer de los seres.
+  初一 (apreciación 1)　黃純于潛不見其畛藏鬱於泉
+  　　→ Amarillo puro en lo hundido; no se ven sus lindes; atesora, denso, en el hondón.
+  　　測曰　黃純于潛化在嘖也
+  　　→ Amarillo puro en lo hundido: la transformación obra en lo profundo.
+  次二 (apreciación 2)　黃不純屈于根
+  　　→ Amarillo no puro: se dobla en la raíz.
+  　　測曰　黃不純失中適也
+  　　→ Amarillo no puro: pierde el justo temple del centro.
+  次三 (apreciación 3)　赤子扶扶元貞有終
+  　　→ El niño de pecho gatea y gatea; la rectitud primordial tiene su cumplimiento.
+  　　測曰　赤子扶扶父母瞻也
+  　　→ El niño que gatea: padre y madre lo velan.
+  次四 (apreciación 4)　拔我不德以力不克
+  　　→ Sacarme sin virtud, sólo a la fuerza, no lo logra.
+  　　測曰　拔我不德力不堪也
+  　　→ Sacarme sin virtud: la fuerza no basta.
+  次五 (apreciación 5)　拔車山淵宜於大人
+  　　→ Sacar el carro del barranco conviene al gran hombre.
+  　　測曰　拔車山淵大位力也
+  　　→ Sacar el carro del barranco: es la fuerza de la alta posición.
+  次六 (apreciación 6)　將其車入于丘虛
+  　　→ Lleva su carro adentro del túmulo hueco.
+  　　測曰　將車入虛道不得也
+  　　→ Meter el carro en lo hueco: no se alcanza el camino.
+  次七 (apreciación 7)　出險登丘或牽之牛
+  　　→ Sale del peligro, sube al cerro; alguien le arrea un buey.
+  　　測曰　出險登丘莫之代也
+  　　→ Salir del peligro y subir al cerro: nadie puede reemplazarlo.
+  次八 (apreciación 8)　車不拔髀軸折
+  　　→ El carro no se deja sacar; el eje y el cubo se quiebran.
+  　　測曰　車不拔躬自賊也
+  　　→ El carro que no se saca: él mismo se hace el daño.
+  上九 (apreciación 9)　崇崇高山下有川波其人有輯航可與過其
+  　　→ Alta, alta la montaña; abajo, las olas del río; ese hombre tiene remos y barca: con él se puede cruzar.
+  　　測曰　高山大川不輯航不克也
+  　　→ Alta montaña y gran río: sin remos ni barca, no se puede.
+
+━━━ 首 4 · 𝌉 · 閑 (Xián) · «Barrera» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 3 屯 «La Dificultad Inicial» · Grados solares 13.5°–18° · Término 小寒 (Frío menor) · Tercio Cielo · Familia yin · 方州部家 1·1·2·1
+首辭　陽氣閑於陰礥然物咸見閑
+　　→ El aliento yang queda atrancado por el yin; con esfuerzo, todos los seres se ven barrados.
+  初一 (apreciación 1)　蛇伏於泥無雄有雌終莫受施
+  　　→ La serpiente yace en el fango; sin macho, sólo hembra; al final nada recibe.
+  　　測曰　蛇伏于泥君不君也
+  　　→ La serpiente en el fango: el señor no ejerce de señor.
+  次二 (apreciación 2)　閑其藏固珍寶
+  　　→ Atranca su depósito; asegura el tesoro precioso.
+  　　測曰　閑其藏中心淵也
+  　　→ Atrancar el depósito: el corazón íntimo es profundo.
+  次三 (apreciación 3)　關無鍵舍金管
+  　　→ El portón sin cerrojo; se abandona la llave de metal.
+  　　測曰　關無鍵盜入門也
+  　　→ El portón sin cerrojo: el ladrón entra por la puerta.
+  次四 (apreciación 4)　拔我輗軏小得利小征
+  　　→ Me arrancan la clavija del yugo; pequeña ganancia, pequeña campaña.
+  　　測曰　拔我輗軏貴以信也
+  　　→ Arrancar la clavija del yugo: lo que se estima es la confianza.
+  次五 (apreciación 5)　礥而閑而拔我姦而非石如石厲
+  　　→ Duro y atrancado; me arrancan; pérfido, no es piedra y como piedra: severo. [verso oscuro]
+  　　測曰　礥閑如石其敵堅也
+  　　→ Atrancado como piedra: su adversario es firme.
+  次六 (apreciación 6)　閑黃垁席金笫
+  　　→ Atranca el muro amarillo; estera sobre tablillas de metal. [verso oscuro]
+  　　測曰　閑黃垁以德固也
+  　　→ Atrancar el muro amarillo: por la virtud queda firme.
+  次七 (apreciación 7)　跙跙閑于蘧除或寢之廬
+  　　→ Tropezando y tropezando, atrancado en el umbral de juncos; alguno duerme en la choza.
+  　　測曰　跙跙之閑惡在舍也
+  　　→ Ese tropiezo atrancado: el mal está en el hospedaje.
+  次八 (apreciación 8)　赤臭播關大君不閑克國乘家
+  　　→ Hedor rojo se esparce por el portón; el gran señor, sin barrera, somete el reino y monta la casa. [verso oscuro]
+  　　測曰　赤臭播關恐入室也
+  　　→ Hedor rojo por el portón: se teme que entre en la alcoba.
+  上九 (apreciación 9)　閑門以終虛
+  　　→ Atranca la puerta hasta el fin: vacío.
+  　　測曰　閑門以虛終不可實也
+  　　→ Atrancar la puerta con vacío: hasta el fin no podrá llenarse.
+
+━━━ 首 5 · 𝌊 · 少 (Shǎo) · «Guardar lo Pequeño» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 15 謙 «La Modestia» · Grados solares 18°–22.5° · Término 小寒 (Frío menor) · Tercio Cielo · Familia yang · 方州部家 1·1·2·2
+首辭　陽氣澹然施於淵物謙然能自韱
+　　→ El aliento yang, sereno, se derrama en el hondón; los seres, humildes, saben adelgazarse a sí mismos.
+  初一 (apreciación 1)　冥自少眇于謙
+  　　→ En lo oscuro, uno se hace pequeño de suyo; diminuto en la humildad.
+  　　測曰　冥自少不見謙也
+  　　→ En lo oscuro hacerse pequeño: la humildad no se ve.
+  次二 (apreciación 2)　自少不至懷其卹
+  　　→ Hacerse pequeño, mas sin lograrlo; guarda en el pecho su desvelo.
+  　　測曰　自少不至謙不成也
+  　　→ Hacerse pequeño sin lograrlo: la humildad no se cumple.
+  次三 (apreciación 3)　動韱其得人主之式
+  　　→ Mueve lo tenue y sutil, y lo gana: es el modelo de un soberano.
+  　　測曰　韱其得人謙貞也
+  　　→ Lo sutil que gana a los hombres: humildad y rectitud.
+  次四 (apreciación 4)　貧貧或妄之振
+  　　→ Pobre, pobre; alguno lo agita sin tino.
+  　　測曰　貧貧妄振不能守正也
+  　　→ Pobre y agitado sin tino: no sabe guardar lo recto.
+  次五 (apreciación 5)　地自沖下于川
+  　　→ La tierra, de suyo, se vacía y baja hacia el río.
+  　　測曰　地自沖人之所聖也
+  　　→ La tierra que se vacía: es lo que hace sabio al hombre.
+  次六 (apreciación 6)　少持滿今盛後傾
+  　　→ Lo pequeño sostiene lo lleno: ahora floreciente, luego volcado.
+  　　測曰　少持滿何足盛也
+  　　→ Lo pequeño que sostiene lo lleno: ¿cómo va a durar en flor?
+  次七 (apreciación 7)　貧自究利用見富
+  　　→ La pobreza que se agota a sí misma: propicio mostrar la riqueza.
+  　　測曰　貧自究富之聘也
+  　　→ La pobreza que se agota: es el reclamo de la riqueza.
+  次八 (apreciación 8)　貧不貧人莫之振
+  　　→ Pobre y no pobre: nadie necesita socorrerlo.
+  　　測曰　貧不貧何足敬也
+  　　→ Pobre y no pobre: ¿qué mérito hay que respetar en ello?
+  上九 (apreciación 9)　密雨溟沐潤于枯瀆三日射谷
+  　　→ Lluvia menuda, brumosa, bañando; humedece la acequia seca; tres días penetra el valle.
+  　　測曰　密雨射谷謙之靜也
+  　　→ Lluvia menuda que penetra el valle: la quietud de la humildad.
+
+━━━ 首 6 · 𝌋 · 戾 (Lì) · «Contrariedad» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 38 睽 «El Antagonismo» · Grados solares 22.5°–27° · Término 大寒 (Frío mayor) · Tercio Cielo · Familia yin · 方州部家 1·1·2·3
+首辭　陽氣孚微物各乖離而觸其類
+　　→ El aliento yang confía en lo tenue; cada ser se aparta y choca con los de su especie.
+  初一 (apreciación 1)　虛既邪心有傾
+  　　→ El vacío ya torcido; el corazón se inclina.
+  　　測曰　虛邪心傾懷不正也
+  　　→ Vacío torcido, corazón inclinado: el pecho no es recto.
+  次二 (apreciación 2)　正其腹引其背酋貞
+  　　→ Endereza el vientre, recoge la espalda: rectitud madura.
+  　　測曰　正其腹中心定也
+  　　→ Enderezar el vientre: el corazón íntimo se asienta.
+  次三 (apreciación 3)　戾其腹正其背
+  　　→ Contrario en el vientre, recto en la espalda.
+  　　測曰　戾腹正背中外爭也
+  　　→ Vientre contrario, espalda recta: dentro y fuera en pugna.
+  次四 (apreciación 4)　夫妻反道維家之保
+  　　→ Marido y mujer opuestos en la Vía: y con todo, el resguardo de la casa.
+  　　測曰　夫妻反道各有守也
+  　　→ Marido y mujer opuestos: cada cual tiene su guarda.
+  次五 (apreciación 5)　東南射兕西北其矢
+  　　→ Al sudeste dispara al rinoceronte; al noroeste va su flecha.
+  　　測曰　東南射兕不得其首也
+  　　→ Disparar al sudeste: no le acierta en la cabeza.
+  次六 (apreciación 6)　準繩規矩不同其施
+  　　→ Nivel y cuerda, compás y escuadra: distintos en su empleo.
+  　　測曰　準繩規矩乖其道也
+  　　→ Nivel y cuerda, compás y escuadra: contrarios en su camino.
+  次七 (apreciación 7)　女不女其心予覆夫諿
+  　　→ La mujer que no es mujer; su corazón da y trastorna; el marido asiente. [verso oscuro]
+  　　測曰　女不女大可醜也
+  　　→ La mujer que no es mujer: gran vergüenza.
+  次八 (apreciación 8)　殺生相午中和其道
+  　　→ Matar y dar vida se cruzan; el centro armoniza su camino.
+  　　測曰　殺生相午中為界也
+  　　→ Matar y dar vida se cruzan: el centro es la linde.
+  上九 (apreciación 9)　倉靈之雌不同宿而離失則歲之功乖
+  　　→ La hembra del numen glauco no anida junto al suyo, sino que se aparta; si se pierde, la obra del año se malogra.
+  　　測曰　倉靈之雌失作敗也
+  　　→ La hembra del numen glauco: al perderse, todo se arruina.
+
+━━━ 首 7 · 𝌌 · 上 (Shàng) · «Ascenso» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 46 升 «La Subida» · Grados solares 27°–31.5° · Término 大寒 (Frío mayor) · Tercio Cielo · Familia yang · 方州部家 1·1·3·1
+首辭　陽氣育物于下咸射地而登乎上
+　　→ El aliento yang nutre a los seres abajo; todos brotan de la tierra y ascienden a lo alto.
+  初一 (apreciación 1)　上其純心挫厥鏩鏩
+  　　→ Asciende con corazón puro; embota su ímpetu punzante.
+  　　測曰　上其純心和以悅也
+  　　→ Ascender con corazón puro: en armonía y con gozo.
+  次二 (apreciación 2)　上無根思登于天谷在于淵
+  　　→ Asciende sin raíz, sueña con subir al Cielo, aunque el valle esté en el abismo.
+  　　測曰　上無根不能自活也
+  　　→ Ascender sin raíz: no puede mantenerse vivo.
+  次三 (apreciación 3)　出于幽谷登于茂木思其珍穀
+  　　→ Sale del valle sombrío, sube al árbol frondoso; anhela su grano precioso.
+  　　測曰　出谷登木知向方也
+  　　→ Salir del valle y subir al árbol: sabe hacia dónde ir.
+  次四 (apreciación 4)　即上不貞無根繁榮孚虛名
+  　　→ Sube sin rectitud; sin raíz florece exuberante, fiando en un nombre vacío.
+  　　測曰　即上不貞妄升也
+  　　→ Subir sin rectitud: es un ascenso temerario.
+  次五 (apreciación 5)　鳴鶴升自深澤階天不怍
+  　　→ La grulla que canta se alza del hondo pantano, escala el cielo sin sonrojo.
+  　　測曰　鳴鶴不怍有諸中也
+  　　→ La grulla que canta sin sonrojo: lo lleva dentro.
+  次六 (apreciación 6)　升于堂顛衣到裳廷人不慶
+  　　→ Sube al salón, la túnica vuelta, la falda del revés; los cortesanos no lo celebran. [verso oscuro]
+  　　測曰　升堂顛到失大眾也
+  　　→ Subir al salón del revés: pierde a la multitud.
+  次七 (apreciación 7)　升于顛臺或柱之材
+  　　→ Sube a la terraza que se desploma; alguno la apuntala con madera.
+  　　測曰　升臺得柱輔弗堅也
+  　　→ Terraza apuntalada: el sostén no es firme.
+  次八 (apreciación 8)　升于高危或斧之梯
+  　　→ Sube a la altura peligrosa; alguno le corta a hachazos la escalera.
+  　　測曰　升危斧梯失士民也
+  　　→ Subir al peligro con la escalera cortada: pierde a nobles y pueblo.
+  上九 (apreciación 9)　棲于菑初亡後得基
+  　　→ Se posa en el árbol muerto; primero pierde, luego gana cimiento.
+  　　測曰　棲菑得基後得人也
+  　　→ Posarse en lo muerto y ganar cimiento: luego gana a los hombres.
+
+━━━ 首 8 · 𝌍 · 干 (Gān) · «Oposición» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 46 升 «La Subida» · Grados solares 31.5°–36° · Término 大寒 (Frío mayor) · Tercio Cielo · Familia yin · 方州部家 1·1·3·2
+首辭　陽氣扶物而鑽乎堅鉿然有穿
+　　→ El aliento yang apuntala a los seres y horada lo duro; con tesón, algo perfora.
+  初一 (apreciación 1)　丸鑽鑽于內隙厲
+  　　→ Una bolita horada y horada la grieta interior: peligro.
+  　　測曰　丸鑽于內轉丸非也
+  　　→ Horadar por dentro: hacer rodar la bolita es un error.
+  次二 (apreciación 2)　以微干正維用軌命
+  　　→ Con lo sutil busca lo recto; sólo así sigue la senda ordenada.
+  　　測曰　以微干正大諫微也
+  　　→ Con lo sutil buscar lo recto: gran amonestación en lo pequeño.
+  次三 (apreciación 3)　𦴑鍵挈挈匪貞
+  　　→ Cerrojo y traba, aferrando, aferrando: no es recto. [verso oscuro]
+  　　測曰　𦴑鍵挈挈干祿回也
+  　　→ Aferrar cerrojo y traba: buscar la paga por vías torcidas.
+  次四 (apreciación 4)　干言入骨時貞
+  　　→ La palabra que amonesta entra hasta el hueso; oportuna, recta.
+  　　測曰　干骨之時直其道也
+  　　→ Al hueso a tiempo: endereza su camino.
+  次五 (apreciación 5)　蚩蚩干于丘飴或錫之坏
+  　　→ Necio, necio, buscando en el cerro de dulces; alguno le regala un tiesto sin cocer. [verso oscuro]
+  　　測曰　蚩蚩之干錫不好也
+  　　→ Ese buscar necio: el regalo no vale.
+  次六 (apreciación 6)　幹干於天貞馴
+  　　→ El tronco busca hasta el Cielo; recto, dócil.
+  　　測曰　幹干之貞順可保也
+  　　→ Ese buscar recto: obediente, se conserva.
+  次七 (apreciación 7)　何戟解解遘
+  　　→ Cargando la alabarda, flojo, flojo, tropieza con la reyerta. [verso oscuro]
+  　　測曰　何戟解解不容道也
+  　　→ Cargar flojo la alabarda: no deja sitio a la Vía.
+  次八 (apreciación 8)　赤舌燒城吐水于缾
+  　　→ Una lengua roja incendia la ciudad; vierte agua desde el jarro.
+  　　測曰　赤舌吐水君子以解祟也
+  　　→ Lengua roja que vierte agua: así el noble conjura el maleficio.
+  上九 (apreciación 9)　干于浮雲從墜于天
+  　　→ Busca entre las nubes flotantes; y por eso cae desde el Cielo.
+  　　測曰　干于浮雲乃從天墜也
+  　　→ Buscar entre las nubes: entonces cae desde el Cielo.
+
+━━━ 首 9 · 𝌎 · 羨 (Xiàn) · «Ramificación» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 19 臨 «El Acercamiento» · Grados solares 36°–40.5° · Término 立春 (Inicio de la primavera) · Tercio Cielo · Familia yang · 方州部家 1·1·3·3
+首辭　陽氣彊內而弱外物咸扶𤕠而進乎大
+　　→ El aliento yang, fuerte por dentro y débil por fuera; los seres se apoyan en el desborde y avanzan hacia lo grande.
+  初一 (apreciación 1)　自我匍匐好是冥德
+  　　→ De mí mismo gateo; amo esta virtud oscura.
+  　　測曰　匍匐冥德若無行也
+  　　→ Gatear con virtud oscura: como si obrara sin obrar.
+  次二 (apreciación 2)　熒𤕠狧狧不利有攸往
+  　　→ Desbordamiento que reluce, lamiendo y lamiendo; no conviene tener adónde ir.
+  　　測曰　熒𤕠狧狧多欲往也
+  　　→ Desbordamiento que lame: demasiado deseo de ir.
+  次三 (apreciación 3)　卉炎于𤕠宜于丘陵
+  　　→ Las hierbas arden en el desborde; convienen a las colinas.
+  　　測曰　卉炎丘陵短臨長也
+  　　→ Hierbas que arden en la colina: lo corto se impone a lo largo.
+  次四 (apreciación 4)　𤕠于酒食肥無譽
+  　　→ Desborde en vino y comida; gordo, sin honra.
+  　　測曰　𤕠于酒食仕無方也
+  　　→ Desborde en vino y comida: servir el cargo sin método.
+  次五 (apreciación 5)　𤕠有足託堅穀
+  　　→ El desborde tiene pies; confíalo al grano firme.
+  　　測曰　𤕠有足位正當也
+  　　→ El desborde con pies: la posición es la justa.
+  次六 (apreciación 6)　獨𤕠逝逝利小不利大
+  　　→ Desbordando a solas, fluyendo y fluyendo; propicio para lo pequeño, no para lo grande.
+  　　測曰　獨𤕠逝逝不可大也
+  　　→ Desbordar a solas: no puede ser grande.
+  次七 (apreciación 7)　白日臨辰可以卒其所聞
+  　　→ El sol blanco domina la hora; se puede rematar lo que se ha aprendido.
+  　　測曰　白日臨辰老得勢也
+  　　→ El sol que domina la hora: lo viejo cobra su impulso.
+  次八 (apreciación 8)　蚤虱之𤕠厲
+  　　→ El desborde de pulgas y piojos: peligro.
+  　　測曰　蚤虱之𤕠不足賴也
+  　　→ Desborde de pulgas y piojos: no hay en qué fiarse.
+  上九 (apreciación 9)　全𤕠絭其首尾臨于淵
+  　　→ Todo el desborde atado; cabeza y cola asoman al abismo.
+  　　測曰　全𤕠之絭恐遇困也
+  　　→ Todo el desborde atado: teme toparse con el apuro.
+
+━━━ 首 10 · 𝌏 · 羡 (Xiàn) · «Defecto / Distorsión» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 19 臨 «El Acercamiento» · Grados solares 40.5°–45° · Término 立春 (Inicio de la primavera) · Tercio Cielo · Familia yin · 方州部家 1·2·1·1
+首辭　陽氣贊幽推包羡爽未得正行
+　　→ El aliento yang asiste lo oculto, empuja y abarca en desvío incierto; aún no logra el andar recto.
+  初一 (apreciación 1)　羡於初其次迂塗
+  　　→ Desvío en el arranque; luego, camino sinuoso.
+  　　測曰　羡于初後難正也
+  　　→ Desvío en el arranque: después, difícil de enderezar.
+  次二 (apreciación 2)　羡于微克復可以為儀
+  　　→ Desvío en lo pequeño; capaz de volver: puede servir de norma.
+  　　測曰　羡微克復不遠定也
+  　　→ Desvío pequeño con retorno: se corrige antes de ir lejos.
+  次三 (apreciación 3)　羡迂塗不能直如
+  　　→ Desvío en el camino torcido; incapaz de ir derecho.
+  　　測曰　羡迂塗不能直行也
+  　　→ Desvío en lo torcido: no puede andar derecho.
+  次四 (apreciación 4)　羡權正吉人不幸
+  　　→ Desvía, sopesa, endereza: propicio; el hombre se libra del infortunio.
+  　　測曰　羡權正善反常也
+  　　→ Sopesar y enderezar: lo bueno vuelve a la norma.
+  次五 (apreciación 5)　孔道夷如蹊路微如大輿之憂
+  　　→ La gran vía es llana; el sendero, tenue; y aun así, la inquietud de un gran carruaje.
+  　　測曰　孔道之夷奚不遵也
+  　　→ La llanura de la gran vía: ¿por qué no seguirla?
+  次六 (apreciación 6)　大虛既邪或直之或翼之得矢夫
+  　　→ El gran vacío ya torcido; unos lo enderezan, otros lo asisten: se obtiene al hombre de la flecha. [verso oscuro]
+  　　測曰　虛邪矢夫得賢臣也
+  　　→ Del vacío torcido: se gana a un ministro digno.
+  次七 (apreciación 7)　曲其故迂其塗厲之馴
+  　　→ Tuerce su causa, enreda su camino; peligro, y luego doma.
+  　　測曰　曲其故為作意也
+  　　→ Torcer la causa: es artificio deliberado.
+  次八 (apreciación 8)　羡其足濟于溝瀆面貞
+  　　→ Desvía sus pies; cruza la acequia; encara la rectitud.
+  　　測曰　羡其足避凶事也
+  　　→ Desviar los pies: esquiva el suceso funesto.
+  上九 (apreciación 9)　車軸折其衡抈四馬就括高人吐血
+  　　→ Se quiebra el eje del carro, salta la barra del yugo; los cuatro caballos quedan trabados; el hombre encumbrado vomita sangre.
+  　　測曰　軸折吐血終不可悔也
+  　　→ Eje roto y sangre vomitada: al final, ya no cabe lamentarlo.
+
+━━━ 首 11 · 𝌐 · 差 (Chā) · «Divergencia» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 62 小過 «La Preponderancia de lo Pequeño» · Grados solares 45°–49.5° · Término 立春 (Inicio de la primavera) · Tercio Cielo · Familia yang · 方州部家 1·2·1·2
+首辭　陽氣蠢闢於東帝由群雍物差其容
+　　→ El aliento yang se agita y abre por el este; el Soberano parte de la muchedumbre concorde; los seres divergen en su forma.
+  初一 (apreciación 1)　微失自攻端
+  　　→ Una falta mínima se ataca a sí misma en su germen.
+  　　測曰　微失自攻人未知也
+  　　→ Falta mínima que se ataca: la gente aún no lo sabe.
+  次二 (apreciación 2)　𥧲其所好將以致其所惡
+  　　→ Consiente lo que ama; con ello acarreará lo que aborrece.
+  　　測曰　𥧲其所好漸以差也
+  　　→ Consentir lo que ama: poco a poco se desvía.
+  次三 (apreciación 3)　其亡其亡將至于暉光
+  　　→ «¡Perdido, perdido!»; y con todo alcanzará la luz resplandeciente.
+  　　測曰　其亡其亡震自衛也
+  　　→ «¡Perdido, perdido!»: sobresaltado, se guarda a sí mismo.
+  次四 (apreciación 4)　過小善不克
+  　　→ Se excede en el bien pequeño: no prevalece.
+  　　測曰　過小善不能至大也
+  　　→ Excederse en el bien pequeño: no llega a lo grande.
+  次五 (apreciación 5)　過門折入得此中行
+  　　→ Pasa la puerta, se vuelve y entra; alcanza este andar del medio.
+  　　測曰　過門折入近復還也
+  　　→ Pasar y volver a entrar: cerca del retorno.
+  次六 (apreciación 6)　大跌過其門不入其室
+  　　→ Un gran traspié; pasa su puerta, no entra en su alcoba.
+  　　測曰　大跌不入誠可患也
+  　　→ Gran traspié sin entrar: de veras es de temer.
+  次七 (apreciación 7)　累卵業業懼貞安
+  　　→ Huevos apilados, trémulo, trémulo; temeroso, recto, en paz.
+  　　測曰　累卵業業自危作安也
+  　　→ Huevos apilados y trémulos: del peligro hace la paz.
+  次八 (apreciación 8)　足纍纍其步蹉躟輔銘滅麋
+  　　→ Pies trabados, trabados; sus pasos tropiezan y se atropellan; grabado el aviso, borrado el ciervo. [verso oscuro]
+  　　測曰　足纍纍履禍不還也
+  　　→ Pies trabados: pisa la calamidad y no vuelve.
+  上九 (apreciación 9)　過其枯城或蘖青青
+  　　→ Pasando la muralla marchita, algunos brotes verdean, verdean.
+  　　測曰　過其枯城改過更生也
+  　　→ Pasar la muralla marchita: enmienda la falta y renace.
+
+━━━ 首 12 · 𝌑 · 童 (Tóng) · «Juventud» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 4 蒙 «La Necedad Juvenil» · Grados solares 49.5°–54° · Término 立春 (Inicio de la primavera) · Tercio Cielo · Familia yin · 方州部家 1·2·1·3
+首辭　陽氣始窺物僮然咸未有知
+　　→ El aliento yang empieza a asomarse; los seres, pueriles, aún nada saben.
+  初一 (apreciación 1)　顓童不寤會我蒙昏
+  　　→ Niño obtuso, sin despertar; me encuentra en la penumbra confusa.
+  　　測曰　童不寤恐終晦也
+  　　→ El niño que no despierta: teme acabar en tinieblas.
+  次二 (apreciación 2)　錯于靈蓍焯于龜資出泥入脂
+  　　→ Consulta la aquilea numinosa, quema el caparazón; su caudal sale del fango y entra en la grasa.
+  　　測曰　錯蓍焯龜比光道也
+  　　→ Consultar aquilea y tortuga: se acerca al camino luminoso.
+  次三 (apreciación 3)　東辰以明不能以行
+  　　→ Los astros del este dan luz, mas no se puede andar por ellos.
+  　　測曰　東辰以明奚不逝也
+  　　→ Los astros del este alumbran: ¿por qué no ponerse en marcha?
+  次四 (apreciación 4)　或後前夫先錫之光
+  　　→ Alguno viene detrás; el hombre que va delante le concede primero la luz.
+  　　測曰　或後前夫先光大也
+  　　→ Alguno detrás: la luz del que precede es grande.
+  次五 (apreciación 5)　蒙柴求兕其德不美
+  　　→ A ciegas en la maleza, cazando el rinoceronte; su virtud no es bella. [verso oscuro]
+  　　測曰　蒙柴求兕得不慶也
+  　　→ Cazar a ciegas el rinoceronte: lo que gana no da alegría.
+  次六 (apreciación 6)　大開帷幕以引方客
+  　　→ Abre de par en par los cortinajes para atraer huéspedes de toda parte.
+  　　測曰　大開帷幕覽眾明也
+  　　→ Abrir los cortinajes: contempla a muchos hombres claros.
+  次七 (apreciación 7)　脩侏侏比于朱儒
+  　　→ Se cultiva a lo enano, enano; como un bufón diminuto. [verso oscuro]
+  　　測曰　侏侏之脩無可為也
+  　　→ Ese cultivo enano: nada puede hacerse con él.
+  次八 (apreciación 8)　或擊之或刺之修其玄鑒渝
+  　　→ Unos lo golpean, otros lo hieren; pule su espejo oscuro, y muda. [verso oscuro]
+  　　測曰　擊之刺之過以衰也
+  　　→ Golpearlo y herirlo: por exceso, decae.
+  上九 (apreciación 9)　童麋觸犀灰其首
+  　　→ El alce joven embiste al rinoceronte; su cabeza queda hecha ceniza.
+  　　測曰　童麋觸犀還自纍也
+  　　→ El alce que embiste al rinoceronte: sólo se arruina a sí mismo.
+
+━━━ 首 13 · 𝌒 · 増 (Zēng) · «Aumento» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 42 益 «El Aumento» · Grados solares 54°–58.5° · Término 雨水 (Agua de lluvia) · Tercio Cielo · Familia yang · 方州部家 1·2·2·1
+首辭　陽氣蕃息物則增益日宣而殖
+　　→ El aliento yang prolifera; los seres aumentan; día a día se despliegan y se multiplican.
+  初一 (apreciación 1)　聞貞增默外人不得
+  　　→ Oye la rectitud, crece en silencio; los de afuera nada obtienen.
+  　　測曰　聞貞增默識內也
+  　　→ Crecer callado: el saber se guarda dentro.
+  次二 (apreciación 2)　不增其方而增其光冥
+  　　→ No acrecienta su sustancia, sino su brillo: y a oscuras.
+  　　測曰　不增其方徒飾外也
+  　　→ No acrecentar la sustancia: sólo adorna lo de fuera.
+  次三 (apreciación 3)　木以止漸增
+  　　→ El árbol, por la quietud, crece poco a poco.
+  　　測曰　木止漸增不可蓋也
+  　　→ El árbol que crece quieto: no se le puede tapar.
+  次四 (apreciación 4)　要不克或增之戴
+  　　→ La cintura no aguanta; y aun así alguno le añade más carga. [verso oscuro]
+  　　測曰　要不克可敗也
+  　　→ La cintura que no aguanta: puede venirse abajo.
+  次五 (apreciación 5)　澤庳其容眾潤攸同
+  　　→ El pantano abaja su cuenco; cuantos moja, comparten por igual.
+  　　測曰　澤庳其容謙虛大也
+  　　→ El pantano que se abaja: la humildad vacía es grande.
+  次六 (apreciación 6)　朱車燭分一日增我三千君子慶小人傷
+  　　→ El carro bermejo, antorchas al partir; en un día gano tres mil: dicha al noble, daño al hombre pequeño.
+  　　測曰　朱車之增小人不當也
+  　　→ El aumento del carro bermejo: no le corresponde al hombre pequeño.
+  次七 (apreciación 7)　增其高刃其峭丘貞
+  　　→ Acrecienta su altura, afila su escarpa; el cerro, recto.
+  　　測曰　增高刃峭與損皆行也
+  　　→ Altura y escarpa: ganancia y merma van juntas.
+  次八 (apreciación 8)　兼貝以役往益來𨲞
+  　　→ Junta conchas para pagar servicios; al ir, crece; al volver, se pierde. [verso oscuro]
+  　　測曰　兼貝以役前慶後亡也
+  　　→ Juntar conchas para servir: dicha antes, pérdida después.
+  上九 (apreciación 9)　崔嵬不崩賴彼峽崥
+  　　→ El picacho no se desploma, gracias al pie de aquel desfiladero.
+  　　測曰　崔嵬不崩群士㩖㩖也
+  　　→ El picacho que no se desploma: la hueste de hombres lo sostiene firme.
+
+━━━ 首 14 · 𝌓 · 銳 (Ruì) · «Penetración» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 53 漸 «El Progreso Paulatino» · Grados solares 58.5°–63° · Término 雨水 (Agua de lluvia) · Tercio Cielo · Familia yin · 方州部家 1·2·2·2
+首辭　陽氣岑以銳物之生也咸專一而不二
+　　→ El aliento yang se encumbra y aguza; en su nacer, los seres se concentran en lo uno y no en lo doble.
+  初一 (apreciación 1)　蟹之郭索後蚓黃泉
+  　　→ El cangrejo va y viene inquieto; tras la lombriz, hacia las Fuentes Amarillas.
+  　　測曰　蟹之郭索心不一也
+  　　→ El cangrejo inquieto: su corazón no es uno.
+  次二 (apreciación 2)　銳一無不達
+  　　→ Aguzado en lo uno, no hay nada que no alcance.
+  　　測曰　銳一之達執道必也
+  　　→ Alcanzar por lo uno: se aferra a la Vía sin falta.
+  次三 (apreciación 3)　狂銳盪
+  　　→ Aguzado con locura: embate desatado.
+  　　測曰　狂銳之盪不能處一也
+  　　→ Ese embate loco: no sabe morar en lo uno.
+  次四 (apreciación 4)　銳于時無不利
+  　　→ Aguzado en el momento justo: nada le es adverso.
+  　　測曰　銳于時得其適也
+  　　→ Aguzado a tiempo: da con lo oportuno.
+  次五 (apreciación 5)　銳其東忘其西見其背不見其心
+  　　→ Aguzado hacia el este, olvida el oeste; ve la espalda, no ve el corazón.
+  　　測曰　銳東忘西不能迴避也
+  　　→ Aguzar al este y olvidar el oeste: no puede volverse a esquivar.
+  次六 (apreciación 6)　銳于醜含于五軌萬鍾貞
+  　　→ Aguzado entre lo vulgar, contenido en las cinco sendas; diez mil medidas, recto. [verso oscuro]
+  　　測曰　銳于醜福祿不量也
+  　　→ Aguzado entre lo vulgar: dicha y paga sin medida.
+  次七 (apreciación 7)　銳于利忝惡至
+  　　→ Aguzado tras el provecho: llegan la afrenta y el mal.
+  　　測曰　銳于利辱在一方也
+  　　→ Aguzado tras el provecho: la vergüenza queda a un lado.
+  次八 (apreciación 8)　銳其銳救其敗
+  　　→ Aguza su filo para reparar su derrota.
+  　　測曰　銳其銳恐轉作殃也
+  　　→ Aguzar el filo: teme que se vuelva desgracia.
+  上九 (apreciación 9)　陵崢岸峭陁
+  　　→ La cima se encumbra, la ribera escarpada se desmorona.
+  　　測曰　陵崢岸峭銳極必崩也
+  　　→ Cima y ribera escarpadas: el filo en su extremo ha de quebrar.
+
+━━━ 首 15 · 𝌔 · 達 (Dá) · «Alcance» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 11 泰 «La Paz» · Grados solares 63°–67.5° · Término 雨水 (Agua de lluvia) · Tercio Cielo · Familia yang · 方州部家 1·2·2·3
+首辭　陽氣枝枚條出物莫不達
+　　→ El aliento yang brota en ramas y vástagos; no hay ser que no atraviese.
+  初一 (apreciación 1)　中冥獨達迵迵不屈
+  　　→ En la tiniebla central, a solas atraviesa; de parte a parte, sin doblarse.
+  　　測曰　中冥獨達內曉無方也
+  　　→ Atravesar a solas: claridad interior sin confín.
+  次二 (apreciación 2)　迷腹達目
+  　　→ Turbio en el vientre, claro en los ojos.
+  　　測曰　迷腹達目以道不明也
+  　　→ Turbio dentro, claro fuera: la Vía no se aclara.
+  次三 (apreciación 3)　蒼木維流厥美可以達于瓜苞
+  　　→ El árbol glauco junto a la corriente; su hermosura puede alcanzar el racimo del melón. [verso oscuro]
+  　　測曰　蒼木維流內恕以量也
+  　　→ El árbol junto a la corriente: indulgencia interior con mesura.
+  次四 (apreciación 4)　小利小達大迷扁扁不救
+  　　→ Poca ganancia, poco alcance; gran extravío, revoloteando, sin remedio.
+  　　測曰　小達大迷獨曉隅方也
+  　　→ Poco alcance y gran extravío: sólo ve un rincón.
+  次五 (apreciación 5)　達于中衢大小無迷
+  　　→ Alcanza la encrucijada central; grandes y pequeños, ninguno se pierde.
+  　　測曰　達于中衢道四通也
+  　　→ Alcanzar la encrucijada: la vía se abre a los cuatro rumbos.
+  次六 (apreciación 6)　大達無畛不要止洫作否
+  　　→ Gran alcance sin lindes; si no se detiene en el cauce, se vuelve funesto.
+  　　測曰　大達無畛不可偏從也
+  　　→ Gran alcance sin lindes: no seguirlo de un solo lado.
+  次七 (apreciación 7)　達于砭割前亡後賴
+  　　→ Alcanza por el corte de la lanceta; pérdida antes, provecho después.
+  　　測曰　達于砭割終以不廢也
+  　　→ Alcanzar por el corte: al final, no se descarta.
+  次八 (apreciación 8)　迷目達腹
+  　　→ Turbio en los ojos, claro en el vientre.
+  　　測曰　迷目達腹外惑其內也
+  　　→ Turbio afuera, claro adentro: lo de fuera confunde a lo de dentro.
+  上九 (apreciación 9)　達于咎貞終譽
+  　　→ Atraviesa la culpa; recto, alabado al final.
+  　　測曰　達咎終譽善以道退也
+  　　→ Atravesar la culpa: bien está retirarse por la Vía.
+
+━━━ 首 16 · 𝌕 · 交 (Jiāo) · «Contacto» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 11 泰 «La Paz» · Grados solares 67.5°–72° · Término 驚蟄 (Despertar de los insectos) · Tercio Cielo · Familia yin · 方州部家 1·2·3·1
+首辭　陽交於陰陰交於陽物登明堂矞矞皇皇
+　　→ El yang se une al yin, el yin al yang; los seres suben al Salón de la Luz, radiantes y augustos.
+  初一 (apreciación 1)　冥交于神齊不以其貞
+  　　→ A oscuras se une al espíritu; ayuna, mas no con rectitud.
+  　　測曰　冥交不以懷非含慚也
+  　　→ Unión oscura sin rectitud: alberga lo torcido, guarda vergüenza.
+  次二 (apreciación 2)　冥交有孚明如
+  　　→ A oscuras se une, con sinceridad; ¡qué claridad!
+  　　測曰　冥交之孚信接神明也
+  　　→ La sinceridad de la unión oscura: la fe empalma con los númenes.
+  次三 (apreciación 3)　交于木石
+  　　→ Se une con leño y piedra.
+  　　測曰　交于木石不能嚮人也
+  　　→ Unirse a leño y piedra: no puede volverse hacia los hombres.
+  次四 (apreciación 4)　往來熏熏得亡之門
+  　　→ Yendo y viniendo, cálido y radiante: la puerta del ganar y el perder.
+  　　測曰　往來熏熏與神交行也
+  　　→ Ir y venir radiante: se mueve en trato con el espíritu.
+  次五 (apreciación 5)　交于鸎猩不獲其榮
+  　　→ Se une con oropéndola y mono; no logra su gloria. [verso oscuro]
+  　　測曰　交于鸎猩鳥獸同方也
+  　　→ Unirse a oropéndola y mono: aves y bestias de una misma laya.
+  次六 (apreciación 6)　大圈閎閎小圈交之我有靈殽與爾殽之
+  　　→ El gran círculo, vasto; el pequeño lo toca; tengo manjar numinoso y contigo lo comparto. [verso oscuro]
+  　　測曰　大小之交待賢煥光也
+  　　→ El trato de grande y pequeño: aguarda al digno, y la luz resplandece.
+  次七 (apreciación 7)　交于鳥鼠費其資黍
+  　　→ Se une con pájaros y ratas; malgasta su reserva de mijo.
+  　　測曰　交于鳥鼠徒費也
+  　　→ Unirse a pájaros y ratas: puro despilfarro.
+  次八 (apreciación 8)　戈矛往來以其貞不悔
+  　　→ Lanza y pica van y vienen; por su rectitud, sin arrepentimiento.
+  　　測曰　戈矛往來征不可廢也
+  　　→ Lanza y pica que van y vienen: la campaña no puede abandonarse.
+  上九 (apreciación 9)　交于戰伐不貞覆于城猛則噉
+  　　→ Se une en la guerra; sin rectitud, vuelca ante la muralla; feroz, será devorado.
+  　　測曰　交于戰伐奚可遂也
+  　　→ Unirse en la guerra: ¿cómo va a salir bien?
+
+━━━ 首 17 · 𝌖 · 䎡 (Ruǎn) · «Contención» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 5 需 «La Espera» · Grados solares 72°–76.5° · Término 驚蟄 (Despertar de los insectos) · Tercio Cielo · Familia yang · 方州部家 1·2·3·2
+首辭　陽氣能剛能柔能作能休見難而縮
+　　→ El aliento yang puede ser duro o blando, obrar o descansar; al ver la dificultad, se encoge.
+  初一 (apreciación 1)　赤卉方銳利進以退
+  　　→ La planta roja apenas aguzada; propicio avanzar retrocediendo.
+  　　測曰　赤卉方銳退以動也
+  　　→ La planta roja aguzada: se mueve retrocediendo.
+  次二 (apreciación 2)　耎其心作疾
+  　　→ Ablanda su corazón; brota la dolencia.
+  　　測曰　耎其心中無勇也
+  　　→ Ablandar el corazón: no hay coraje dentro.
+  次三 (apreciación 3)　耎其䣛守其節雖勿肆終無拂
+  　　→ Ablanda su rodilla, guarda su mesura; aunque no se suelte, al fin nada lo contraría.
+  　　測曰　耎其䣛體不可肆也
+  　　→ Ablandar la rodilla: el cuerpo no debe soltarse.
+  次四 (apreciación 4)　耎其哇三歲不噣
+  　　→ Ablanda su graznido; tres años no pía. [verso oscuro]
+  　　測曰　耎哇不噣時數失也
+  　　→ Graznido ablandado que no pía: pierde la cuenta de los tiempos.
+  次五 (apreciación 5)　黃菌不誕俟于慶雲
+  　　→ El hongo amarillo no brota; aguarda la nube propicia.
+  　　測曰　黃菌不誕俟逑耦也
+  　　→ El hongo que no brota: aguarda a su pareja.
+  次六 (apreciación 6)　縮失時或承之菑
+  　　→ Se encoge y pierde el momento; alguno hereda por ello la calamidad.
+  　　測曰　縮失時坐逋後也
+  　　→ Encogerse a destiempo: se queda ocioso y rezagado.
+  次七 (apreciación 7)　詘其節執其術共所歾
+  　　→ Dobla su articulación, se atiene a su arte; juntos hasta el fin.
+  　　測曰　詘節共歾內有主也
+  　　→ Doblar la articulación juntos hasta el fin: dentro hay un dueño.
+  次八 (apreciación 8)　窾枯木丁衝振其枝小人有耎三郄鉤羅
+  　　→ El árbol hueco y seco, golpeado de frente, sacude sus ramas; el hombre pequeño tiene su flaqueza; tres grietas, una red con garfios. [verso oscuro]
+  　　測曰　窾木之振小人見侮也
+  　　→ El árbol hueco sacudido: al hombre pequeño lo desprecian.
+  上九 (apreciación 9)　悔縮往去來復
+  　　→ Pesar y encogimiento; se va, se aleja, y vuelve.
+  　　測曰　悔縮之復得在後也
+  　　→ El retorno tras encogerse: se gana al final.
+
+━━━ 首 18 · 𝌗 · 傒 (Xī) · «Espera» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 5 需 «La Espera» · Grados solares 76.5°–81° · Término 驚蟄 (Despertar de los insectos) · Tercio Cielo · Familia yin · 方州部家 1·2·3·3
+首辭　陽氣有傒可以進而進物咸得其願
+　　→ El aliento yang tiene en qué aguardar; puede avanzar, y avanza; los seres logran su deseo.
+  初一 (apreciación 1)　冥賊傒天凶
+  　　→ A oscuras, un malhechor aguarda al Cielo: funesto.
+  　　測曰　冥賊之傒時無吉也
+  　　→ La espera del malhechor oscuro: no hay momento propicio.
+  次二 (apreciación 2)　冥德傒天昌
+  　　→ La virtud oculta aguarda al Cielo: florecimiento.
+  　　測曰　冥德之傒昌將日也
+  　　→ La espera de la virtud oculta: florece con cada día.
+  次三 (apreciación 3)　傒後時
+  　　→ Aguarda, y se rezaga del tiempo.
+  　　測曰　傒而後之解也
+  　　→ Aguardar y rezagarse: se afloja.
+  次四 (apreciación 4)　詘其角直其足維以傒穀
+  　　→ Dobla su cuerno, endereza sus patas, sólo para aguardar la buena fortuna.
+  　　測曰　屈角直足不伎剌也
+  　　→ Cuerno doblado y patas rectas: sin torcedura ni choque.
+  次五 (apreciación 5)　大爵集于宮庸小人庳傒空
+  　　→ Grandes gorriones se juntan en el muro del palacio; el hombre pequeño, humilde, aguarda en vano.
+  　　測曰　宮庸之爵不可空得也
+  　　→ El gorrión del muro palaciego: no se logra de balde.
+  次六 (apreciación 6)　傒福貞貞食于金
+  　　→ Aguarda la dicha, recto, recto; se nutre del metal.
+  　　測曰　傒福貞貞正可服也
+  　　→ Aguardar la dicha con rectitud: en lo recto se puede confiar.
+  次七 (apreciación 7)　傒禍介介凶人之郵
+  　　→ Aguarda la desgracia, inquieto, inquieto: es la posta del hombre aciago.
+  　　測曰　傒禍介介與禍期也
+  　　→ Aguardar la desgracia inquieto: tiene cita con la calamidad.
+  次八 (apreciación 8)　不禍禍傒天活我
+  　　→ Sin desgracia, la desgracia acecha; el Cielo me mantiene vivo.
+  　　測曰　禍不禍非厥訧也
+  　　→ Desgracia que no es desgracia: no es culpa suya.
+  上九 (apreciación 9)　傒尪尪天撲之顙
+  　　→ Aguarda, tullido, tullido; el Cielo le golpea la frente.
+  　　測曰　傒尪之撲終不可治也
+  　　→ El golpe al que aguarda tullido: al fin no tiene cura.
+
+━━━ 首 19 · 𝌘 · 從 (Cóng) · «Seguimiento» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 17 隨 «El Seguimiento» · Grados solares 81°–85.5° · Término 驚蟄 (Despertar de los insectos) · Tercio Cielo · Familia yang · 方州部家 1·3·1·1
+首辭　陽躍于淵于澤于田于嶽物企其足
+　　→ El yang salta en el abismo, en el pantano, en el campo, en el monte; los seres se alzan de puntillas.
+  初一 (apreciación 1)　日幽嬪之月冥隨之基
+  　　→ El sol en penumbra, la luna su consorte; a oscuras lo sigue: el cimiento.
+  　　測曰　日嬪月隨臣應基也
+  　　→ Sol-consorte, luna que sigue: el ministro responde; el cimiento.
+  次二 (apreciación 2)　方出旭旭朋從爾醜
+  　　→ Apenas sale, radiante, radiante; los amigos te siguen a ti y a los tuyos.
+  　　測曰　方出朋從不知所之也
+  　　→ Apenas salir y ser seguido: no sabe adónde va.
+  次三 (apreciación 3)　人不攻之自牽從之
+  　　→ Los hombres no lo combaten; de suyo se deja llevar y seguir.
+  　　測曰　人不攻之自然證也
+  　　→ Que no lo combatan: prueba de lo natural.
+  次四 (apreciación 4)　鳴從不臧有女承其血匡亡
+  　　→ Seguir el reclamo no es bueno; hay una mujer que recoge su sangre; la cesta se pierde. [verso oscuro]
+  　　測曰　鳴從之亡奚足朋也
+  　　→ La pérdida de seguir el reclamo: ¿qué compañía es esa?
+  次五 (apreciación 5)　從水之科滿
+  　　→ Sigue el agua a la hondonada, y la colma.
+  　　測曰　從水滿科不自越也
+  　　→ Seguir el agua que colma la hondonada: no se rebasa a sí misma.
+  次六 (apreciación 6)　從其目失其腹
+  　　→ Sigue a sus ojos, pierde su vientre.
+  　　測曰　從目失腹欲丕從也
+  　　→ Seguir los ojos y perder el vientre: querer seguir en exceso.
+  次七 (apreciación 7)　拂其惡從其淑雄黃食肉
+  　　→ Aparta lo malo, sigue lo bueno; realgar que devora la carne (que cura). [verso oscuro]
+  　　測曰　拂惡從淑救凶也
+  　　→ Apartar lo malo y seguir lo bueno: se salva del infortunio.
+  次八 (apreciación 8)　從不淑禍飛不逐
+  　　→ Sigue lo insano; la desgracia vuela y no se ahuyenta.
+  　　測曰　從不淑禍不可訟也
+  　　→ Seguir lo insano: la desgracia no se puede pleitear.
+  上九 (apreciación 9)　從徽徽後乃登于階終
+  　　→ Sigue, espléndido, espléndido; luego sube por fin los peldaños, hasta el final.
+  　　測曰　從徽徽後得功也
+  　　→ Seguir con esplendor: al fin cobra mérito.
+
+━━━ 首 20 · 𝌙 · 進 (Jìn) · «Avance» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 35 晉 «El Progreso» · Grados solares 85.5°–90° · Término 春分 (Equinoccio de primavera) · Tercio Cielo · Familia yin · 方州部家 1·3·1·2
+首辭　陽引而進物出溱溱開明而前
+　　→ El yang tira y avanza; los seres salen en tropel, abriéndose a la luz, hacia adelante.
+  初一 (apreciación 1)　冥進否作退母
+  　　→ A oscuras avanza: no; hace del retroceso su madre.
+  　　測曰　冥進否邪作退也
+  　　→ Avance oscuro que no: torcido, retrocede.
+  次二 (apreciación 2)　進以中刑大人獨見
+  　　→ Avanza por el castigo central; sólo el gran hombre lo ve.
+  　　測曰　進以中刑刑不可外也
+  　　→ Avanzar por el castigo central: el castigo no debe salir afuera.
+  次三 (apreciación 3)　狂章章不得中行
+  　　→ Loco y ostentoso, ostentoso; no da con el andar del medio.
+  　　測曰　狂章章進不中也
+  　　→ Loco y ostentoso: avanza fuera del centro.
+  次四 (apreciación 4)　日飛懸陰萬物融融
+  　　→ El sol vuela, suspendido sobre la sombra; los diez mil seres, tibios, se funden.
+  　　測曰　日飛懸陰君道隆也
+  　　→ El sol suspendido sobre la sombra: la vía del soberano se ensalza.
+  次五 (apreciación 5)　進以欋䟽或杖之扶
+  　　→ Avanza con rastrillo y grada; alguno lo sostiene con un báculo. [verso oscuro]
+  　　測曰　進以欋䟽制于宗也
+  　　→ Avanzar con rastrillo: gobernado por el jefe del linaje.
+  次六 (apreciación 6)　進以高明受祉無疆
+  　　→ Avanza con alta claridad; recibe bendición sin confín.
+  　　測曰　進以高明其道迂也
+  　　→ Avanzar con alta claridad: pero su camino da rodeos.
+  次七 (apreciación 7)　進非其以聽咎窒耳
+  　　→ Avanza por medios impropios; al oír las faltas, se tapa los oídos.
+  　　測曰　進非其以毀滋章也
+  　　→ Avanzar por medios impropios: la ruina se hace más patente.
+  次八 (apreciación 8)　進于淵君子用舩
+  　　→ Avanza hacia el abismo; el noble se vale de la barca.
+  　　測曰　進淵且舩以道行也
+  　　→ Avanzar al abismo en barca: procede según la Vía.
+  上九 (apreciación 9)　逆憑山川三歲不還
+  　　→ A contracorriente, desafiando montes y ríos; tres años sin volver.
+  　　測曰　逆憑山川終不可長也
+  　　→ Desafiar montes y ríos: al final no puede durar.
+
+━━━ 首 21 · 𝌚 · 釋 (Shì) · «Liberación» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 40 解 «La Liberación» · Grados solares 90°–94.5° · Término 春分 (Equinoccio de primavera) · Tercio Cielo · Familia yang · 方州部家 1·3·1·3 · Equinoccio de primavera (zona)
+首辭　陽氣和震圜煦釋物咸稅其枯而解其甲
+　　→ El aliento yang concuerda y estremece; con tibieza en redondo deshiela a los seres; todos mudan su marchitez y sueltan su coraza.
+  初一 (apreciación 1)　動而無名酋
+  　　→ Se mueve, mas sin nombre: ya maduro. [verso oscuro]
+  　　測曰　動而無名不可得名也
+  　　→ Moverse sin nombre: no se le puede nombrar.
+  次二 (apreciación 2)　動于響景
+  　　→ Se mueve en el eco y la sombra.
+  　　測曰　動于響景不足觀聽也
+  　　→ Moverse en eco y sombra: no hay qué ver ni qué oír.
+  次三 (apreciación 3)　風動雷興從其高崇
+  　　→ El viento se agita, el trueno se alza; sigue lo alto y encumbrado.
+  　　測曰　風動雷興動有為也
+  　　→ Viento y trueno que se alzan: movimiento con obra.
+  次四 (apreciación 4)　動之丘陵失澤朋
+  　　→ Lo mueve hacia las colinas; pierde a los compañeros del pantano.
+  　　測曰　動之丘陵失下危也
+  　　→ Moverlo a las colinas: pierde a los de abajo—peligro.
+  次五 (apreciación 5)　和釋之脂四國之夷
+  　　→ La unción del deshielo armonioso; la paz de los cuatro reinos.
+  　　測曰　和釋之脂民說無疆也
+  　　→ La unción del deshielo: el gozo del pueblo sin confín.
+  次六 (apreciación 6)　震于廷喪其和貞
+  　　→ Trueno en la corte; pierde su concordia y su rectitud.
+  　　測曰　震于廷和正俱亡也
+  　　→ Trueno en la corte: concordia y rectitud, ambas perdidas.
+  次七 (apreciación 7)　震震不侮濯漱其詬
+  　　→ Tronando y tronando, sin ultraje; lava y enjuaga su afrenta.
+  　　測曰　震震不侮解恥無方也
+  　　→ Tronar sin ultraje: disolver la afrenta sin límite.
+  次八 (apreciación 8)　震于利巔仆死
+  　　→ Truena tras el provecho; en la cima, se desploma y muere.
+  　　測曰　震于利與死偕行也
+  　　→ Tronar tras el provecho: camina de la mano con la muerte.
+  上九 (apreciación 9)　今獄後穀終說桎梏
+  　　→ Hoy la cárcel, mañana la fortuna; al fin se libra de los grillos.
+  　　測曰　今獄後穀于彼釋殃也
+  　　→ Cárcel hoy y fortuna después: allí se libera la desdicha.
+
+━━━ 首 22 · 𝌛 · 格 (Gé) · «Resistencia» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 34 大壯 «El Poder de lo Grande» · Grados solares 94.5°–99° · Término 春分 (Equinoccio de primavera) · Tercio Cielo · Familia yin · 方州部家 1·3·2·1
+首辭　陽氣內壯能格乎群陰攘而郄之
+　　→ El aliento yang, robusto por dentro, sabe resistir a la muchedumbre yin; la rechaza y la repele.
+  初一 (apreciación 1)　格內善失貞類
+  　　→ Resiste dentro lo bueno; pierde la casta recta.
+  　　測曰　格內善中不省也
+  　　→ Resistir dentro lo bueno: el centro no se examina.
+  次二 (apreciación 2)　格內惡幽貞
+  　　→ Resiste dentro lo malo; rectitud oculta.
+  　　測曰　格內惡幽貞妙也
+  　　→ Resistir dentro lo malo: rectitud oculta y sutil.
+  次三 (apreciación 3)　裳格鞶鉤渝
+  　　→ La falda resiste; la hebilla del cinto muda. [verso oscuro]
+  　　測曰　裳格鞶鉤無以制也
+  　　→ La falda que resiste: nada con qué gobernarla.
+  次四 (apreciación 4)　畢格禽鳥之貞
+  　　→ La red atrapa las aves: su rectitud.
+  　　測曰　畢格禽正法位也
+  　　→ La red que atrapa: la justa posición de la ley.
+  次五 (apreciación 5)　膠漆釋弓不射角木離
+  　　→ Cola y laca sueltas; el arco no dispara; cuerno y madera se separan.
+  　　測曰　膠漆釋信不結也
+  　　→ Cola y laca sueltas: la confianza no traba.
+  次六 (apreciación 6)　息金消石往小來奕
+  　　→ El metal crece, la piedra se disuelve; va lo pequeño, viene lo grande.
+  　　測曰　息金消石美日大也
+  　　→ Metal que crece, piedra que mengua: lo bello aumenta día a día.
+  次七 (apreciación 7)　格其珍類龜緺厲
+  　　→ Resiste su casta preciosa; el cordón de la tortuga: peligro. [verso oscuro]
+  　　測曰　格其珍類無以自匡也
+  　　→ Resistir lo precioso: nada con qué enderezarse.
+  次八 (apreciación 8)　格彼鞶堅君子得時小人𨲞憂否
+  　　→ Resiste aquel cinto firme; el noble halla su hora, el hombre pequeño se pierde en la inquietud: no. [verso oscuro]
+  　　測曰　格彼鞶堅誼不得行也
+  　　→ Resistir el cinto firme: la equidad no puede obrar.
+  上九 (apreciación 9)　郭其目䚩其角不庳其體撲
+  　　→ Abre grandes los ojos, aguza los cuernos; sin abajar el cuerpo, cae abatido. [verso oscuro]
+  　　測曰　郭目䚩角還自傷也
+  　　→ Ojos abiertos y cuernos aguzados: sólo se hiere a sí mismo.
+
+━━━ 首 23 · 𝌜 · 夷 (Yí) · «Holgura» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 16 豫 «El Entusiasmo» · Grados solares 99°–103.5° · Término 清明 (Claridad pura) · Tercio Cielo · Familia yang · 方州部家 1·3·2·2
+首辭　陽氣傷𨲞陰無救瘣物則平易
+　　→ El aliento yang herido, el yin sin remedio a su mal; los seres entonces se allanan y se vuelven fáciles.
+  初一 (apreciación 1)　載幽貳執夷內
+  　　→ Sobrelleva la duda oculta; mantiene lo llano por dentro.
+  　　測曰　載幽執夷易其內也
+  　　→ Mantener lo llano: se allana por dentro.
+  次二 (apreciación 2)　陰夷冒于天罔
+  　　→ El yin se allana, cubierto por la red del Cielo.
+  　　測曰　陰夷冒罔䟽不失也
+  　　→ El yin bajo la red: holgado, y nada pierde.
+  次三 (apreciación 3)　柔嬰兒于號三日不嗄
+  　　→ Tierno el niño de pecho en su llanto; tres días, y no enronquece.
+  　　測曰　嬰兒于號中心和也
+  　　→ El niño que llora: su corazón íntimo está en concordia.
+  次四 (apreciación 4)　夷其牙或飫之徒
+  　　→ Embota sus dientes; alguno se atraca en balde. [verso oscuro]
+  　　測曰　夷其牙食不足嘉也
+  　　→ Embotar los dientes: ese comer no es de alabar.
+  次五 (apreciación 5)　中夷無不利
+  　　→ Lo llano del centro: nada le es adverso.
+  　　測曰　中夷之利其道多也
+  　　→ El provecho de lo llano central: sus caminos son muchos.
+  次六 (apreciación 6)　夷于廬其宅丘虛
+  　　→ Arrasado en su choza; su morada, un túmulo hueco.
+  　　測曰　夷于廬厥德亡也
+  　　→ Arrasado en la choza: su virtud se ha perdido.
+  次七 (apreciación 7)　榦柔榦弱離木艾金夷
+  　　→ El tronco blando, el tronco débil; parte la madera, siega el metal: allanado. [verso oscuro]
+  　　測曰　榦柔艾金弱勝彊也
+  　　→ Tronco blando que siega el metal: lo débil vence a lo fuerte.
+  次八 (apreciación 8)　夷其角厲
+  　　→ Rompe su cuerno: peligro.
+  　　測曰　夷其角以威傷也
+  　　→ Romper el cuerno: herido por su propia fuerza.
+  上九 (apreciación 9)　夷于耇利敬病年貞
+  　　→ Achacoso en la vejez; propicio el respeto; enfermo de años, recto.
+  　　測曰　夷耇之貞懸車鄉也
+  　　→ La rectitud del anciano: cuelga el carro y se retira a la aldea.
+
+━━━ 首 24 · 𝌝 · 樂 (Lè) · «Gozo» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 16 豫 «El Entusiasmo» · Grados solares 103.5°–108° · Término 清明 (Claridad pura) · Tercio Cielo · Familia yin · 方州部家 1·3·2·3
+首辭　陽始出奧舒疊得以和淖物咸喜樂
+　　→ El yang empieza a salir de lo recóndito; se despliega y se remansa en concordia blanda; los seres todos se alegran.
+  初一 (apreciación 1)　獨樂款款及不遠
+  　　→ Goza a solas, afanoso, afanoso; no llega lejos.
+  　　測曰　獨樂款款淫其內也
+  　　→ Gozar a solas: exceso por dentro.
+  次二 (apreciación 2)　樂不知辰于天
+  　　→ Goza sin saber la hora del Cielo.
+  　　測曰　樂不可知以時歲也
+  　　→ Un gozo que no se sabe: no se cuenta por las estaciones del año.
+  次三 (apreciación 3)　不宴不雅𠹑呱啞咋號咷倚戶
+  　　→ Ni banquete ni decoro; balbuceos, chillidos, alaridos, recostado en la puerta. [verso oscuro]
+  　　測曰　不宴不雅禮樂廢也
+  　　→ Ni banquete ni decoro: rito y música en ruinas.
+  次四 (apreciación 4)　拂其繫絕其纗佚厥心
+  　　→ Sacude sus ataduras, corta su cordel; libera su corazón.
+  　　測曰　拂繫絕纗心誠快也
+  　　→ Cortar las ataduras: el corazón se alegra de veras.
+  次五 (apreciación 5)　鍾鼓喈喈管絃嚌嚌或承之衰
+  　　→ Campanas y tambores, sonoros; flautas y cuerdas, vibrantes; mas alguno hereda el declive.
+  　　測曰　鍾鼓喈喈樂後悲也
+  　　→ Campanas y tambores sonoros: tras el gozo, la pena.
+  次六 (apreciación 6)　大樂無間民神禽鳥之般
+  　　→ Gran gozo sin resquicio: el deleite de pueblo, númenes, aves y bestias.
+  　　測曰　大樂無間無不懷也
+  　　→ Gran gozo sin resquicio: a todos abriga.
+  次七 (apreciación 7)　人嘻鬼嘻天要之期
+  　　→ Ríen los hombres, ríen los espíritus; el Cielo fija el plazo acordado.
+  　　測曰　人嘻鬼嘻稱樂畢也
+  　　→ Ríen hombres y espíritus: el gozo proclamado se acaba.
+  次八 (apreciación 8)　嘻嘻自懼亡彼愆虞
+  　　→ Alegre, alegre, mas temiendo por sí; deja caer su cuita errada. [verso oscuro]
+  　　測曰　嘻嘻自懼終自保也
+  　　→ Alegre y temeroso: al fin se guarda a sí mismo.
+  上九 (apreciación 9)　極樂之幾不移日而悲則哭泣之𨲠資
+  　　→ El filo del gozo extremo; sin mudar el día, la pena; y luego el precio del llanto. [verso oscuro]
+  　　測曰　極樂之幾信可悔也
+  　　→ El filo del gozo extremo: de veras es de lamentar.
+
+━━━ 首 25 · 𝌞 · 爭 (Zhēng) · «Disputa» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 6 訟 «El Conflicto» · Grados solares 108°–112.5° · Término 清明 (Claridad pura) · Tercio Cielo · Familia yang · 方州部家 1·3·3·1
+首辭　陽氣氾施不偏不頗物與爭訟各遵其儀
+　　→ El aliento yang se derrama sin sesgo ni parcialidad; los seres pleitean, cada uno según su norma.
+  初一 (apreciación 1)　爭不爭隱冥
+  　　→ Disputa sin disputar; oculto en la tiniebla.
+  　　測曰　爭不爭道之素也
+  　　→ Disputar sin disputar: la llaneza de la Vía.
+  次二 (apreciación 2)　赫河臞
+  　　→ El río deslumbrante, enjuto. [verso oscuro]
+  　　測曰　赫河之臞何可怙也
+  　　→ El río enjuto: ¿en qué fiarse de él?
+  次三 (apreciación 3)　爭射齦齦
+  　　→ Disputan y se disparan, porfiando, porfiando.
+  　　測曰　爭射誾誾君子讓鄰也
+  　　→ Disputar porfiando: el noble cede a su vecino.
+  次四 (apreciación 4)　爭小利不酋貞
+  　　→ Disputa por poca ganancia; rectitud no cumplida.
+  　　測曰　小利不絕正道乃昏也
+  　　→ Poca ganancia no renunciada: entonces el recto camino se oscurece.
+  次五 (apreciación 5)　爭于逵利以無方
+  　　→ Disputa en la calzada; propicio por no tomar bando.
+  　　測曰　爭于逵爭處中也
+  　　→ Disputar en la calzada: disputa desde el centro.
+  次六 (apreciación 6)　臂膊脛如股腳䐜如維身之疾
+  　　→ Brazo y hombro, la espinilla como el muslo, el pie hinchado: no es más que dolencia del cuerpo.
+  　　測曰　臂脛如股臣大隆也
+  　　→ Espinilla como muslo: el ministro se agranda en exceso.
+  次七 (apreciación 7)　爭干及矛䩜用亨于王前行
+  　　→ Disputa con escudo y lanza, con vaina; usado, ofrecido ante el rey, avanza. [verso oscuro]
+  　　測曰　干矛之爭衛君躬也
+  　　→ La disputa de escudo y lanza: guarda la persona del señor.
+  次八 (apreciación 8)　狼盈口矢在其後
+  　　→ El lobo con la boca llena; la flecha está a su espalda.
+  　　測曰　狼盈口不顧害也
+  　　→ El lobo con la boca llena: ciego al daño.
+  上九 (apreciación 9)　兩虎相牙知掣者全
+  　　→ Dos tigres enseñándose los colmillos; el que sabe contenerse queda entero.
+  　　測曰　兩虎相牙知所制也
+  　　→ Dos tigres frente a frente: sabe dónde refrenarse.
+
+━━━ 首 26 · 𝌟 · 務 (Wù) · «Empeño» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 18 蠱 «El Trabajo en lo Echado a Perder» · Grados solares 112.5°–117° · Término 穀雨 (Lluvia de granos) · Tercio Cielo · Familia yin · 方州部家 1·3·3·2
+首辭　陽氣勉務物咸若其心而揔其事
+　　→ El aliento yang se afana; los seres conforman su corazón y recogen sus asuntos.
+  初一 (apreciación 1)　始務無方小人亦用罔
+  　　→ Empieza el afán sin método; también el hombre pequeño obra en vano.
+  　　測曰　始務無方非小人所理也
+  　　→ Afán sin método al empezar: no es lo que el hombre pequeño gobierna.
+  次二 (apreciación 2)　新鮮自求珍絜精其芳君子攸行
+  　　→ Fresco y nuevo, se busca a sí mismo; atesora pureza, afina su fragancia: es el andar del noble.
+  　　測曰　新鮮自求光于己也
+  　　→ Fresco y nuevo por sí mismo: brilla por su propia obra.
+  次三 (apreciación 3)　不拘不掣其心腐且敗
+  　　→ Ni sujeto ni tirado; su corazón se pudre y se echa a perder.
+  　　測曰　不拘不掣其體不全也
+  　　→ Ni sujeto ni tirado: el cuerpo no está entero.
+  次四 (apreciación 4)　見矢自升利羽之朋蓋戴車載
+  　　→ Ve la flecha alzarse sola; los de pluma prosperan; dosel enarbolado, carro cargado. [verso oscuro]
+  　　測曰　矢及蓋厥道然也
+  　　→ Flecha y dosel: así es su camino.
+  次五 (apreciación 5)　蜘蛛之務不如蠶之緰
+  　　→ El afán de la araña no vale como el hilo del gusano de seda.
+  　　測曰　蜘蛛之務無益人也
+  　　→ El afán de la araña: no aprovecha a los hombres.
+  次六 (apreciación 6)　華實芳若用則臧若
+  　　→ Flor y fruto, fragantes; si se usan, buenos.
+  　　測曰　華芳用臧利當年也
+  　　→ Flor fragante bien usada: provecho para el año presente.
+  次七 (apreciación 7)　喪其芳無攸往
+  　　→ Pierde su fragancia; no hay adónde ir.
+  　　測曰　喪其芳德以衰也
+  　　→ Perder la fragancia: la virtud decae.
+  次八 (apreciación 8)　黃中免于禍貞
+  　　→ El amarillo del centro se libra de la desgracia: recto.
+  　　測曰　黃中免禍和以正也
+  　　→ El justo medio que se libra: concordia por la rectitud.
+  上九 (apreciación 9)　務成自敗雨成自隊
+  　　→ Forzar el logro y arruinarse; la lluvia se forma y cae de suyo.
+  　　測曰　務成自敗非厥命也
+  　　→ Forzar el logro y arruinarse: no es su destino, sino él mismo.
+
+━━━ 首 27 · 𝌠 · 事 (Shì) · «Deberes» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 18 蠱 «El Trabajo en lo Echado a Perder» · Grados solares 117°–121.5° · Término 穀雨 (Lluvia de granos) · Tercio Cielo · Familia yang · 方州部家 1·3·3·3
+首辭　陽氣大勗昭職物則信信各致其力
+　　→ El aliento yang alienta con fuerza y esclarece los deberes; los seres, fieles y fieles, cada uno rinde su esfuerzo.
+  初一 (apreciación 1)　事無事至無不事
+  　　→ Atiende los asuntos sin ajetreo; y así nada queda sin atender.
+  　　測曰　事無事以道行也
+  　　→ Asuntos sin ajetreo: procede por la Vía.
+  次二 (apreciación 2)　事在樞不咨不諏喪其哲符
+  　　→ El asunto en el eje; sin consultar, sin preguntar, pierde su prenda de sabiduría.
+  　　測曰　不咨不諏其知亡也
+  　　→ Sin consultar ni preguntar: su saber se pierde.
+  次三 (apreciación 3)　時往時來間不容氂
+  　　→ El momento va, el momento viene; el intersticio no admite un pelo.
+  　　測曰　時往時來不失趣也
+  　　→ El momento que va y viene: no yerra el propósito.
+  次四 (apreciación 4)　男女事不代之字
+  　　→ Asunto de hombre y mujer, que no se hace por otro. [verso oscuro]
+  　　測曰　男女事非厥務也
+  　　→ Asunto de hombre y mujer: no es su tarea propia.
+  次五 (apreciación 5)　事其事王假之食
+  　　→ Atiende su asunto; el rey le concede el sustento.
+  　　測曰　事其事職所任也
+  　　→ Atender su asunto: el encargo que su oficio sostiene.
+  次六 (apreciación 6)　任大自事方來不救
+  　　→ Carga excesiva y aun así lo hace solo; llega el apuro y no hay salvación.
+  　　測曰　任大自事奚可堪也
+  　　→ Carga excesiva a solas: ¿cómo va a poder con ella?
+  次七 (apreciación 7)　丈人扶孤豎子提壺
+  　　→ El anciano sostiene al huérfano; el mozo carga el jarro.
+  　　測曰　丈人扶孤小子知方也
+  　　→ El anciano que sostiene al huérfano: el mozo aprende el buen rumbo.
+  次八 (apreciación 8)　女男事十年不誨
+  　　→ Asunto de mujer y hombre; diez años sin fruto.
+  　　測曰　女男事終家不亨也
+  　　→ Asunto invertido: al final la casa no prospera.
+  上九 (apreciación 9)　到耳順止事貞
+  　　→ Llega al oído, obedece, se detiene; el asunto, recto. [verso oscuro]
+  　　測曰　到耳順止逆聞順行也
+  　　→ Oído a contrapelo, obrado a favor de pelo.
+
+━━━ 首 28 · 𝌡 · 更 (Gèng) · «Cambio» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 49 革 «La Revolución» · Grados solares 121.5°–126° · Término 穀雨 (Lluvia de granos) · Tercio Tierra · Familia yin · 方州部家 2·1·1·1
+首辭　陽氣既飛變勢易形物改其靈
+　　→ El aliento yang ya vuela; cambia el ímpetu, muda la forma; los seres alteran su numen.
+  初一 (apreciación 1)　冥化否貞若性
+  　　→ Transformación oscura: no; recto, como por naturaleza.
+  　　測曰　冥化否貞少更方也
+  　　→ Transformación oscura: poco cambia su rumbo.
+  次二 (apreciación 2)　時七時九軫轉其道
+  　　→ Ora siete, ora nueve; el eje gira su curso.
+  　　測曰　時七時九不失當也
+  　　→ Ora siete, ora nueve: no yerra lo oportuno.
+  次三 (apreciación 3)　化白于泥淄
+  　　→ Volver blanco en el barro negro. [imposible]
+  　　測曰　化白于泥變不明也
+  　　→ Volver blanco en el barro: el cambio no cuaja.
+  次四 (apreciación 4)　更之小得用無不利
+  　　→ Cámbialo un poco, y gana; usado, nada le es adverso.
+  　　測曰　更之小得民所望也
+  　　→ Cambio pequeño con ganancia: lo que el pueblo anhela.
+  次五 (apreciación 5)　童牛角馬不今不古
+  　　→ Ternero sin cuernos, caballo con cuernos; ni de hoy ni de antaño.
+  　　測曰　童牛角馬變天常也
+  　　→ Ternero y caballo trastocados: altera la constancia del Cielo.
+  次六 (apreciación 6)　入水載車出水載杭宜于王之更
+  　　→ En el agua, usa el carro; fuera del agua, usa la barca; conviene a las reformas del rey.
+  　　測曰　車杭出入其道更也
+  　　→ Carro y barca según entra o sale: su vía es cambiar.
+  次七 (apreciación 7)　更不更以作病
+  　　→ Cambia lo que no debía cambiar, y así engendra la dolencia.
+  　　測曰　更不更不能自臧也
+  　　→ Cambiar lo que no: no puede hacerse bueno a sí mismo.
+  次八 (apreciación 8)　駟馬跙跙而更其御
+  　　→ El tiro de cuatro caballos tropezando; por eso cambia al cochero.
+  　　測曰　駟馬跙跙更御乃良也
+  　　→ El tiro que tropieza: cambiar de cochero es lo bueno.
+  上九 (apreciación 9)　不終其德三歲見代
+  　　→ No lleva su virtud hasta el fin; en tres años lo reemplazan.
+  　　測曰　不終之代不可長也
+  　　→ Relevo del que no persevera: no puede durar.
+
+━━━ 首 29 · 𝌢 · 斷 (Duàn) · «Decisión» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 43 夬 «La Resolución» · Grados solares 126°–130.5° · Término 穀雨 (Lluvia de granos) · Tercio Tierra · Familia yang · 方州部家 2·1·1·2
+首辭　陽氣彊內而剛外動而能有斷決
+　　→ El aliento yang, fuerte por dentro y duro por fuera; al moverse, sabe decidir y resolver.
+  初一 (apreciación 1)　斷心滅斧冥其繩矩
+  　　→ Decide en el corazón, aparta el hacha; interioriza su cuerda y su escuadra.
+  　　測曰　斷心滅斧內自治也
+  　　→ Decidir en el corazón: se gobierna por dentro.
+  次二 (apreciación 2)　冥斷否在塞耳
+  　　→ Decisión oscura: no; está en el oído tapado.
+  　　測曰　冥斷否中心疑也
+  　　→ Decisión oscura: el corazón íntimo duda.
+  次三 (apreciación 3)　決其聾𪖣利以治穢
+  　　→ Despeja su sordera y su nariz tupida; propicio para limpiar la inmundicia.
+  　　測曰　決其聾𪖣利有謀也
+  　　→ Despejar la sordera: propicio tener un plan.
+  次四 (apreciación 4)　斷我否食非其有恥
+  　　→ ¿Cortarme? no; comer lo que no es suyo: vergüenza.
+  　　測曰　斷我否食可恥也
+  　　→ Comer lo ajeno: vergonzoso.
+  次五 (apreciación 5)　大腹決其股脫君子有斷小人以活
+  　　→ El gran vientre cortado, su muslo suelto; el noble tiene resolución, el hombre pequeño así vive. [verso oscuro]
+  　　測曰　太腹決脫斷得理也
+  　　→ Cortar y soltar: decidir da con el principio.
+  次六 (apreciación 6)　決不決爾仇不闊乃後有鉞
+  　　→ Decide lo que no debía; tu enemigo no está lejos; luego, después, viene el hacha.
+  　　測曰　決不決辜及身也
+  　　→ Decidir lo que no: la culpa alcanza a la persona.
+  次七 (apreciación 7)　庚斷甲我心孔碩乃後有鑠
+  　　→ El metal corta la coraza; mi corazón muy grande; luego, después, viene la fundición. [verso oscuro]
+  　　測曰　庚斷甲義斷仁也
+  　　→ El metal que corta lo primero: la justicia corta a la clemencia.
+  次八 (apreciación 8)　勇侏之傠盜蒙決夬
+  　　→ La bravata del enano valiente; el ladrón en lo oscuro decide sin freno. [verso oscuro]
+  　　測曰　盜蒙之決妄斷也
+  　　→ La decisión del ladrón: un fallo temerario.
+  上九 (apreciación 9)　斧刃蛾蛾利匠人之貞
+  　　→ El filo del hacha, fino y agudo; propicio a la rectitud del artesano.
+  　　測曰　蛾蛾之斧利征亂也
+  　　→ El hacha fina y aguda: propicia para batir el desorden.
+
+━━━ 首 30 · 𝌣 · 毅 (Yì) · «Resolución Audaz» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 43 夬 «La Resolución» · Grados solares 130.5°–135° · Término 立夏 (Inicio del verano) · Tercio Tierra · Familia yin · 方州部家 2·1·1·3
+首辭　陽氣方良毅然敢行物信其志
+　　→ El aliento yang en su buen punto; con audacia se atreve a obrar; los seres confían en su voluntad.
+  初一 (apreciación 1)　懷威滿虛
+  　　→ Alberga fiereza, colmando el vacío.
+  　　測曰　懷威滿虛道德亡也
+  　　→ Fiereza que colma el vacío: la Vía y la virtud se pierden.
+  次二 (apreciación 2)　毅于心腹貞
+  　　→ Audaz en el corazón y el vientre: recto.
+  　　測曰　毅于心腹內堅剛也
+  　　→ Audaz en corazón y vientre: firme y duro por dentro.
+  次三 (apreciación 3)　戴威滿頭君子不足小人有餘
+  　　→ Lleva la fiereza colmándole la cabeza; el noble se queda corto, el hombre pequeño le sobra.
+  　　測曰　戴威滿頭小人所長也
+  　　→ Fiereza que colma la cabeza: el fuerte del hombre pequeño.
+  次四 (apreciación 4)　君子說器其言柔且毅
+  　　→ El noble expone la cosa; su palabra, blanda y a la vez firme.
+  　　測曰　君子說器言有方也
+  　　→ El noble que expone: su palabra tiene método.
+  次五 (apreciación 5)　不田而穀毅于揀祿
+  　　→ Sin labrar, tiene grano; audaz en escoger su paga.
+  　　測曰　不田而穀食不當也
+  　　→ Grano sin labrar: el sustento no le corresponde.
+  次六 (apreciación 6)　毅于棟柱利安大主
+  　　→ Firme como viga y pilar; propicio para asentar al gran señor.
+  　　測曰　毅于棟柱國任彊也
+  　　→ Firme como viga y pilar: el encargo del reino es fuerte.
+  次七 (apreciación 7)　觥羊之毅鳴不類
+  　　→ La audacia del carnero de gran cuerno; su bramido no es de su casta.
+  　　測曰　觥羊之毅言不法也
+  　　→ La audacia del carnero: sus palabras sin ley.
+  次八 (apreciación 8)　毅于禍貞君子攸名
+  　　→ Firme en la desgracia, recto: el renombre del noble.
+  　　測曰　毅于禍貞不可幽蔀也
+  　　→ Firme y recto en la desgracia: no se le puede ensombrecer.
+  上九 (apreciación 9)　豨毅其牙發以張弧
+  　　→ El jabalí saca audaz su colmillo; se lanza, y se tensa el arco.
+  　　測曰　豨毅其牙吏所獵也
+  　　→ El jabalí que saca el colmillo: lo que caza el montero.
+
+━━━ 首 31 · 𝌤 · 裝 (Zhuāng) · «Reunir» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 56 旅 «El Andariego» · Grados solares 135°–139.5° · Término 立夏 (Inicio del verano) · Tercio Tierra · Familia yang · 方州部家 2·1·2·1
+首辭　陽氣雖大用事微陰據下裝而欲去
+　　→ Aunque el aliento yang es grande, su obra ya es tenue; el yin ocupa lo bajo; hace el equipaje y quiere partir.
+  初一 (apreciación 1)　幽裝莫見之行
+  　　→ Hace el equipaje en secreto; nadie ve la marcha.
+  　　測曰　幽裝莫見心已外也
+  　　→ Equipaje secreto: el corazón ya está afuera.
+  次二 (apreciación 2)　𪃿鵝慘于冰翼彼南風內懷其乘
+  　　→ El ganso se aflige sobre el hielo, las alas hacia el viento del sur, guardando dentro su partir. [verso oscuro]
+  　　測曰　𪃿鵝之慘懷憂無快也
+  　　→ La aflicción del ganso: guarda pena, sin gozo.
+  次三 (apreciación 3)　往其志或承之喜
+  　　→ Va tras su anhelo; alguno hereda por ello la alegría.
+  　　測曰　往其志遇所快也
+  　　→ Ir tras su anhelo: encuentra lo que lo alegra.
+  次四 (apreciación 4)　鶤雞朝飛踤于北嚶嚶相和不輟食
+  　　→ El ave grande vuela al alba, se posa al norte; piando, piando a coro, sin dejar de comer.
+  　　測曰　鶤雞朝飛何足賴也
+  　　→ El ave que vuela al alba: ¿en qué fiarse de ella?
+  次五 (apreciación 5)　鴻裝于淄飲食頤頤
+  　　→ El cisne se apresta sobre el agua negra, comiendo y bebiendo a sus anchas.
+  　　測曰　鴻裝于淄大將得志也
+  　　→ El cisne que se apresta: el grande alcanzará su anhelo.
+  次六 (apreciación 6)　經六衢周九路不限其行賈
+  　　→ Recorre las seis encrucijadas, rodea los nueve caminos; no pone límite a sus viajes de comercio.
+  　　測曰　經六衢商旅事也
+  　　→ Recorrer las seis encrucijadas: el asunto del mercader viajero.
+  次七 (apreciación 7)　裝無㒧利征咎
+  　　→ Hace el equipaje sin compañero; propicio marchar: falta. [verso oscuro]
+  　　測曰　裝無㒧禍且至也
+  　　→ Equipaje sin compañero: la desgracia está por llegar.
+  次八 (apreciación 8)　季仲播軌泣于道用送厥往
+  　　→ El menor y el mediano esparcen las rodadas, llorando en el camino, para despedir su partida.
+  　　測曰　季仲播軌送其死也
+  　　→ Esparcir las rodadas: despiden su muerte.
+  上九 (apreciación 9)　裝于昏
+  　　→ Hace el equipaje al anochecer.
+  　　測曰　裝于昏尚可避也
+  　　→ Equipaje al anochecer: aún se puede evitar.
+
+━━━ 首 32 · 𝌥 · 衆 (Zhòng) · «Legión» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 7 師 «El Ejército» · Grados solares 139.5°–144° · Término 立夏 (Inicio del verano) · Tercio Tierra · Familia yin · 方州部家 2·1·2·2
+首辭　陽氣信高懷齊萬物宣明大眾多
+　　→ El aliento yang, alto de veras, alberga concordia; los diez mil seres se despliegan luminosos; grande es la muchedumbre.
+  初一 (apreciación 1)　冥兵始火入耳農輟馬穀尸將班于田
+  　　→ Tropa oscura que empieza; el fuego entra en el oído; el labrador se detiene, los caballos comen grano; el que carga los muertos los formará en el campo. [verso oscuro]
+  　　測曰　冥兵之始始則不臧也
+  　　→ El comienzo de la tropa oscura: empezar ya no es bueno.
+  次二 (apreciación 2)　兵無刃師無陳麟或賓之溫
+  　　→ Tropa sin filo, hueste sin formación; al unicornio, alguno lo acoge con tibieza.
+  　　測曰　兵無刃德服無方也
+  　　→ Tropa sin filo: la virtud somete sin confín.
+  次三 (apreciación 3)　軍或纍車丈人摧孥內蹈之瑕
+  　　→ El ejército, con los carros enredados; el anciano aplasta a los suyos; pisa por dentro sus tachas.
+  　　測曰　軍或纍車廟戰內傷也
+  　　→ Carros enredados: la guerra en el templo hiere por dentro.
+  次四 (apreciación 4)　虎虓振廞豹勝其祕否
+  　　→ El tigre ruge sacudiéndose; el leopardo vence en secreto: no. [verso oscuro]
+  　　測曰　虎虓振廞如鷹之揚也
+  　　→ El tigre que ruge: como el halcón que se remonta.
+  次五 (apreciación 5)　躆戰喈喈若熊若螭
+  　　→ Agazapado para el combate, clamando; como oso, como dragón sin cuerno.
+  　　測曰　躆戰喈喈恃力作王也
+  　　→ Agazapado y clamando: se fía de la fuerza para hacerse rey.
+  次六 (apreciación 6)　大兵雷霆震其耳維用詘腹
+  　　→ Gran tropa como el trueno, sacude el oído; sólo sirve para doblar el vientre.
+  　　測曰　大兵雷霆威震無疆也
+  　　→ Gran tropa como el trueno: su poder sacude sin confín.
+  次七 (apreciación 7)　旌旗絓羅干戈蛾蛾師孕唁之哭且䁲
+  　　→ Estandartes prendidos en redes, escudos y lanzas finos; la hueste preñada, el llanto del duelo y la mirada fija. [verso oscuro]
+  　　測曰　旌旗絓羅大恨民也
+  　　→ Estandartes prendidos en redes: agravia mucho al pueblo.
+  次八 (apreciación 8)　兵衰衰見其病不見輿尸
+  　　→ Tropa que se apaga, se apaga; se ve su mal, no se ve el carro de cadáveres.
+  　　測曰　兵衰衰不血刃也
+  　　→ Tropa que se apaga: no ensangrienta el filo.
+  上九 (apreciación 9)　斧刃缺其柯折可以止不可以伐往血
+  　　→ El filo del hacha mellado, su mango roto; puede detener, no puede talar; ir es sangre.
+  　　測曰　刃缺柯折將不足往也
+  　　→ Filo mellado y mango roto: al general le falta con qué avanzar.
+
+━━━ 首 33 · 𝌦 · 密 (Mì) · «Cercanía» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 8 比 «La Solidaridad» · Grados solares 144°–148.5° · Término 小滿 (Llenado menor) · Tercio Tierra · Familia yang · 方州部家 2·1·2·3
+首辭　陽氣親天萬物丸蘭咸密無間
+　　→ El aliento yang se allega al Cielo; los diez mil seres se aovillan apretados, todos densos, sin resquicio.
+  初一 (apreciación 1)　窺之無間大幽之門
+  　　→ Escrútalo sin resquicio: la puerta de la Gran Tiniebla.
+  　　測曰　窺之無間密無方也
+  　　→ Escrutar sin resquicio: cercanía sin confín.
+  次二 (apreciación 2)　不密不比我心即次
+  　　→ Ni cerca ni aliado; mi corazón queda en segundo lugar. [verso oscuro]
+  　　測曰　不密不比違厥鄉也
+  　　→ Ni cerca ni aliado: da la espalda a su tierra.
+  次三 (apreciación 3)　密于親利以作人
+  　　→ Cerca de los suyos; propicio para hacer hombres.
+  　　測曰　密于親為利臧也
+  　　→ Cerca de los suyos: obra para bien.
+  次四 (apreciación 4)　密于腥臊三日不覺殽
+  　　→ Cerca de lo rancio y fétido; tres días sin advertir el hedor del manjar.
+  　　測曰　密于腥臊小惡通也
+  　　→ Cerca de lo fétido: el mal pequeño pasa inadvertido.
+  次五 (apreciación 5)　密密不嬪于天
+  　　→ Cerca, cerca, mas no consorte del Cielo. [verso oscuro]
+  　　測曰　密密不並天功也
+  　　→ Cerca, cerca: no iguala la obra del Cielo.
+  次六 (apreciación 6)　大惡之比或益之恤
+  　　→ Aliado del gran mal; alguno le suma su desvelo. [verso oscuro]
+  　　測曰　大惡之比匹異同也
+  　　→ Aliado del gran mal: aparea lo distinto y lo igual.
+  次七 (apreciación 7)　密有口小鰓大君在無後
+  　　→ La cercanía tiene su boca; agallas pequeñas, el gran señor; presente, sin sucesor. [verso oscuro]
+  　　測曰　密口小鰓賴君達也
+  　　→ Boca cercana, agallas pequeñas: se fía del señor para pasar.
+  次八 (apreciación 8)　琢齒依齦三歲無君
+  　　→ Talla los dientes, se aferra a las encías; tres años sin señor.
+  　　測曰　琢齒依齦君自拔也
+  　　→ Tallar los dientes: el señor se arranca a sí mismo.
+  上九 (apreciación 9)　密禍之比先下後得其死
+  　　→ Aliado de una desgracia cercana; baja primero, y luego encuentra su muerte.
+  　　測曰　密禍之比終不可奪也
+  　　→ Aliado de la desgracia cercana: al fin no se le puede arrebatar.
+
+━━━ 首 34 · 𝌧 · 親 (Qīn) · «Parentesco» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 8 比 «La Solidaridad» · Grados solares 148.5°–153° · Término 小滿 (Llenado menor) · Tercio Tierra · Familia yin · 方州部家 2·1·3·1
+首辭　陽方仁愛全真敦篤物咸親睦
+　　→ El yang, benévolo y amante, íntegro y sincero, generoso; los seres todos se hermanan en concordia.
+  初一 (apreciación 1)　親非其膚其志齟齬
+  　　→ Emparentado, mas no hasta la piel; sus voluntades rechinan.
+  　　測曰　親非其膚中心閑也
+  　　→ Emparentado, no hasta la piel: el corazón íntimo está atrancado.
+  次二 (apreciación 2)　孚其肉其志資戚
+  　　→ Confía en la carne; sus voluntades se estrechan en parentesco.
+  　　測曰　孚其肉人莫間也
+  　　→ Confiar en la carne: nadie se interpone.
+  次三 (apreciación 3)　螟蛉不屬蜾臝取之不迓侮
+  　　→ La oruga no es de su casta; la avispa la toma, y ella no resiste el agravio.
+  　　測曰　螟蛉不屬失其體也
+  　　→ La oruga que no es de su casta: pierde su propia sustancia.
+  次四 (apreciación 4)　賓親于禮飲食几几
+  　　→ Los huéspedes se acercan por el rito; comen y beben, a sus anchas.
+  　　測曰　賓親于禮賓主偕也
+  　　→ Huéspedes por el rito: huésped y anfitrión, juntos.
+  次五 (apreciación 5)　厚不厚比人將走
+  　　→ Generoso y no generoso; los que se alían huirán.
+  　　測曰　厚不厚失類無方也
+  　　→ Generoso y no generoso: pierde a los suyos sin medida.
+  次六 (apreciación 6)　厚厚君子秉斗
+  　　→ Generoso, generoso; el noble empuña el Cazo.
+  　　測曰　厚厚君子得人無疆也
+  　　→ Generoso, generoso: el noble gana a los hombres sin confín.
+  次七 (apreciación 7)　高亢其位庳於從事
+  　　→ Alta y encumbrada su posición, mas bajo en llevar los asuntos.
+  　　測曰　位高事卑德不能也
+  　　→ Posición alta, obra baja: la virtud no basta.
+  次八 (apreciación 8)　肺附乾餱其幹已良君子攸行
+  　　→ Entrañas allegadas con vianda seca; su tronco ya bueno: es el andar del noble. [verso oscuro]
+  　　測曰　肺附之行不我材也
+  　　→ El andar de lo allegado: no es de lo que yo me valgo.
+  上九 (apreciación 9)　童親不貞
+  　　→ Cariño pueril, no recto.
+  　　測曰　童親不貞還自荄也
+  　　→ Cariño pueril, no recto: vuelve por sí a su raíz.
+
+━━━ 首 35 · 𝌨 · 斂 (Liǎn) · «Congregación» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 9 小畜 «La Fuerza Domesticadora de lo Pequeño» · Grados solares 153°–157.5° · Término 小滿 (Llenado menor) · Tercio Tierra · Familia yang · 方州部家 2·1·3·2
+首辭　陽氣大滿於外微陰小斂於內
+　　→ El aliento yang, plenísimo por fuera; el yin tenue recoge un poco por dentro.
+  初一 (apreciación 1)　小斂不貣利用安人正國
+  　　→ Pequeña recogida sin yerro; propicio para asentar a los hombres y ordenar el reino.
+  　　測曰　小斂不貣其道當也
+  　　→ Pequeña recogida sin yerro: su vía es la justa.
+  次二 (apreciación 2)　墨斂韱韱𥧲我匪貞
+  　　→ Recogida entintada, fina y sutil; hurgando en mí: no recto.
+  　　測曰　墨斂韱韱非所以光也
+  　　→ Recogida entintada y sutil: no es modo de brillar.
+  次三 (apreciación 3)　見小勿用以我扶䟽
+  　　→ Ves lo pequeño: no lo uses; usa a mí para apuntalar lo ralo. [verso oscuro]
+  　　測曰　見小勿用俟我大也
+  　　→ Ves lo pequeño: aguarda mi grandeza.
+  次四 (apreciación 4)　斂利小刑小進大退
+  　　→ Recoge ganancia, castigo pequeño; poco avanza, mucho se retira.
+  　　測曰　斂利小刑其正退也
+  　　→ Recoger ganancia con castigo pequeño: su rumbo recto es retirarse.
+  次五 (apreciación 5)　畜槃而衍繭純于田
+  　　→ Colma la bandeja y desborda; los capullos, puros en el campo.
+  　　測曰　畜槃繭純不奪時也
+  　　→ Bandeja colmada, capullos puros: no roba la estación.
+  次六 (apreciación 6)　閔而緜而作大元而小人不戒
+  　　→ Compasivo y prolongado; lo hace grande desde el principio; mas el hombre pequeño no escarmienta.
+  　　測曰　閔緜之戒不識微也
+  　　→ El aviso de lo prolongado: no reconoce lo sutil.
+  次七 (apreciación 7)　夫牽于車妻為剝荼利于王姑不利公家病
+  　　→ El marido tira del carro, la esposa arranca la hierba amarga; propicio para la tía del rey, no para la casa ducal: dolencia. [verso oscuro]
+  　　測曰　牽車剝荼斂之資也
+  　　→ Tirar del carro y arrancar la hierba: la materia de la recogida.
+  次八 (apreciación 8)　大斂大巔
+  　　→ Gran recogida, gran desplome.
+  　　測曰　大斂之巔所斂非也
+  　　→ Gran desplome: lo que recogió estaba mal.
+  上九 (apreciación 9)　斂于時利圉極菑
+  　　→ Recoge a su tiempo; propicio guardarse del colmo de la calamidad.
+  　　測曰　斂于時奚可幾也
+  　　→ Recoger a tiempo: ¿cómo va a peligrar?
+
+━━━ 首 36 · 𝌩 · 彊 (Qiáng) · «Fuerza» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 1 乾 «Lo Creativo» · Grados solares 157.5°–162° · Término 小滿 (Llenado menor) · Tercio Tierra · Familia yin · 方州部家 2·1·3·3
+首辭　陽氣純剛乾乾萬物莫不彊梁
+　　→ El aliento yang, puramente duro, incesante; no hay de los diez mil seres que no sea recio.
+  初一 (apreciación 1)　彊中否貞無攸用
+  　　→ Fuerte en el centro: no; recto, mas sin dónde emplearlo.
+  　　測曰　彊中否貞不可與謀也
+  　　→ Fuerte en el centro que no: no se puede tramar con él.
+  次二 (apreciación 2)　鳳鳥于飛脩其羽君子于辰終莫之圉
+  　　→ El fénix en vuelo, alisando sus plumas; el noble en su hora: nadie al fin lo ataja.
+  　　測曰　鳳鳥于飛君子得時也
+  　　→ El fénix en vuelo: el noble alcanza su hora.
+  次三 (apreciación 3)　柱不中梁不隆大廈微
+  　　→ El pilar descentrado, la viga sin alzar; la gran mansión flaquea.
+  　　測曰　柱不中不能正基也
+  　　→ El pilar descentrado: no puede enderezar el cimiento.
+  次四 (apreciación 4)　爰聰爰明左右橿橿
+  　　→ Así de fino el oído, así de claro el ojo; a diestra y siniestra, firmes.
+  　　測曰　爰聰爰明庶士方來也
+  　　→ Fino el oído, claro el ojo: la hueste de hombres acude.
+  次五 (apreciación 5)　君子彊梁以德小人彊梁以力
+  　　→ El noble es fuerte por la virtud, el hombre pequeño es fuerte por la fuerza.
+  　　測曰　小人彊梁得位益尤也
+  　　→ El pequeño fuerte por la fuerza: gana puesto, y suma faltas.
+  次六 (apreciación 6)　克我彊梁于天無疆
+  　　→ Me vence por la fuerza; hasta el Cielo, sin confín.
+  　　測曰　克我彊梁大美無基也
+  　　→ Vencerme por la fuerza: gran hermosura sin cimiento.
+  次七 (apreciación 7)　金剛肉柔血流于田
+  　　→ Metal duro, carne blanda; la sangre corre por el campo.
+  　　測曰　金剛肉柔法太傷也
+  　　→ Metal duro, carne blanda: la ley hiere en demasía.
+  次八 (apreciación 8)　彊其衰勉其弱
+  　　→ Refuerza su declive, espolea su flaqueza.
+  　　測曰　彊其衰勉自彊也
+  　　→ Refuerza su declive: se espolea a sí mismo a la fuerza.
+  上九 (apreciación 9)　太山拔梁柱折其人顛且蹶
+  　　→ El monte Tài se arranca, viga y pilar se quiebran; el hombre cae y tropieza.
+  　　測曰　山拔梁折終以猛也
+  　　→ Monte arrancado, viga rota: al fin, por la fiereza.
+
+━━━ 首 37 · 𝌪 · 睟 (Suì) · «Pureza» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 1 乾 «Lo Creativo» · Grados solares 162°–166.5° · Término 芒種 (Grano en espiga) · Tercio Tierra · Familia yang · 方州部家 2·2·1·1
+首辭　陽氣𥘩睟清明物咸重光保厥昭陽
+　　→ El aliento yang, límpido y claro; los seres doblan su luz, guardando su yang resplandeciente.
+  初一 (apreciación 1)　睟于內清無穢
+  　　→ Radiante por dentro, límpido, sin mancha.
+  　　測曰　睟于內清無穢也
+  　　→ Radiante por dentro: límpido, sin mancha.
+  次二 (apreciación 2)　冥駮冒睟𥅡于中
+  　　→ Oscuro y moteado, velando la radiancia; nublado por dentro. [verso oscuro]
+  　　測曰　冥駮冒睟中自瘱也
+  　　→ Velar la radiancia: por dentro se recoge en silencio.
+  次三 (apreciación 3)　目上于天耳下于淵恭
+  　　→ Los ojos arriba, al Cielo; los oídos abajo, al abismo: reverente.
+  　　測曰　目上耳下聰察極也
+  　　→ Ojos arriba, oídos abajo: agudeza en su colmo.
+  次四 (apreciación 4)　小人慕睟失祿貞
+  　　→ El hombre pequeño ansía la radiancia; pierde su paga: recto.
+  　　測曰　小人慕睟道不得也
+  　　→ El pequeño que ansía la radiancia: no alcanza la Vía.
+  次五 (apreciación 5)　睟于幽黃元貞無方
+  　　→ Radiante en el amarillo oculto; rectitud primordial sin confín.
+  　　測曰　睟于幽黃正地則也
+  　　→ Radiante en el amarillo oculto: la ley verdadera de la Tierra.
+  次六 (apreciación 6)　大睟承愆易
+  　　→ Gran radiancia que hereda una falta, con soltura.
+  　　測曰　大睟承愆小人不克也
+  　　→ Gran radiancia con falta: el pequeño no puede con ella.
+  次七 (apreciación 7)　睟辰愆君子補愆
+  　　→ Hora radiante con tacha; el noble repara la tacha.
+  　　測曰　睟辰愆善補過也
+  　　→ Hora radiante con tacha: diestro en enmendar el yerro.
+  次八 (apreciación 8)　睟惡無善
+  　　→ Radiancia vuelta mal, sin bien.
+  　　測曰　睟惡無善終不可佐也
+  　　→ Radiancia sin bien: al fin no se le puede asistir.
+  上九 (apreciación 9)　睟終永初貞
+  　　→ Radiante hasta el fin, por siempre como al comienzo: recto.
+  　　測曰　睟終之貞誠可嘉也
+  　　→ Radiante hasta el fin: de veras es de alabar.
+
+━━━ 首 38 · 𝌫 · 盛 (Shèng) · «Plenitud» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 14 大有 «La Posesión de lo Grande» · Grados solares 166.5°–171° · Término 芒種 (Grano en espiga) · Tercio Tierra · Familia yin · 方州部家 2·2·1·2
+首辭　陽氣隆盛充塞物窴然盡滿厥意
+　　→ El aliento yang, exuberante y colmado, lo llena todo; los seres, henchidos, sacian por entero su intención.
+  初一 (apreciación 1)　盛不墨失冥德
+  　　→ Pleno, mas sin freno; pierde la virtud oscura.
+  　　測曰　盛不墨中不自克也
+  　　→ Pleno sin freno: el centro no se domina.
+  次二 (apreciación 2)　作不恃克大有
+  　　→ Obra sin fiarse de ello; domina la Gran Posesión.
+  　　測曰　作不恃稱玄德也
+  　　→ Obrar sin fiarse: iguala la virtud oscura.
+  次三 (apreciación 3)　懷利滿匈不利于公
+  　　→ Alberga la ganancia colmándole el pecho; no aprovecha a lo público.
+  　　測曰　懷利滿匈營私門也
+  　　→ Ganancia que colma el pecho: intriga por su puerta privada.
+  次四 (apreciación 4)　小盛臣臣大人之門
+  　　→ Pequeña plenitud, servicial, servicial: la puerta del gran hombre.
+  　　測曰　小盛臣臣事仁賢也
+  　　→ Pequeña plenitud servicial: sirve al benévolo y digno.
+  次五 (apreciación 5)　何福滿肩提禍撣撣
+  　　→ ¿Qué dicha le colma el hombro? Carga la desgracia, colgando, colgando.
+  　　測曰　何福提禍小人之道也
+  　　→ ¿Qué dicha? Carga la desgracia: la vía del hombre pequeño.
+  次六 (apreciación 6)　天錫之光大開之疆于謙有慶
+  　　→ El Cielo le concede la luz, le abre ancha su linde; en la humildad hay dicha.
+  　　測曰　天錫之光謙大有也
+  　　→ La luz que el Cielo concede: la humildad es la Gran Posesión.
+  次七 (apreciación 7)　乘火寒泉至
+  　　→ Cabalga el fuego; llega la fuente helada.
+  　　測曰　乘火泉至禍不遠也
+  　　→ Cabalgar el fuego, llegar la fuente: la desgracia no está lejos.
+  次八 (apreciación 8)　挹于滿熒幾後之傾
+  　　→ Achica de lo lleno, reluciente; al borde, y luego se vuelca.
+  　　測曰　挹于滿幾危也
+  　　→ Achicar de lo lleno: al borde del peligro.
+  上九 (apreciación 9)　極盛不救禍降自天
+  　　→ Plenitud en su colmo, sin remedio; la desgracia baja del Cielo.
+  　　測曰　極盛不救天道反也
+  　　→ Plenitud sin remedio: la Vía del Cielo se invierte.
+
+━━━ 首 39 · 𝌬 · 居 (Jū) · «Residencia» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 37 家人 «El Clan (La Familia)» · Grados solares 171°–175.5° · Término 芒種 (Grano en espiga) · Tercio Tierra · Familia yang · 方州部家 2·2·1·3
+首辭　陽方躆膚赫赫為物城郭物咸得度
+　　→ El yang, agazapado, la piel encendida, hace de muralla a los seres; todos alcanzan su medida.
+  初一 (apreciación 1)　匪譽匪咎克守厥家
+  　　→ Ni elogio ni reproche; sabe guardar su casa.
+  　　測曰　匪譽匪咎其道常也
+  　　→ Ni elogio ni reproche: su vía es constante.
+  次二 (apreciación 2)　家無壺婦承之姑或洗之塗
+  　　→ La casa sin cántaro; la esposa lo hereda de la suegra; alguno le lava el barro. [verso oscuro]
+  　　測曰　家無壺無以相承也
+  　　→ La casa sin cántaro: nada que transmitirse.
+  次三 (apreciación 3)　長幼序序子克父
+  　　→ Mayores y menores en orden, en orden; el hijo supera al padre.
+  　　測曰　子克父乃能有興也
+  　　→ El hijo que supera al padre: entonces puede haber auge.
+  次四 (apreciación 4)　見豕在堂狗繫之迒
+  　　→ Ve un cerdo en el salón; el perro atado a su rastro. [verso oscuro]
+  　　測曰　見豕在堂其體不慶也
+  　　→ Un cerdo en el salón: su estado no da alegría.
+  次五 (apreciación 5)　舳艫調安利富貞
+  　　→ Proa y popa acompasadas y firmes; propicio, próspero: recto.
+  　　測曰　舳艫安和順其疆也
+  　　→ Proa y popa serenas: suave dentro de sus lindes.
+  次六 (apreciación 6)　外其井竈三歲見背
+  　　→ Deja fuera su pozo y su fogón; en tres años lo abandonan.
+  　　測曰　外其井竈三歲不享也
+  　　→ Fuera pozo y fogón: tres años sin ofrenda.
+  次七 (apreciación 7)　老夫擐車少女提壺利考家
+  　　→ El viejo unce el carro, la muchacha carga el jarro; propicio para la casa del anciano.
+  　　測曰　老父擐車其體乃莊也
+  　　→ El viejo que unce el carro: su porte es digno.
+  次八 (apreciación 8)　反其几雙其朼其家不旨
+  　　→ Vuelca su mesa, dobla sus cucharas; su casa sin sabor. [verso oscuro]
+  　　測曰　反几雙朼家用不臧也
+  　　→ Mesa volcada, cucharas dobladas: el uso de la casa no es bueno.
+  上九 (apreciación 9)　株生蘖其種不絕
+  　　→ El tocón echa retoños; su simiente no se extingue.
+  　　測曰　株生蘖其類乃長也
+  　　→ El tocón que retoña: su casta entonces perdura.
+
+━━━ 首 40 · 𝌭 · 法 (Fǎ) · «Ley / Modelo» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 48 井 «El Pozo» · Grados solares 175.5°–180° · Término 夏至 (Solsticio de verano) · Tercio Tierra · Familia yin · 方州部家 2·2·2·1
+首辭　陽高縣厥法物仰其墨莫不被則
+　　→ El yang cuelga en alto su ley; los seres alzan la mirada a su plomada; ninguno queda sin norma.
+  初一 (apreciación 1)　造法不法
+  　　→ Hace una ley que no es ley.
+  　　測曰　造法不法不足用也
+  　　→ Ley que no es ley: no sirve para usarse.
+  次二 (apreciación 2)　摹法以中克
+  　　→ Calca la ley por el centro, y prevalece.
+  　　測曰　摹法以中眾之所共也
+  　　→ Calcar la ley por el centro: lo que la multitud comparte.
+  次三 (apreciación 3)　準繩不甫亡其規矩
+  　　→ Nivel y cuerda sin tender; pierde su compás y su escuadra.
+  　　測曰　準繩不甫其用爽也
+  　　→ Nivel y cuerda sin tender: su uso se tuerce.
+  次四 (apreciación 4)　準繩規矩莫違我施
+  　　→ Nivel, cuerda, compás, escuadra: nada contraviene mi disposición.
+  　　測曰　準繩規矩由身行也
+  　　→ Nivel, cuerda, compás, escuadra: proceden de la propia persona.
+  次五 (apreciación 5)　繘陸陸缾窴腹井潢洋終不得食
+  　　→ La soga del pozo chirría y chirría; el cántaro llena su vientre; el pozo rebosa: y al fin, sin beber. [verso oscuro]
+  　　測曰　缾窴腹非學方也
+  　　→ El cántaro que llena su vientre: no es el modo de aprender.
+  次六 (apreciación 6)　于紀于綱示以貞光
+  　　→ En las hebras rectoras, en la cuerda maestra; se muestra con luz recta.
+  　　測曰　于紀于綱大統明也
+  　　→ En hebras y cuerda maestra: el gran orden se aclara.
+  次七 (apreciación 7)　密網離于淵不利于鱗
+  　　→ La red tupida tendida en el abismo; no aprovecha a los de escama.
+  　　測曰　密網離淵苛法張也
+  　　→ Red tupida en el abismo: la ley severa desplegada.
+  次八 (apreciación 8)　正彼有辜格我無邪
+  　　→ Endereza a aquellos culpables; me refrena a mí, que no tengo tacha. [verso oscuro]
+  　　測曰　正彼有辜敺而至也
+  　　→ Enderezar a los culpables: acuciados, acuden.
+  上九 (apreciación 9)　井無幹水直衍匪谿匪谷終于愆
+  　　→ El pozo sin brocal; el agua sólo rebosa; ni arroyo ni valle; acaba en falta.
+  　　測曰　井無幹法妄恣也
+  　　→ Pozo sin brocal: la ley suelta y desmandada.
+
+━━━ 首 41 · 𝌮 · 應 (Yìng) · «Respuesta» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 30 離 «Lo Adherente (El Fuego)» · Grados solares 180°–184.5° · Término 夏至 (Solsticio de verano) · Tercio Tierra · Familia yang · 方州部家 2·2·2·2 · Solsticio de verano (en la apreciacion 5)
+首辭　陽氣極于上陰信萌乎下上下相應
+　　→ La energía yang culmina en lo alto; la señal del yin germina abajo; lo alto y lo bajo se responden.
+  初一 (apreciación 1)　六幹羅如五枝離如
+  　　→ Seis troncos dispuestos como una red; cinco ramas como una trama.
+  　　測曰　六幹羅如附離君也
+  　　→ Seis troncos dispuestos cual urdimbre: se adhieren al señor.
+  次二 (apreciación 2)　上歷施之下律和之非則否
+  　　→ Arriba, el calendario lo ordena; abajo, el diapasón lo armoniza; si no por la norma, no.
+  　　測曰　上施下和匪其真也
+  　　→ Lo de arriba ordena, lo de abajo concierta: si no es su verdad, no.
+  次三 (apreciación 3)　一從一橫天網䍚䍚
+  　　→ Una vertical, otra horizontal; la urdimbre cósmica se despliega vasta e inmensa.
+  　　測曰　一從一橫經緯陳也
+  　　→ Una y otra, en pie y tendida: urdimbre y trama se extienden.
+  次四 (apreciación 4)　援我罘罟絓羅于野至
+  　　→ Tirar de mis redes y trampas; en los campos las aves se enredan y caen.
+  　　測曰　援我罘罟不能以仁也
+  　　→ Tirar de mis redes significa: no puede obrar con humanidad.
+  次五 (apreciación 5)　龍翰于天貞栗其鱗
+  　　→ El dragón vuela alto hacia el Cielo; firme, pero sus escamas tiemblan.
+  　　測曰　龍翰之栗極懼墜也
+  　　→ El temblor del dragón: en la cima, teme caer.
+  次六 (apreciación 6)　熾承于天冰萌于地
+  　　→ El fuego se sostiene en el Cielo; el hielo germina en la Tierra.
+  　　測曰　承天萌地陽始退也
+  　　→ Recibir del Cielo, germinar en la Tierra: el yang empieza a retirarse.
+  次七 (apreciación 7)　日彊其衰應蕃貞
+  　　→ El sol refuerza su propio declive; la respuesta es fecunda y correcta.
+  　　測曰　日彊其衰惡敗類也
+  　　→ El sol que refuerza su declive: aborrece arruinar a los suyos y dar mal ejemplo.
+  次八 (apreciación 8)　極陽徵陰不移日而應
+  　　→ El yang extremo convoca al yin; sin mudar el día, se responden.
+  　　測曰　極陽徵陰應其發也
+  　　→ El yang extremo que manifiesta al yin: responde a su eclosión.
+  上九 (apreciación 9)　元離之極君子應以大稷
+  　　→ La partición primordial en su extremo; el noble responde con la gran ofrenda de Estado.
+  　　測曰　元離之極不可遏止也
+  　　→ La partición primordial en su máximo: no se puede atajar ni detener.
+
+━━━ 首 42 · 𝌯 · 迎 (Yíng) · «Ir al Encuentro» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 31 咸 «El Influjo» · Grados solares 184.5°–189° · Término 夏至 (Solsticio de verano) · Tercio Tierra · Familia yin · 方州部家 2·2·2·3
+首辭　陰氣成形乎下物咸遡而迎之
+　　→ El aliento yin cobra forma abajo; los seres todos remontan a su encuentro.
+  初一 (apreciación 1)　迎他匪應無貞有邪
+  　　→ Sale al encuentro de otro, no del que le corresponde; sin rectitud, hay torcedura.
+  　　測曰　迎他匪應非所與并也
+  　　→ Salir al encuentro del que no toca: no es con quien unirse.
+  次二 (apreciación 2)　蛟潛於淵陵卵化之人或陰言百姓和之
+  　　→ El dragón acecha en el abismo; los huevos del cerro se abren; alguno susurra, y el pueblo lo corea.
+  　　測曰　蛟潛之化中精誠也
+  　　→ El cambio del dragón oculto: por dentro, esencia y sinceridad.
+  次三 (apreciación 3)　精微往來妖先靈覺
+  　　→ Esencia y sutileza van y vienen; el presagio se adelanta, el numen lo percibe.
+  　　測曰　精微往來妖咎徵也
+  　　→ Esencia y sutileza que van y vienen: señal de desgracia.
+  次四 (apreciación 4)　裳有衣襦男子目珠婦人啑鉤貞
+  　　→ La falda con chaqueta y camisa; el ojo del hombre, una perla; el broche de la mujer: recto. [verso oscuro]
+  　　測曰　裳有衣襦陰感陽也
+  　　→ Falda con chaqueta: el yin conmueve al yang.
+  次五 (apreciación 5)　黃乘否貞
+  　　→ El amarillo cabalga: no; recto.
+  　　測曰　黃乘否貞不可與朋也
+  　　→ El amarillo que cabalga: no se le puede hacer amigo.
+  次六 (apreciación 6)　玄黃相迎其意感感
+  　　→ Negro y amarillo salen a encontrarse; su intención se conmueve y se conmueve.
+  　　測曰　玄黃相迎以類應也
+  　　→ Negro y amarillo que se encuentran: responden por su casta.
+  次七 (apreciación 7)　遠之𥅠近之棓迎父迦逅
+  　　→ De lejos, la mirada fija; de cerca, el garrote; encuentra al padre por azar. [verso oscuro]
+  　　測曰　遠𥅠近棓失父類也
+  　　→ Lejos la mirada, cerca el garrote: pierde la casta del padre.
+  次八 (apreciación 8)　見血入門捬迎中廷
+  　　→ Ve sangre, entra por la puerta; palpa y sale al encuentro en mitad del patio. [verso oscuro]
+  　　測曰　見血入門以賢自衛也
+  　　→ Ve sangre y entra: por su valía se guarda a sí mismo.
+  上九 (apreciación 9)　濕迎床足累于牆屋
+  　　→ La humedad sube al pie de la cama; se enreda por los muros de la casa.
+  　　測曰　濕迎床足顛在內也
+  　　→ La humedad al pie de la cama: el vuelco está adentro.
+
+━━━ 首 43 · 𝌰 · 遇 (Yù) · «Encuentros» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 44 姤 «El Ir al Encuentro» · Grados solares 189°–193.5° · Término 小暑 (Calor menor) · Tercio Tierra · Familia yang · 方州部家 2·2·3·1
+首辭　陰氣始來陽氣始往往來相逢
+　　→ El aliento yin empieza a venir, el yang empieza a irse; en el ir y venir se topan.
+  初一 (apreciación 1)　幽遇神及師夢貞
+  　　→ En lo oscuro encuentra un numen, y un maestro; un sueño: recto.
+  　　測曰　幽遇神思得理也
+  　　→ Encuentro oscuro con el numen: el pensar da con el principio.
+  次二 (apreciación 2)　衝衝兒遇不受定之諭
+  　　→ Testarudo, testarudo, el niño se topa; no acepta el consejo asentado.
+  　　測曰　衝衝兒遇不肖子也
+  　　→ El niño testarudo que se topa: un hijo indigno.
+  次三 (apreciación 3)　不往來不求得士女之貞
+  　　→ Ni va ni viene, ni busca, y obtiene: la rectitud del hombre y la doncella.
+  　　測曰　不往不求士女則也
+  　　→ Ni ir ni buscar: la norma del hombre y la doncella.
+  次四 (apreciación 4)　㒁㒁兌人遇雨厲
+  　　→ Inquieto, inquieto, el gozoso se topa con la lluvia: peligro.
+  　　測曰　兌人遇雨還自賊也
+  　　→ El gozoso que se topa con la lluvia: sólo se daña a sí mismo.
+  次五 (apreciación 5)　田遇禽人莫之禁
+  　　→ En la cacería se topa con la presa; nadie se lo veda.
+  　　測曰　田遇禽誠可勉也
+  　　→ Topar con la presa: de veras es de alentar.
+  次六 (apreciación 6)　俾蛛罔罔遇蜂利雖大不得從
+  　　→ La telaraña de la arañita; se topa con la avispa; el provecho, aunque grande, no se puede seguir.
+  　　測曰　俾蛛之罔害不遠也
+  　　→ La telaraña de la arañita: el daño no está lejos.
+  次七 (apreciación 7)　振其角君父遇辱匪正命
+  　　→ Sacude su cuerno; el señor-padre sufre afrenta; no es el recto mandato.
+  　　測曰　振其角直道行也
+  　　→ Sacudir el cuerno: el recto camino avanza.
+  次八 (apreciación 8)　兩兕鬭一角亡不勝喪
+  　　→ Dos búfalos luchan; un cuerno se pierde; el que no vence, lo pierde todo.
+  　　測曰　兩兕鬭亡角喪也
+  　　→ Dos búfalos que luchan: cuerno perdido, todo perdido.
+  上九 (apreciación 9)　觝其角遇下毀足
+  　　→ Embiste con su cuerno; al topar con lo bajo, se rompe la pata.
+  　　測曰　觝其角何可當也
+  　　→ Embestir con el cuerno: ¿cómo hacerle frente?
+
+━━━ 首 44 · 𝌱 · 竈 (Zào) · «Fogón» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 50 鼎 «El Caldero» · Grados solares 193.5°–198° · Término 小暑 (Calor menor) · Tercio Tierra · Familia yin · 方州部家 2·2·3·2
+首辭　陰雖沃而灑之陽猶執而龢之
+　　→ Aunque el yin lo anega y lo rocía, el yang aún lo sujeta y lo armoniza.
+  初一 (apreciación 1)　竈無實乞于鄰
+  　　→ El fogón sin sustancia; mendiga al vecino.
+  　　測曰　竈無實有虛名也
+  　　→ El fogón sin sustancia: tiene nombre vacío.
+  次二 (apreciación 2)　黃鼎介其中裔不飲不食孚無害
+  　　→ El caldero amarillo firme en su borde y su centro; ni bebe ni come; confianza, sin daño. [verso oscuro]
+  　　測曰　黃鼎介中廉貞也
+  　　→ El caldero amarillo firme: íntegro y recto.
+  次三 (apreciación 3)　竈無薪黃金瀕
+  　　→ El fogón sin leña; el oro amarillo al borde. [verso oscuro]
+  　　測曰　竈無薪有不用也
+  　　→ El fogón sin leña: tiene, mas no usa.
+  次四 (apreciación 4)　鬲實之食得其勞力
+  　　→ El caldero lleno de comida; se lo gana con su esfuerzo.
+  　　測曰　鬲實之食時我奉也
+  　　→ El caldero lleno: a su tiempo me sirve.
+  次五 (apreciación 5)　鼎大可鬺不齊不莊
+  　　→ El caldero grande, capaz de hervir la ofrenda; mas ni puro ni solemne.
+  　　測曰　鼎大可鬺饗無意也
+  　　→ El caldero grande que hierve: la ofrenda sin intención.
+  次六 (apreciación 6)　五味龢調如美如大人之饗
+  　　→ Los cinco sabores acordados en armonía, deliciosos; el festín del gran hombre.
+  　　測曰　味龢之饗宰輔事也
+  　　→ El festín de los sabores en concordia: el asunto del mayordomo y el ministro.
+  次七 (apreciación 7)　脂牛正肪不濯釜而烹敗歐歍之疾至
+  　　→ Buey cebado, sebo puro; hierve sin fregar la olla; echado a perder, llega la náusea. [verso oscuro]
+  　　測曰　脂牛歐歍不絜志也
+  　　→ Buey y náusea: una intención impura.
+  次八 (apreciación 8)　食其委雖噭不毀
+  　　→ Come sus posos; aunque grite, no se arruina.
+  　　測曰　食其委蒙厥德也
+  　　→ Comer los posos: cubierto por su virtud.
+  上九 (apreciación 9)　竈滅其火唯家之禍
+  　　→ El fogón apaga su fuego: sólo la desgracia de la casa.
+  　　測曰　竈滅其火國之賊也
+  　　→ El fogón que apaga su fuego: la ruina del reino.
+
+━━━ 首 45 · 𝌲 · 大 (Dà) · «Grandeza» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 55 豐 «La Abundancia» · Grados solares 198°–202.5° · Término 小暑 (Calor menor) · Tercio Tierra · Familia yang · 方州部家 2·2·3·3
+首辭　陰虛其內陽蓬其外物與盤蓋
+　　→ El yin vacía su dentro, el yang se ahueca por fuera; los seres comparten el dosel.
+  初一 (apreciación 1)　淵潢洋包無方冥
+  　　→ El abismo rebosa y se extiende, abarcando sin confín: oscuro.
+  　　測曰　淵潢洋資裹無方也
+  　　→ El abismo que rebosa: su caudal envuelve sin confín.
+  次二 (apreciación 2)　大其慮躬自鑢
+  　　→ Agranda sus cuitas; se lima a sí mismo.
+  　　測曰　大其慮為思所傷也
+  　　→ Agrandar las cuitas: herido por su propio cavilar.
+  次三 (apreciación 3)　大不大利以成大
+  　　→ Grande y no grande; propicio para consumar lo grande.
+  　　測曰　大不大以小作基也
+  　　→ Grande y no grande: hace de lo pequeño su cimiento.
+  次四 (apreciación 4)　大其門郊不得其刀鳴虛
+  　　→ Agranda su puerta y su ejido; no halla su cuchillo; un tañido hueco. [verso oscuro]
+  　　測曰　大其門郊實去名來也
+  　　→ Agrandar la puerta: la sustancia se va, el nombre llega.
+  次五 (apreciación 5)　包荒以中克
+  　　→ Abraza el yermo; por el centro prevalece.
+  　　測曰　包荒以中督九夷也
+  　　→ Abrazar el yermo: gobierna las nueve tribus.
+  次六 (apreciación 6)　大失小多失少
+  　　→ Grande, pierde lo pequeño; mucho, pierde lo poco.
+  　　測曰　大失小禍由微也
+  　　→ Perder lo pequeño: la desgracia nace de lo sutil.
+  次七 (apreciación 7)　大奢迂自削以觚或益之餔
+  　　→ Gran fasto sinuoso; se recorta a sí mismo con la copa; alguno le añade un bocado. [verso oscuro]
+  　　測曰　奢迂自削能自非也
+  　　→ Fasto que se recorta: capaz de reprocharse a sí mismo.
+  次八 (apreciación 8)　豐牆峭阯三歲不築崩
+  　　→ Muro opulento sobre base escarpada; tres años sin construir, se desploma.
+  　　測曰　豐牆之峭崩不遟也
+  　　→ El muro escarpado: el desplome no tarda.
+  上九 (apreciación 9)　大終以蔑否出天外
+  　　→ Grande hasta el fin, y con todo desdeñado: no; sale más allá del Cielo. [verso oscuro]
+  　　測曰　大終以蔑小為大資也
+  　　→ Grande hasta el fin: lo pequeño se hace caudal de lo grande.
+
+━━━ 首 46 · 𝌳 · 廓 (Kuò) · «Ampliación» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 55 豐 «La Abundancia» · Grados solares 202.5°–207° · Término 小暑 (Calor menor) · Tercio Tierra · Familia yin · 方州部家 2·3·1·1
+首辭　陰氣瘱而𢙅之陽猶恢而廓之
+　　→ El aliento yin se aquieta y lo estrecha; el yang aún lo ensancha y lo amplía.
+  初一 (apreciación 1)　廓之恢之不正其基
+  　　→ Amplíalo, ensánchalo, sin enderezar su cimiento.
+  　　測曰　廓之恢之始基傾也
+  　　→ Ampliar y ensanchar: el cimiento se vuelca desde el principio.
+  次二 (apreciación 2)　金榦玉楨廓于城
+  　　→ Armazón de metal, poste de jade; se amplía en muralla.
+  　　測曰　金榦玉楨蕃輔正也
+  　　→ Armazón de metal, poste de jade: el sostén floreciente es recto.
+  次三 (apreciación 3)　廓無子室石婦
+  　　→ Se amplía, mas sin hijos; la alcoba, una esposa estéril.
+  　　測曰　廓無子焉得後生也
+  　　→ Ampliarse sin hijos: ¿cómo tener descendencia?
+  次四 (apreciación 4)　恢其門戶以御寇虜
+  　　→ Ensancha su puerta y su portón para atajar a los saqueadores.
+  　　測曰　恢其門戶大經營也
+  　　→ Ensanchar la puerta: gran planeamiento.
+  次五 (apreciación 5)　天門大開恢堂之階或生之差
+  　　→ La puerta del Cielo abierta de par en par; ensancha los peldaños del salón; mas alguno engendra una tacha.
+  　　測曰　天門大開德不能滿堂也
+  　　→ La puerta del Cielo abierta: la virtud no puede llenar el salón.
+  次六 (apreciación 6)　維豐維崇百辟馮馮伊德攸興
+  　　→ Tan opulento, tan encumbrado; los cien señores acuden en tropel; por esta virtud hay auge.
+  　　測曰　維豐維崇茲太平也
+  　　→ Tan opulento, tan encumbrado: esto es la Gran Paz.
+  次七 (apreciación 7)　外大圪其中失君子至野小人入室
+  　　→ Por fuera grande y altivo, mas vacío por dentro; el noble se va al yermo, el hombre pequeño entra en la alcoba.
+  　　測曰　外大圪中無人也
+  　　→ Grande por fuera: por dentro, nadie.
+  次八 (apreciación 8)　廓其外虛其內利鼓鉦
+  　　→ Ensancha su fuera, vacía su dentro; propicio para tambor y gong.
+  　　測曰　廓外虛內乃能有聞也
+  　　→ Ensanchar fuera, vaciar dentro: entonces puede ser oído.
+  上九 (apreciación 9)　極廓于高庸三歲無童
+  　　→ Ampliado al colmo, alto y vasto; tres años sin un siervo.
+  　　測曰　極廓高庸終無所臣也
+  　　→ Ampliado al colmo: al fin, nadie a quien mande.
+
+━━━ 首 47 · 𝌴 · 文 (Wén) · «Patrón» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 59 渙 «La Dispersión» · Grados solares 207°–211.5° · Término 大暑 (Calor mayor) · Tercio Tierra · Familia yang · 方州部家 2·3·1·2
+首辭　陰斂其質陽散其文文質班班萬物粲然
+　　→ El yin recoge su sustancia, el yang esparce su patrón; patrón y sustancia entreverados, los diez mil seres resplandecen.
+  初一 (apreciación 1)　袷䙡何縵玉貞
+  　　→ Túnica forrada, tan lisa; jade: recto. [verso oscuro]
+  　　測曰　袷䙡何縵文在內也
+  　　→ Túnica lisa: el patrón está por dentro.
+  次二 (apreciación 2)　文蔚質否
+  　　→ Patrón exuberante, sustancia: no.
+  　　測曰　文蔚質否不能俱睟也
+  　　→ Patrón exuberante sin sustancia: ambos no pueden resplandecer juntos.
+  次三 (apreciación 3)　大文彌樸孚似不足
+  　　→ El gran patrón se hace más simple; la confianza parece faltar.
+  　　測曰　大文彌樸質有餘也
+  　　→ El gran patrón más simple: la sustancia sobra.
+  次四 (apreciación 4)　斐如邠如虎豹文如匪天之享否
+  　　→ Elegante así, moteado así, con patrón de tigre y leopardo; no es lo que el Cielo goza: no. [verso oscuro]
+  　　測曰　斐邠之否奚足譽也
+  　　→ El moteado que no: ¿qué hay que alabar?
+  次五 (apreciación 5)　炳如彪如尚文昭如車服庸如
+  　　→ Fulgurante así, listado así; honra el patrón, resplandeciente; carro y ropaje, majestuosos.
+  　　測曰　彪如在上天文炳也
+  　　→ Listado en lo alto: el patrón del Cielo, ardiente.
+  次六 (apreciación 6)　鴻文無范恣于川
+  　　→ Vasto patrón sin molde; se desmanda por el río.
+  　　測曰　鴻文無范恣意往也
+  　　→ Vasto patrón sin molde: va a su antojo.
+  次七 (apreciación 7)　雉之不祿而雞藎穀
+  　　→ El faisán sin paga, y la gallina con su grano. [verso oscuro]
+  　　測曰　雉之不祿難幽養也
+  　　→ El faisán sin paga: difícil de criar en el retiro.
+  次八 (apreciación 8)　彫韱穀布亡于時文則亂
+  　　→ Labrado fino, grano esparcido; perdido en su hora; el patrón entonces es desorden. [verso oscuro]
+  　　測曰　彫韱之文徒費日也
+  　　→ El patrón labrado: sólo malgasta los días.
+  上九 (apreciación 9)　極文密密易以黼黻
+  　　→ Patrón en su colmo, tupido, tupido; trocado por el bordado del hacha y el arco.
+  　　測曰　極文之易當以質也
+  　　→ El colmo del patrón, trocado: hay que salirle con la sustancia.
+
+━━━ 首 48 · 𝌵 · 禮 (Lǐ) · «Ritual» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 10 履 «El Porte» · Grados solares 211.5°–216° · Término 大暑 (Calor mayor) · Tercio Tierra · Familia yin · 方州部家 2·3·1·3
+首辭　陰在下而陽在上上下正體物與有禮
+　　→ El yin abajo y el yang arriba; alto y bajo en su recto cuerpo; los seres tienen su rito.
+  初一 (apreciación 1)　履于跂後其祖禰
+  　　→ Pisa de puntillas; deja atrás a sus antepasados.
+  　　測曰　履于跂退其親也
+  　　→ Pisar de puntillas: aparta a los suyos.
+  次二 (apreciación 2)　目穆穆足肅肅乃貫以棘
+  　　→ Ojos reverentes, reverentes; pies graves, graves; y luego atravesado por espinas. [verso oscuro]
+  　　測曰　穆穆肅肅敬出心也
+  　　→ Reverente y grave: el respeto brota del corazón.
+  次三 (apreciación 3)　畫象成形孚無成
+  　　→ Pinta la imagen, forma la figura; confianza, mas nada consumado.
+  　　測曰　畫象成形非其真也
+  　　→ Pintar la imagen: no es la cosa verdadera.
+  次四 (apreciación 4)　孔鴈之儀利用登于階
+  　　→ El decoro del gran ganso; propicio para subir los peldaños.
+  　　測曰　孔鴈之儀可法則也
+  　　→ El decoro del ganso: puede servir de norma.
+  次五 (apreciación 5)　懷其違折其匕過喪錫九矢
+  　　→ Alberga su rebeldía, quiebra su cuchara; en el exceso pierde el don de nueve flechas. [verso oscuro]
+  　　測曰　懷違折匕貶天祿也
+  　　→ Albergar la rebeldía: cortado de la merced del Cielo.
+  次六 (apreciación 6)　魚鱗差之乃矢施之帝用登于天
+  　　→ Escamas de pez ordenadas por rango; dispuestas luego como flechas; el Emperador con ello sube al Cielo.
+  　　測曰　魚鱗差之貴賤位也
+  　　→ Escamas ordenadas: las posiciones de alto y bajo.
+  次七 (apreciación 7)　出禮不畏入畏
+  　　→ Al salir del rito, sin temor; al entrar, con temor. [verso oscuro]
+  　　測曰　出禮不畏人所棄也
+  　　→ Salir del rito sin temor: abandonado de los hombres.
+  次八 (apreciación 8)　冠戚䏔履全履
+  　　→ Gorro y hacha, y el calzado; el paso entero. [verso oscuro]
+  　　測曰　冠戚䏔履賤不可不上也
+  　　→ Gorro y calzado: el humilde no puede sino mirar arriba.
+  上九 (apreciación 9)　戴無首焉用此九
+  　　→ Lleva el gorro sin cabeza; ¿de qué sirve este nueve?
+  　　測曰　無首之戴焉所往也
+  　　→ El tocado sin cabeza: ¿adónde puede ir?
+
+━━━ 首 49 · 𝌶 · 逃 (Táo) · «Vuelo» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 33 遯 «La Retirada» · Grados solares 216°–220.5° · Término 大暑 (Calor mayor) · Tercio Tierra · Familia yang · 方州部家 2·3·2·1
+首辭　陰氣章彊陽氣潛退萬物將亡
+　　→ El aliento yin se afirma pujante, el yang se retira oculto; los diez mil seres están por perecer.
+  初一 (apreciación 1)　逃水之夷滅其創迹
+  　　→ Huye sobre el agua llana; borra las huellas que hizo.
+  　　測曰　逃水之夷跡不創也
+  　　→ Huir sobre el agua llana: no deja rastro.
+  次二 (apreciación 2)　心惕惕足金舄不志溝壑
+  　　→ Corazón alerta, alerta; pies con zapatos de metal; no pone la mira en la zanja.
+  　　測曰　心惕惕義不將也
+  　　→ Corazón alerta: la justicia no lo acompañará.
+  次三 (apreciación 3)　兢其股鞭其馬寇其戶逃利
+  　　→ Tensa su muslo, fustiga su caballo; saqueadores a su puerta; huir es provecho.
+  　　測曰　兢股鞭馬近有見也
+  　　→ Tensar el muslo y fustigar: de cerca hay algo previsto.
+  次四 (apreciación 4)　喬木維摐飛鳥過之或降
+  　　→ El árbol alto, sus ramas encumbradas; el ave en vuelo lo pasa; alguna se posa.
+  　　測曰　喬木之鳥欲止則降也
+  　　→ El ave del árbol alto: si quiere posarse, baja.
+  次五 (apreciación 5)　見踤于林獺入于淵征
+  　　→ Lo ve tropezar en el bosque; la nutria entra en el abismo; marcha. [verso oscuro]
+  　　測曰　見及獺深居逃凶也
+  　　→ Morar en lo hondo: huye del infortunio.
+  次六 (apreciación 6)　多田不婁費我膎功
+  　　→ Mucha tierra sin labrar; malgasta el fruto de mi cecina. [verso oscuro]
+  　　測曰　多田不婁費力忘功也
+  　　→ Mucha tierra sin labrar: gasta fuerza y olvida el mérito.
+  次七 (apreciación 7)　見于纍後乃克飛
+  　　→ Visto entre las trabas, sólo después puede volar.
+  　　測曰　見于纍幾不足高也
+  　　→ Visto entre las trabas: al borde, no basta para remontar.
+  次八 (apreciación 8)　頸加于矰維䋚其繩
+  　　→ El cuello puesto en la flecha con hilo; sólo se enreda en su cordel.
+  　　測曰　頸加維䋚毋自勞也
+  　　→ El cuello en la flecha con hilo: no te afanes en vano.
+  上九 (apreciación 9)　利逃跰跰盜德嬰城
+  　　→ Propicio huir, tropezando, tropezando; la virtud del ladrón cerca la muralla. [verso oscuro]
+  　　測曰　盜德嬰城何至逃也
+  　　→ La virtud del ladrón cercando la muralla: ¿a qué llegar a la huida?
+
+━━━ 首 50 · 𝌷 · 唐 (Táng) · «Vastedad / Desperdicio» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 33 遯 «La Retirada» · Grados solares 220.5°–225° · Término 立秋 (Inicio del otoño) · Tercio Tierra · Familia yin · 方州部家 2·3·2·2
+首辭　陰氣茲來陽氣茲往物且盪盪
+　　→ El aliento yin viene ya, el yang se va ya; los seres se agitan y se bambolean.
+  初一 (apreciación 1)　唐于內勿作厲
+  　　→ Derroche por dentro; no obres: peligro.
+  　　測曰　唐于內無執守也
+  　　→ Derroche por dentro: nada asido ni guardado.
+  次二 (apreciación 2)　唐處冥利用東征
+  　　→ Vastedad que mora en lo oscuro; propicio para la campaña del este.
+  　　測曰　唐冥之利利明道也
+  　　→ El provecho de la vastedad oscura: propicio para alumbrar la vía.
+  次三 (apreciación 3)　唐素不貞亡彼瓏玲
+  　　→ Vacío y llano, no recto; pierde aquel jade tintineante.
+  　　測曰　亡彼瓏玲非爾所也
+  　　→ Perder el jade tintineante: no es tu sitio.
+  次四 (apreciación 4)　唐無適道義之辟
+  　　→ Vastedad sin meta; el soberano de la Vía y la justicia.
+  　　測曰　唐無適惟義予也
+  　　→ Vastedad sin meta: sólo la justicia la otorga.
+  次五 (apreciación 5)　奔鹿懷鼷得不訾
+  　　→ El ciervo que huye guarda un ratón; gana lo que no se cuenta. [verso oscuro]
+  　　測曰　奔鹿懷鼷奚足功也
+  　　→ El ciervo que guarda un ratón: ¿qué mérito hay en ello?
+  次六 (apreciación 6)　唐不獨足代天班祿
+  　　→ La vastedad no basta a solas; en nombre del Cielo, reparte las pagas.
+  　　測曰　唐不獨足無私容也
+  　　→ No basta a solas: sin rostro de parcialidad.
+  次七 (apreciación 7)　弋彼三飛明明于征終日不歸亡
+  　　→ Flecha a los tres que vuelan; brillante, brillante en la marcha; todo el día sin volver: perdido.
+  　　測曰　弋彼三飛適無所從也
+  　　→ Flechar a los tres: va sin nada que seguir.
+  次八 (apreciación 8)　唐收祿社鬼輟哭或得其沐
+  　　→ Recoge en abundancia la paga; el espectro del altar cesa su llanto; alguno logra su unción. [verso oscuro]
+  　　測曰　唐收祿復亡也
+  　　→ Recoger la paga: recobrada, y de nuevo perdida.
+  上九 (apreciación 9)　明珠彈于飛肉其得不復
+  　　→ La perla luminosa disparada a la carne que vuela; lo que gana no vuelve.
+  　　測曰　明珠彈肉費不當也
+  　　→ Disparar la perla a la carne: un dispendio sin razón.
+
+━━━ 首 51 · 𝌸 · 常 (Cháng) · «Constancia» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 32 恆 «La Duración» · Grados solares 225°–229.5° · Término 立秋 (Inicio del otoño) · Tercio Tierra · Familia yang · 方州部家 2·3·2·3
+首辭　陰以知臣陽以知辟君臣之道萬世不易
+　　→ Por el yin se conoce al ministro, por el yang al soberano; la vía de señor y ministro, por diez mil edades no cambia.
+  初一 (apreciación 1)　戴神墨履靈式以一耦萬終不稷
+  　　→ Lleva la plomada del numen, pisa la regla del espíritu; por lo uno aparea lo diez mil; al fin, sin grano. [verso oscuro]
+  　　測曰　戴神墨體一形也
+  　　→ Llevar la plomada del numen: encarna la forma única.
+  次二 (apreciación 2)　內常微女貞厲
+  　　→ Constancia interior tenue; la rectitud de la doncella: peligro.
+  　　測曰　內常微女不正也
+  　　→ Constancia interior tenue: la mujer no es recta.
+  次三 (apreciación 3)　日常其德三歲不食
+  　　→ El sol hace constante su virtud; tres años sin comer.
+  　　測曰　日常其德君道明也
+  　　→ El sol que hace constante su virtud: la vía del soberano es clara.
+  次四 (apreciación 4)　月不常或失之行
+  　　→ La luna no es constante; alguno la pierde en su curso.
+  　　測曰　月不常臣失行也
+  　　→ La luna que no es constante: el ministro pierde su rumbo.
+  次五 (apreciación 5)　其從其橫天地之常
+  　　→ Su urdimbre, su trama: la constancia del Cielo y la Tierra.
+  　　測曰　其從其橫君臣常也
+  　　→ Urdimbre y trama: la constancia de señor y ministro.
+  次六 (apreciación 6)　得七而九懦撓其剛不克常
+  　　→ Obtiene siete y luego nueve; la blandura dobla su dureza; no puede ser constante.
+  　　測曰　得七而九棄盛乘衰也
+  　　→ Siete y luego nueve: abandona lo pleno, cabalga lo menguante.
+  次七 (apreciación 7)　滔滔往來有常衰如克承貞
+  　　→ Fluyendo, fluyendo, va y viene, hay constancia; aun en el declive sabe sostener: recto.
+  　　測曰　滔滔往來以正承非也
+  　　→ Fluir y sostener: por la rectitud carga con lo torcido.
+  次八 (apreciación 8)　常疾不疾咎成不詰
+  　　→ Dolencia constante que no se duele; la falta cuaja sin que se la interrogue.
+  　　測曰　常疾不疾不能自治也
+  　　→ Dolencia que no se duele: no puede curarse a sí mismo.
+  上九 (apreciación 9)　疾其疾巫毉不失
+  　　→ Se duele de su dolencia; chamán y médico no fallan.
+  　　測曰　疾其疾能自毉也
+  　　→ Dolerse de la dolencia: sabe curarse a sí mismo.
+
+━━━ 首 52 · 𝌹 · 度 (Dù) · «Medida» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 60 節 «La Restricción» · Grados solares 229.5°–234° · Término 立秋 (Inicio del otoño) · Tercio Tierra · Familia yin · 方州部家 2·3·3·1
+首辭　陰氣日躁陽氣日舍躁躁舍舍各得其度
+　　→ El aliento yin se inquieta día a día, el yang día a día cede; agitándose y cediendo, cada cual halla su medida.
+  初一 (apreciación 1)　中度獨失
+  　　→ La medida del centro, a solas, se pierde.
+  　　測曰　中度獨失不能有成也
+  　　→ La medida del centro perdida: nada puede consumar.
+  次二 (apreciación 2)　澤不舍冥中度
+  　　→ El pantano no suelta; en lo oscuro, la medida del centro.
+  　　測曰　澤不舍乃能有正也
+  　　→ El pantano que no suelta: entonces puede tener rectitud.
+  次三 (apreciación 3)　小度差差大攋之階
+  　　→ Medida pequeña, desviándose y desviándose: peldaño hacia una gran brecha.
+  　　測曰　小度之差大度傾也
+  　　→ La desviación de la medida pequeña: la gran medida se vuelca.
+  次四 (apreciación 4)　榦楨利于城
+  　　→ Armazón y poste; propicios para la muralla.
+  　　測曰　榦楨之利利經營也
+  　　→ El provecho de armazón y poste: propicio para la obra.
+  次五 (apreciación 5)　榦不榦攋于營
+  　　→ Armazón que no arma; se quiebra en el campamento.
+  　　測曰　幹不幹不能有寧也
+  　　→ Armazón que no arma: no puede haber sosiego.
+  次六 (apreciación 6)　大度檢檢于天示象垂其范
+  　　→ Gran medida, ceñida y ceñida; en el Cielo muestra la imagen, cuelga su molde.
+  　　測曰　大度檢檢垂象貞也
+  　　→ Gran medida ceñida: la imagen que cuelga, recta.
+  次七 (apreciación 7)　不度規之鬼即訾之
+  　　→ Sin medida; el espectro del compás la escarnece. [verso oscuro]
+  　　測曰　不度規之明察笑也
+  　　→ Sin medida: el escrutinio claro se ríe de ella.
+  次八 (apreciación 8)　石赤不奪節士之必
+  　　→ Piedra bermeja, que no se arranca: la certeza del hombre íntegro.
+  　　測曰　石赤不奪可與有要也
+  　　→ Piedra que no se arranca: con él se puede pactar.
+  上九 (apreciación 9)　積差之貣十年不復
+  　　→ El déficit de la desviación acumulada; diez años sin volver.
+  　　測曰　積差之貣不得造也
+  　　→ El déficit acumulado: no se puede reparar.
+
+━━━ 首 53 · 𝌺 · 永 (Yǒng) · «Eternidad» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 32 恆 «La Duración» · Grados solares 234°–238.5° · Término 處暑 (Fin del calor) · Tercio Tierra · Familia yang · 方州部家 2·3·3·2
+首辭　陰以武取陽以文與道可長久
+　　→ El yin toma con lo marcial, el yang da con lo civil; la Vía puede durar y perdurar.
+  初一 (apreciación 1)　不替不爽長子之常
+  　　→ Ni desfallece ni yerra: la constancia del hijo mayor.
+  　　測曰　不替不爽永宗道也
+  　　→ Ni desfallecer ni errar: por siempre la vía del linaje.
+  次二 (apreciación 2)　內懷替爽永失貞祥
+  　　→ Por dentro alberga desfallecimiento y yerro; por siempre pierde la venturosa rectitud.
+  　　測曰　內懷替爽安可久也
+  　　→ Albergar dentro el yerro: ¿cómo va a durar?
+  次三 (apreciación 3)　永其道未得無咎
+  　　→ Hace duradera su vía; aún no la logra, mas sin falta.
+  　　測曰　永其道誠可保也
+  　　→ Hacer duradera la vía: de veras se puede preservar.
+  次四 (apreciación 4)　子序不序先賓永失主
+  　　→ El orden del hijo, desordenado; el huésped antes que el anfitrión; por siempre pierde al señor.
+  　　測曰　子序不序非永方也
+  　　→ Orden trastocado: no es el modo de durar.
+  次五 (apreciación 5)　三綱得于中極天永厥福
+  　　→ Las tres guías se alcanzan en el eje central; el Cielo hace eterna su dicha.
+  　　測曰　三綱之永其道長也
+  　　→ La eternidad de las tres guías: su vía es larga.
+  次六 (apreciación 6)　大永于福反虛庭入于酋冥
+  　　→ Muy duradero en la dicha, mas se vuelve un patio vacío; entra en la tiniebla madura. [verso oscuro]
+  　　測曰　大永于福福反亡也
+  　　→ Muy duradero en la dicha: la dicha se torna pérdida.
+  次七 (apreciación 7)　老木生蒔永以纏其所無
+  　　→ El árbol viejo echa esquejes; por siempre enreda lo que le falta. [verso oscuro]
+  　　測曰　老木生蒔永厥體也
+  　　→ El árbol viejo que echa esquejes: hace duradero su cuerpo.
+  次八 (apreciación 8)　永不軌凶亡流于後
+  　　→ Por siempre fuera de la vía; el mal y la ruina fluyen a los que vienen después.
+  　　測曰　永不軌其命劑也
+  　　→ Por siempre fuera de la vía: su destino queda cortado.
+  上九 (apreciación 9)　永終馴首
+  　　→ Duradero hasta el fin, dócil desde la cabeza.
+  　　測曰　永終馴首長愷悌也
+  　　→ Dócil hasta el fin: largo en bondad y afabilidad.
+
+━━━ 首 54 · 𝌻 · 昆 (Kūn) · «Unidad» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 13 同人 «Comunidad con los Hombres» · Grados solares 238.5°–243° · Término 處暑 (Fin del calor) · Tercio Tierra · Familia yin · 方州部家 2·3·3·3
+首辭　陰將離之陽尚昆之昆道尚同
+　　→ El yin va a apartarlo, el yang aún lo hermana; la vía de la hermandad estima la unidad.
+  初一 (apreciación 1)　昆于黑不知白
+  　　→ Unido en lo negro, no conoce lo blanco.
+  　　測曰　昆于黑不可謂人也
+  　　→ Unido en lo negro: no se le puede llamar hombre.
+  次二 (apreciación 2)　白黑菲菲三禽一角同尾
+  　　→ Blanco y negro entreverados; tres aves, un cuerno, una misma cola. [verso oscuro]
+  　　測曰　三禽一角無害心也
+  　　→ Tres aves de un cuerno: sin corazón dañino.
+  次三 (apreciación 3)　昆于白失不黑無除一尾三角
+  　　→ Unido en lo blanco; pierde —no negro— sin quitarse; una cola, tres cuernos. [verso oscuro]
+  　　測曰　昆白不黑不相親也
+  　　→ Blanco y no negro: no se allegan uno a otro.
+  次四 (apreciación 4)　鳥託巢于叢人寄命于公
+  　　→ El ave confía su nido a la espesura; el hombre confía su vida al duque.
+  　　測曰　鳥託巢公無貧也
+  　　→ El ave que confía su nido: el duque no falla.
+  次五 (apreciación 5)　穀不穀失䟽數眾氂毀玉
+  　　→ Grano y no grano; pierde la cuenta rala; muchos pelos malogran el jade. [verso oscuro]
+  　　測曰　穀失䟽數奚足旬也
+  　　→ Perder la cuenta rala: ¿cómo llenar diez días?
+  次六 (apreciación 6)　昆于井市文車同軌
+  　　→ Unido en el pozo y el mercado; carros con patrón de un mismo eje.
+  　　測曰　昆于井市同一倫也
+  　　→ Unido en pozo y mercado: de un solo orden.
+  次七 (apreciación 7)　蓋偏不覆晏雨不救
+  　　→ El dosel ladeado no cubre; la lluvia tardía no salva.
+  　　測曰　蓋偏不覆德不均也
+  　　→ Dosel ladeado que no cubre: la virtud no se reparte por igual.
+  次八 (apreciación 8)　昆于危難乃覆之安
+  　　→ Unido en el peligro y la penuria; y entonces, cobijado, a salvo.
+  　　測曰　危難之安素施仁也
+  　　→ La seguridad en la penuria: desde antiguo practicó la clemencia.
+  上九 (apreciación 9)　昆于死棄寇遺
+  　　→ Unido en la muerte, desechado: sobras del saqueador. [verso oscuro]
+  　　測曰　昆于死棄厥身也
+  　　→ Unido en la muerte: desecha su propio cuerpo.
+
+━━━ 首 55 · 𝌼 · 減 (Jiǎn) · «Merma» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 41 損 «La Merma» · Grados solares 243°–247.5° · Término 處暑 (Fin del calor) · Tercio Hombre · Familia yang · 方州部家 3·1·1·1
+首辭　陰氣息陽氣消陰盛陽衰萬物以微
+　　→ El aliento yin crece, el yang mengua; el yin pleno, el yang en declive; los diez mil seres se atenúan.
+  初一 (apreciación 1)　善減不減冥
+  　　→ Buena merma que no merma: oscura.
+  　　測曰　善減不減常自沖也
+  　　→ Buena merma que no merma: se vacía siempre a sí misma.
+  次二 (apreciación 2)　心減自中以形于身
+  　　→ El corazón mengua desde el centro, y se muestra en el cuerpo.
+  　　測曰　心減形身困諸中也
+  　　→ El corazón que mengua: apurado por dentro.
+  次三 (apreciación 3)　減其儀利用光于階
+  　　→ Mengua su pompa; propicio para brillar sobre los peldaños.
+  　　測曰　減其儀欲自禁也
+  　　→ Menguar la pompa: quiere refrenarse a sí mismo.
+  次四 (apreciación 4)　減於乂貶其位
+  　　→ Mengua en el gobierno; degrada su posición.
+  　　測曰　減於乂無以莅眾也
+  　　→ Menguar en el gobierno: nada con qué presidir a la multitud.
+  次五 (apreciación 5)　減黃貞不承于上寧
+  　　→ Mengua el amarillo, recto; no sostenido desde arriba: sosiego. [verso oscuro]
+  　　測曰　減黃貞臣道丁也
+  　　→ Menguar el amarillo recto: la vía del ministro es recia.
+  次六 (apreciación 6)　幽闡積不減不施石
+  　　→ A oscuras revela el acopio; ni mengua ni da: piedra. [verso oscuro]
+  　　測曰　幽闡不施澤不平也
+  　　→ Revelar sin dar: la merced no se reparte llana.
+  次七 (apreciación 7)　減其疾損其䘏厲不至
+  　　→ Mengua su dolencia, aligera su cuita; el peligro no llega.
+  　　測曰　減其疾不至危也
+  　　→ Menguar la dolencia: no llega al peligro.
+  次八 (apreciación 8)　瀏漣漣減于生根
+  　　→ Aguas claras, ondas y ondas; mengua en la raíz viva.
+  　　測曰　瀏漣之減生根毀也
+  　　→ La merma de las ondas: la raíz viva se malogra.
+  上九 (apreciación 9)　減終利用登于西山臨于大川
+  　　→ Merma hasta el fin; propicio subir a la montaña del oeste, asomarse al gran río.
+  　　測曰　減終之登誠可為也
+  　　→ La subida al final de la merma: de veras se puede hacer.
+
+━━━ 首 56 · 𝌽 · 唫 (Yín) · «Boca Cerrada» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 12 否 «El Estancamiento» · Grados solares 247.5°–252° · Término 處暑 (Fin del calor) · Tercio Hombre · Familia yin · 方州部家 3·1·1·2
+首辭　陰不之化陽不之施萬物各唫
+　　→ El yin no lo transforma, el yang no lo dispensa; los diez mil seres cierran cada uno su boca.
+  初一 (apreciación 1)　唫不予丈夫婦處
+  　　→ Cerrada, no da; el varón mora como esposa. [verso oscuro]
+  　　測曰　唫不予人所違也
+  　　→ Cerrada, no da: lo que los hombres rehúyen.
+  次二 (apreciación 2)　唫于血資乾骨
+  　　→ Cerrada en la sangre; la reserva se seca hasta el hueso.
+  　　測曰　唫于血臞自肥也
+  　　→ Cerrada en la sangre: enjuta, y se engorda a sí misma.
+  次三 (apreciación 3)　貌不交口唭㘈唫無辭
+  　　→ El rostro no se junta; la boca farfulla, cerrada, sin palabras. [verso oscuro]
+  　　測曰　貌不交人道微也
+  　　→ El rostro que no se junta: la vía de los hombres se atenúa.
+  次四 (apreciación 4)　唫其穀不振不俗纍老及族
+  　　→ Cierra su grano; ni lo airea ni lo comparte; lo amontona hasta la vejez y hasta el clan.
+  　　測曰　唫其穀不得相希也
+  　　→ Cerrar el grano: nadie puede mirar al otro.
+  次五 (apreciación 5)　不中不督腐蠹之嗇
+  　　→ Ni centrado ni vigilado: la avaricia de la podredumbre y la carcoma.
+  　　測曰　不中不督其唫非也
+  　　→ Ni centrado ni vigilado: su cerrar está mal.
+  次六 (apreciación 6)　泉源洋洋唫于丘園
+  　　→ La fuente del manantial, vasta y plena; cerrada en el jardín del cerro. [verso oscuro]
+  　　測曰　泉源之唫不可譏也
+  　　→ El cerrar del manantial: no se le puede reprochar.
+  次七 (apreciación 7)　唫于體黃肉毀
+  　　→ Cerrada en el cuerpo; la carne amarilla se corrompe.
+  　　測曰　唫于體骨肉傷也
+  　　→ Cerrada en el cuerpo: hueso y carne se dañan.
+  次八 (apreciación 8)　唫遇禍禱以牛解
+  　　→ Cerrada, se topa con la desgracia; ora con un buey para deshacerla.
+  　　測曰　唫遇禍大費當也
+  　　→ Cerrada ante la desgracia: gran costo, mas justo.
+  上九 (apreciación 9)　唫不雨孚乾脯
+  　　→ Cerrada, sin lluvia; la confianza se seca en cecina.
+  　　測曰　唫不雨何可望也
+  　　→ Cerrada, sin lluvia: ¿qué se puede esperar?
+
+━━━ 首 57 · 𝌾 · 守 (Shǒu) · «Cautela» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 12 否 «El Estancamiento» · Grados solares 252°–256.5° · Término 白露 (Rocío blanco) · Tercio Hombre · Familia yang · 方州部家 3·1·1·3
+首辭　陰守戶陽守門物莫相干
+　　→ El yin guarda la portezuela, el yang guarda el portón; ningún ser se entromete en otro.
+  初一 (apreciación 1)　閉朋牖守元有
+  　　→ Cierra la ventana del compañero; guarda el caudal primordial.
+  　　測曰　閉朋牖善持有也
+  　　→ Cerrar la ventana: guarda bien lo que tiene.
+  次二 (apreciación 2)　迷自守不如一之有
+  　　→ Perdido, guardándose a sí mismo: no vale como la posesión de lo uno.
+  　　測曰　迷自守中無所以也
+  　　→ Perdido y guardándose: por dentro, nada en qué apoyarse.
+  次三 (apreciación 3)　無喪無得往來默默
+  　　→ Sin pérdida, sin ganancia; yendo y viniendo, callado, callado.
+  　　測曰　無喪無得守厥故也
+  　　→ Sin pérdida ni ganancia: guarda su constancia.
+  次四 (apreciación 4)　象艮有守
+  　　→ A imagen de la Montaña, hay guarda.
+  　　測曰　象艮之守廉無怙也
+  　　→ La guarda de la Montaña: íntegro, sin apoyarse en nada.
+  次五 (apreciación 5)　守中以和要侯貞
+  　　→ Guarda el centro con concordia; se liga al señor: recto.
+  　　測曰　守中以和侯之素也
+  　　→ Guardar el centro con concordia: la llaneza del señor.
+  次六 (apreciación 6)　車案軔圭璧塵
+  　　→ El carro con el freno echado; las tablillas de jade juntan polvo.
+  　　測曰　車案軔不接鄰也
+  　　→ El carro con el freno echado: no trata con el vecino.
+  次七 (apreciación 7)　群陽不守男子之貞
+  　　→ La muchedumbre yang no monta guardia; la rectitud del varón. [verso oscuro]
+  　　測曰　群陽之守守貞信也
+  　　→ La guarda del yang: guarda rectitud y confianza.
+  次八 (apreciación 8)　臼無杵其碓舉天陰不雨白日毀暑
+  　　→ El mortero sin mano, su pilón alzado; el cielo encapotado sin lluvia; el día blanco malogra el calor. [verso oscuro]
+  　　測曰　臼無杵其守貧也
+  　　→ El mortero sin mano: su guarda es pobre.
+  上九 (apreciación 9)　與荼有守辭于盧首不殆
+  　　→ Con la hierba amarga hay guarda; declina en la cabeza negra; no peligra. [verso oscuro]
+  　　測曰　與荼有守故愈新也
+  　　→ Con la hierba amarga hay guarda: por eso lo viejo se hace nuevo.
+
+━━━ 首 58 · 𝌿 · 翕 (Xì) · «Recogimiento» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 57 巽 «Lo Suave (El Viento)» · Grados solares 256.5°–261° · Término 白露 (Rocío blanco) · Tercio Hombre · Familia yin · 方州部家 3·1·2·1
+首辭　陰來逆變陽往順化物退降集
+　　→ El yin viene y contraría el cambio, el yang se va y se pliega a él; los seres retroceden, descienden y se recogen.
+  初一 (apreciación 1)　狂衝于冥翕其志雖欲逍遙天不之茲
+  　　→ Embiste loco en lo oscuro, recoge su anhelo; aunque quiera vagar libre, el Cielo no se lo concede.
+  　　測曰　狂衝于冥天未與也
+  　　→ Embestir loco en lo oscuro: el Cielo aún no se lo concede.
+  次二 (apreciación 2)　翕冥中射貞
+  　　→ Se recoge en lo oscuro; el centro dispara: recto. [verso oscuro]
+  　　測曰　翕冥中正予也
+  　　→ Recogerse en lo oscuro: el centro, recto, otorga.
+  次三 (apreciación 3)　翕食嘬嘬
+  　　→ Se recoge a comer, engullendo, engullendo.
+  　　測曰　翕食嘬嘬利如舞也
+  　　→ Recogerse a comer: propicio, como en una danza.
+  次四 (apreciación 4)　翕其羽利用舉
+  　　→ Recoge sus alas; propicio remontar el vuelo.
+  　　測曰　翕其羽朋友助也
+  　　→ Recoger las alas: los amigos ayudan.
+  次五 (apreciación 5)　翕其腹辟金穀
+  　　→ Recoge su vientre; abre el metal y el grano.
+  　　測曰　翕其腹非所以譽也
+  　　→ Recoger el vientre: no es cosa de alabar.
+  次六 (apreciación 6)　黃心鴻翼翕于天
+  　　→ Corazón amarillo, alas de cisne; se recoge hacia el Cielo.
+  　　測曰　黃心鴻翼利得輔也
+  　　→ Corazón amarillo, alas de cisne: propicio ganar sostén.
+  次七 (apreciación 7)　翕繳惻惻
+  　　→ Recoge la flecha con hilo, doliéndose, doliéndose.
+  　　測曰　翕繳惻惻被離害也
+  　　→ Recoger la flecha con hilo: sufre el daño.
+  次八 (apreciación 8)　揮其罦絕其羂殆
+  　　→ Sacude su red, rompe su lazo: peligro.
+  　　測曰　揮罦絕羂危得遂也
+  　　→ Sacudir la red y romper el lazo: por el peligro sale adelante.
+  上九 (apreciación 9)　㩣其角維用抵族
+  　　→ Abate su cuerno, sólo para embestir a los suyos. [verso oscuro]
+  　　測曰　㩣其角殄厥類也
+  　　→ Abatir el cuerno: extermina a su propia casta.
+
+━━━ 首 59 · 𝍀 · 聚 (Jù) · «Amontonamiento» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 45 萃 «La Reunión» · Grados solares 261°–265.5° · Término 白露 (Rocío blanco) · Tercio Hombre · Familia yang · 方州部家 3·1·2·2
+首辭　陰氣收聚陽不禁禦物相崇聚
+　　→ El aliento yin recoge y junta; el yang no lo veda; los seres se apiñan unos sobre otros.
+  初一 (apreciación 1)　鬼神以無靈
+  　　→ Espíritus y espectros, por ello, sin numen.
+  　　測曰　鬼神無靈形不見也
+  　　→ Espíritus sin numen: su forma no se ve.
+  次二 (apreciación 2)　燕聚嘻嘻
+  　　→ El festín amontona risas, risas.
+  　　測曰　燕聚嘻嘻樂淫愆也
+  　　→ El festín que amontona risas: el gozo desborda en falta.
+  次三 (apreciación 3)　宗其高年群鬼之門
+  　　→ Honra a los de muchos años: la puerta de la hueste de espectros.
+  　　測曰　宗其高年鬼待敬也
+  　　→ Honrar a los ancianos: los espectros aguardan reverencia.
+  次四 (apreciación 4)　牽羊示于叢社執圭信其左股野
+  　　→ Lleva el cordero, lo muestra en el altar de la espesura; empuña la tablilla; confía en su muslo izquierdo: yermo. [verso oscuro]
+  　　測曰　牽羊于叢不足榮也
+  　　→ Llevar el cordero a la espesura: no basta para la gloria.
+  次五 (apreciación 5)　鼎血之蕕九宗之好乃後有孚
+  　　→ La sangre del caldero, la hierba fétida; el pacto de las nueve estirpes; y luego hay confianza. [verso oscuro]
+  　　測曰　鼎血之蕕信王命也
+  　　→ La sangre del caldero: confía en el mandato del rey.
+  次六 (apreciación 6)　畏其鬼尊其禮狂作昧淫亡
+  　　→ Teme a sus espectros, honra sus ritos; mas la locura al alzarse, ofuscada, en exceso, se pierde.
+  　　測曰　畏鬼之狂過其正也
+  　　→ La locura de temer a los espectros: se pasa de lo recto.
+  次七 (apreciación 7)　竦萃于丘冢
+  　　→ Con reverencia se congrega en el túmulo.
+  　　測曰　竦萃丘冢禮不廢也
+  　　→ Congregarse en el túmulo: el rito no se descuida.
+  次八 (apreciación 8)　鴟鳩在林㕹彼眾禽
+  　　→ El búho-tórtola en el bosque dispersa a la bandada de aves. [verso oscuro]
+  　　測曰　鴟鳩在林眾所㕹也
+  　　→ El búho en el bosque: lo que dispersa a la bandada.
+  上九 (apreciación 9)　垂涕纍鼻聚家之彙
+  　　→ Lágrimas que caen, mocos que corren: la congregación de los de la casa.
+  　　測曰　垂涕纍鼻時命絕也
+  　　→ Lágrimas y mocos: el mandato del tiempo se corta.
+
+━━━ 首 60 · 𝍁 · 積 (Jī) · «Acumulación» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 26 大畜 «La Fuerza Domesticadora de lo Grande» · Grados solares 265.5°–270° · Término 秋分 (Equinoccio de otoño) · Tercio Hombre · Familia yin · 方州部家 3·1·2·3
+首辭　陰將大閉陽尚小開山川藪澤萬物攸歸
+　　→ El yin va a cerrarse del todo, el yang aún abre un poco; montes, ríos, marismas y lagunas: adonde los diez mil seres retornan.
+  初一 (apreciación 1)　冥積否作明基
+  　　→ Acopio oscuro: no; haz de ello base luminosa.
+  　　測曰　冥積否在惡也
+  　　→ El acopio oscuro que no: reside en el mal.
+  次二 (apreciación 2)　積不用而至于大用君子介心
+  　　→ Acopia sin usar, y llega al gran uso; el noble guarda un corazón firme.
+  　　測曰　積不用不可規度也
+  　　→ Acopiar sin usar: no se puede medir.
+  次三 (apreciación 3)　積石不食費其勞力
+  　　→ Acopia piedras, incomibles; malgasta su esfuerzo.
+  　　測曰　積石不食無可獲也
+  　　→ Acopiar piedras: nada que ganar.
+  次四 (apreciación 4)　君子積善至于車耳
+  　　→ El noble acopia el bien hasta las orejas del carro (hasta rebosar).
+  　　測曰　君子積善至于蕃也
+  　　→ El noble que acopia el bien: hasta el florecimiento.
+  次五 (apreciación 5)　藏不滿盜不嬴
+  　　→ El granero no lleno; el ladrón no gana.
+  　　測曰　藏滿盜嬴還自損也
+  　　→ Granero lleno, ladrón que gana: sólo se daña a sí mismo.
+  次六 (apreciación 6)　大滿碩施得人無亢
+  　　→ Muy pleno, dando en grande; gana a los hombres, sin altanería.
+  　　測曰　大滿碩施人所來也
+  　　→ Muy pleno y dadivoso: a quien los hombres acuden.
+  次七 (apreciación 7)　魁而顏而玉帛班而決欲招寇
+  　　→ Prominente y de buen rostro; jade y seda desplegados; ese alarde llama al saqueador. [verso oscuro]
+  　　測曰　魁而顏而盜之招也
+  　　→ Prominente y ostentoso: una invitación al ladrón.
+  次八 (apreciación 8)　積善辰禍維先之罪
+  　　→ Acopia el bien, y con todo una desgracia a su hora: sólo la culpa de los que antecedieron.
+  　　測曰　積善辰禍非己辜也
+  　　→ Bien acopiado y desgracia: no es su propia culpa.
+  上九 (apreciación 9)　小人積非至于苗裔
+  　　→ El hombre pequeño acopia lo torcido, hasta su descendencia.
+  　　測曰　小人積非禍所骫也
+  　　→ El pequeño que acopia lo torcido: donde la desgracia se enrosca.
+
+━━━ 首 61 · 𝍂 · 餙 (Shì) · «Ornamento» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 22 賁 «La Gracia» · Grados solares 270°–274.5° · Término 秋分 (Equinoccio de otoño) · Tercio Hombre · Familia yang · 方州部家 3·1·3·1 · Equinoccio de otono (zona)
+首辭　陰白陽黑分行其職出入有飾
+　　→ El yin blanco, el yang negro; reparten su oficio; en el salir y el entrar hay ornato.
+  初一 (apreciación 1)　言不言不以言
+  　　→ Habla sin hablar; no por palabras.
+  　　測曰　言不言默而信也
+  　　→ Hablar sin hablar: callado, y con todo se le cree.
+  次二 (apreciación 2)　無質飾先文後失服
+  　　→ Sin sustancia, adorna; el patrón primero, la sustancia después: pierde la vestidura. [verso oscuro]
+  　　測曰　無質先文失貞也
+  　　→ Sin sustancia, el patrón primero: pierde la rectitud.
+  次三 (apreciación 3)　吐黃舌拑黃聿利見哲人
+  　　→ Saca la lengua amarilla, empuña el pincel amarillo; propicio ver al hombre sabio.
+  　　測曰　舌聿之利利見知人也
+  　　→ El provecho de lengua y pincel: propicio topar con el que discierne.
+  次四 (apreciación 4)　利口哇哇商人之貞
+  　　→ Boca hábil, cháchara y cháchara: la rectitud del mercader.
+  　　測曰　哇哇之貞利于商也
+  　　→ La rectitud de la cháchara: propicia para el comercio.
+  次五 (apreciación 5)　下言如水實以天牝
+  　　→ Palabras humildes como el agua; colmadas por la Hembra del Cielo.
+  　　測曰　下言之水能自沖也
+  　　→ Palabras como agua: capaces de vaciarse a sí mismas.
+  次六 (apreciación 6)　言無追如抑亦飛如大人震風
+  　　→ Palabra sin retorno; contenida, y aun así vuela; el gran hombre: trueno y viento.
+  　　測曰　言無追如抑亦揚也
+  　　→ Palabra sin retorno: contenida, y aun así se remonta.
+  次七 (apreciación 7)　不丁言時微于辭見上疑
+  　　→ No habla a su hora; tenue en el decir; el superior recela. [verso oscuro]
+  　　測曰　不丁言時何可章也
+  　　→ No hablar a su hora: ¿cómo se ha de manifestar?
+  次八 (apreciación 8)　蛁鳴喁喁血出其口
+  　　→ La cigarra chirría, chirr, chirr; la sangre sale de su boca.
+  　　測曰　蛁鳴喁喁口自傷也
+  　　→ La cigarra que chirría: la boca se hiere a sí misma.
+  上九 (apreciación 9)　白舌于于屈于根君子否信
+  　　→ La lengua blanca, lenta, lenta; se dobla en la raíz; el noble: no; confianza. [verso oscuro]
+  　　測曰　白舌于于誠可長也
+  　　→ La lengua blanca, lenta: de veras puede perdurar.
+
+━━━ 首 62 · 𝍃 · 疑 (Yí) · «Duda» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 22 賁 «La Gracia» · Grados solares 274.5°–279° · Término 秋分 (Equinoccio de otoño) · Tercio Hombre · Familia yin · 方州部家 3·1·3·2
+首辭　陰陽相磑物咸彫離若是若非
+　　→ Yin y yang se muelen uno a otro; los seres se marchitan y se apartan, como siendo y no siendo.
+  初一 (apreciación 1)　疑恛恛失貞矢
+  　　→ Duda, vacilando, vacilando; pierde la flecha recta.
+  　　測曰　疑恛失貞何可定也
+  　　→ Duda que pierde la rectitud: ¿cómo asentarla?
+  次二 (apreciación 2)　疑自反孚不遠
+  　　→ Duda que se vuelve sobre sí; la confianza no está lejos.
+  　　測曰　疑自反反清靜也
+  　　→ Duda que se vuelve sobre sí: retorna a lo claro y quieto.
+  次三 (apreciación 3)　疑彊昭受茲閔閔于其心祖
+  　　→ Duda forzada a la luz; recibe esto; compasiva, compasiva, en el ancestro del corazón. [verso oscuro]
+  　　測曰　疑彊昭中心冥也
+  　　→ Duda forzada a la luz: el corazón íntimo, oscuro.
+  次四 (apreciación 4)　疑考舊遇貞孚
+  　　→ Duda, consulta lo antiguo, halla la rectitud: confianza.
+  　　測曰　疑考舊先問也
+  　　→ Consultar lo antiguo: primero se pregunta.
+  次五 (apreciación 5)　赨黃疑金中
+  　　→ Rojo y amarillo dudan del metal por dentro. [verso oscuro]
+  　　測曰　赨黃疑中邪奪正也
+  　　→ Duda en el centro: lo torcido arrebata a lo recto.
+  次六 (apreciación 6)　誓貞可聽疑則有誠
+  　　→ Un juramento recto puede escucharse; dudado, y con todo hay sinceridad.
+  　　測曰　誓貞可聽明王命也
+  　　→ Un juramento recto que se escucha: esclarece el mandato del rey.
+  次七 (apreciación 7)　鬼魂疑嚘嗚弋木之烏射穴之狐反目耳厲
+  　　→ Las almas de los muertos dudan, gimiendo, gimiendo; flecha al cuervo del árbol, flecha al zorro de la madriguera; ojos y oídos vueltos del revés: peligro. [verso oscuro]
+  　　測曰　鬼魂之疑誠不可信也
+  　　→ La duda de las almas: de veras no es de fiar.
+  次八 (apreciación 8)　顛疑遇幹客三歲不射
+  　　→ Duda que se derrumba; encuentra al huésped firme; tres años sin disparar. [verso oscuro]
+  　　測曰　顛疑遇客甚足敬也
+  　　→ Duda que encuentra al huésped: muy digno de respeto.
+  上九 (apreciación 9)　九疑無信控弧擬麋無
+  　　→ Nueve dudas sin fe; tensa el arco, apunta al alce: nada. [verso oscuro]
+  　　測曰　九疑無信終無所名也
+  　　→ Nueve dudas sin fe: al fin, nada que nombrar.
+
+━━━ 首 63 · 𝍄 · 視 (Shì) · «Vigilia» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 20 觀 «La Contemplación» · Grados solares 279°–283.5° · Término 秋分 (Equinoccio de otoño) · Tercio Hombre · Familia yang · 方州部家 3·1·3·3
+首辭　陰成魄陽成妣物之形貌咸可視
+　　→ El yin cuaja el alma-blanca, el yang cuaja la antepasada; la forma y el aspecto de los seres, todo se deja ver.
+  初一 (apreciación 1)　內其明不用其光
+  　　→ Guarda su claridad por dentro; no usa su luz.
+  　　測曰　內其明自窺深也
+  　　→ Guardar la claridad: escruta su propia hondura.
+  次二 (apreciación 2)　君子視內小人視外
+  　　→ El noble mira hacia dentro, el hombre pequeño hacia fuera.
+  　　測曰　小人視外不能見心也
+  　　→ El pequeño que mira afuera: no puede ver el corazón.
+  次三 (apreciación 3)　視其德可以幹王之國
+  　　→ Mira a su virtud; puede servir de armazón al reino del rey.
+  　　測曰　視德之幹乃能有全也
+  　　→ Mirar el armazón de la virtud: entonces puede haber integridad.
+  次四 (apreciación 4)　粉其題䪻雨其渥須視無姝
+  　　→ Empolva su frente, unta su barba lustrosa; míralo: nada hermoso. [verso oscuro]
+  　　測曰　粉題雨須不可忍瞻也
+  　　→ Frente empolvada y barba untada: insoportable de mirar.
+  次五 (apreciación 5)　鸞鳳紛如厥德暉如
+  　　→ Fénix en profusión; su virtud, radiante.
+  　　測曰　鸞鳳紛如德光皓也
+  　　→ Fénix en profusión: la luz de la virtud, esplendente.
+  次六 (apreciación 6)　素車翠蓋維視之害貞
+  　　→ Carro llano, dosel de martín pescador; sólo para ser mirado: daño; recto. [verso oscuro]
+  　　測曰　素車翠蓋徒好外也
+  　　→ Carro llano y dosel vistoso: sólo ama lo de fuera.
+  次七 (apreciación 7)　視其瑕無穢
+  　　→ Mira su propia tacha; sin mancha.
+  　　測曰　視其瑕能自矯也
+  　　→ Mirar la propia tacha: capaz de corregirse.
+  次八 (apreciación 8)　翡翠于飛離其翼狐鼦之毛躬之賊
+  　　→ El martín pescador en vuelo pierde su ala; el pelaje del zorro y la marta: la ruina del propio cuerpo.
+  　　測曰　翡翠狐鼦好作咎也
+  　　→ Martín, zorro y marta: la belleza labra la desgracia.
+  上九 (apreciación 9)　日沒其光賁于東方用視厥始
+  　　→ El sol hunde su luz, orla el oriente; úsalo para mirar su comienzo.
+  　　測曰　日沒賁東終顧始也
+  　　→ El sol que se hunde y orla el este: el fin vuelve los ojos al principio.
+
+━━━ 首 64 · 𝍅 · 沈 (Chén) · «Hundimiento» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 20 觀 «La Contemplación» · Grados solares 283.5°–288° · Término 寒露 (Rocío frío) · Tercio Hombre · Familia yin · 方州部家 3·2·1·1
+首辭　陰懷于陽陽懷于陰志在玄宮
+　　→ El yin se abriga en el yang, el yang en el yin; su anhelo está en el Palacio del Misterio.
+  初一 (apreciación 1)　沈耳于閨不聞貞
+  　　→ Hunde el oído en la alcoba; no oye: recto.
+  　　測曰　沈耳于閨失德體也
+  　　→ Hundir el oído en la alcoba: pierde el cuerpo de la virtud.
+  次二 (apreciación 2)　沈視自見賢於眇之眄
+  　　→ El mirar hundido se ve a sí mismo; mejor que la ojeada del bizco.
+  　　測曰　沈視之見得正美也
+  　　→ El ver hundido: alcanza la belleza verdadera.
+  次三 (apreciación 3)　沈于美失貞矢
+  　　→ Se hunde en la belleza; pierde la flecha recta.
+  　　測曰　沈于美作聾盲也
+  　　→ Hundirse en la belleza: se hace sordo y ciego.
+  次四 (apreciación 4)　宛雛沈視食苦貞
+  　　→ El polluelo tierno, la mirada hundida; se nutre de lo amargo: recto. [verso oscuro]
+  　　測曰　宛雛沈視擇食方也
+  　　→ El polluelo de mirada hundida: escoge su alimento con método.
+  次五 (apreciación 5)　雕鷹高翔沈其腹好𡢘惡粥
+  　　→ El águila que planea alto hunde su vientre; ama lo suculento, aborrece el caldo. [verso oscuro]
+  　　測曰　雕鷹高翔在腐糧也
+  　　→ El águila que planea alto: puesta en el grano podrido.
+  次六 (apreciación 6)　見票如累明利以正于王
+  　　→ Ve el titileo como carga; claro; propicio enderezarlo ante el rey. [verso oscuro]
+  　　測曰　見票如累其道明也
+  　　→ Ver el titileo como carga: su vía es clara.
+  次七 (apreciación 7)　離如婁如赤肉鴟梟厲
+  　　→ Apartando así, enredando así; carne roja, búho y cárabo: peligro. [verso oscuro]
+  　　測曰　離婁赤肉食不臧也
+  　　→ Carne roja: el comer no es bueno.
+  次八 (apreciación 8)　盼得藥利征
+  　　→ Mira y obtiene el remedio; propicio marchar.
+  　　測曰　盼得其藥利征邁也
+  　　→ Obtener el remedio: propicio avanzar.
+  上九 (apreciación 9)　血如剛沈于顙前尸後喪
+  　　→ Sangre como si dura; se hunde en la frente; cadáver delante, duelo detrás.
+  　　測曰　血剛沈顙終以貪敗也
+  　　→ Sangre que se hunde en la frente: al fin, arruinado por la codicia.
+
+━━━ 首 65 · 𝍆 · 內 (Nèi) · «Lo Interior» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 54 歸妹 «La Muchacha que se Casa» · Grados solares 288°–292.5° · Término 寒露 (Rocío frío) · Tercio Hombre · Familia yang · 方州部家 3·2·1·2
+首辭　陰去其內而在于外陽去其外而在乎內萬物之既
+　　→ El yin deja su dentro y se pone afuera, el yang deja su fuera y se pone adentro: el acabamiento de los diez mil seres.
+  初一 (apreciación 1)　謹于媐㐜初貞後寧
+  　　→ Cauto en el gozo; al principio recto, después en paz. [verso oscuro]
+  　　測曰　謹于媐㐜始女貞也
+  　　→ Cauto en el gozo: al comienzo, la rectitud de la doncella.
+  次二 (apreciación 2)　邪其內主迂彼黃床
+  　　→ Tuerce a su dueño interior; da rodeos en torno a aquel lecho amarillo. [verso oscuro]
+  　　測曰　邪其內主遠乎寧也
+  　　→ Torcer al dueño interior: lejos del sosiego.
+  次三 (apreciación 3)　爾儀而悲坎我西階
+  　　→ Tu decoro, y con todo el duelo; una fosa en mi peldaño del oeste. [verso oscuro]
+  　　測曰　爾儀而悲代母情也
+  　　→ Decoro y duelo: el sentir de quien releva a la madre.
+  次四 (apreciación 4)　好小好危喪其縕袍厲
+  　　→ Ama lo pequeño, ama lo peligroso; pierde su túnica acolchada: peligro.
+  　　測曰　好小好危不足榮也
+  　　→ Amar lo pequeño y lo peligroso: no basta para la gloria.
+  次五 (apreciación 5)　龍下于泥君子利用取媐遇庸夷
+  　　→ El dragón baja al fango; el noble aprovecha para tomar esposa; encuentra lo común y lo llano. [verso oscuro]
+  　　測曰　龍下于泥陽下陰也
+  　　→ El dragón que baja al fango: el yang se pone bajo el yin.
+  次六 (apreciación 6)　黃昏于飛內其羽雖欲滿宮不見其女
+  　　→ Al crepúsculo, en vuelo, recoge sus alas; aunque quiera llenar el palacio, no ve a su mujer.
+  　　測曰　黃昏內羽不能自禁也
+  　　→ Recoger las alas al crepúsculo: no puede contenerse.
+  次七 (apreciación 7)　枯垣生莠皬頭內其稚婦有
+  　　→ El muro seco cría cizaña; cabeza cana; toma en casa a su joven esposa: hay descendencia. [verso oscuro]
+  　　測曰　枯垣生莠物慶類也
+  　　→ El muro seco que cría cizaña: los seres se alegran en su casta.
+  次八 (apreciación 8)　內不克婦荒家及國涉深不測
+  　　→ Por dentro no domina a la esposa; arruina la casa, y alcanza al reino; vadea lo hondo, insondable.
+  　　測曰　內不克婦國之孽也
+  　　→ No dominar a la esposa: la ruina del reino.
+  上九 (apreciación 9)　雨降于地不得止不得過
+  　　→ La lluvia baja a la tierra; no puede detenerse, no puede rebasar.
+  　　測曰　雨降于地澤節也
+  　　→ La lluvia que baja a la tierra: la merced es mesurada.
+
+━━━ 首 66 · 𝍇 · 去 (Qù) · «Partida» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 25 無妄 «La Inocencia» · Grados solares 292.5°–297° · Término 寒露 (Rocío frío) · Tercio Hombre · Familia yin · 方州部家 3·2·1·3
+首辭　陽去其陰陰去其陽物咸倜倡
+　　→ El yang deja su yin, el yin deja su yang; los seres todos se sueltan y se desbandan.
+  初一 (apreciación 1)　去此靈淵舍彼枯園
+  　　→ Deja este abismo numinoso; mora en aquel jardín marchito.
+  　　測曰　去此靈淵不以謙將也
+  　　→ Dejar el abismo numinoso: no guiado por la humildad.
+  次二 (apreciación 2)　去彼枯園舍下靈淵
+  　　→ Deja aquel jardín marchito; mora abajo en el abismo numinoso.
+  　　測曰　舍下靈淵謙道光也
+  　　→ Morar en el abismo numinoso: la vía de la humildad resplandece.
+  次三 (apreciación 3)　高其步之堂有露
+  　　→ Sube altivo al salón; hay rocío.
+  　　測曰　高步有露妄行也
+  　　→ Paso altivo con rocío: un andar temerario.
+  次四 (apreciación 4)　去于父子去于臣主
+  　　→ Se aparta de padre e hijo; se aparta de ministro y señor.
+  　　測曰　去于父子非所望也
+  　　→ Apartarse de padre e hijo: no es lo que se espera.
+  次五 (apreciación 5)　攓其衣之庭有麋
+  　　→ Se arremanga la ropa hacia el patio; hay un alce. [verso oscuro]
+  　　測曰　攓衣有麋亦可懼也
+  　　→ Ropa arremangada con alce: también es de temer.
+  次六 (apreciación 6)　躬去于成天遺厥名
+  　　→ En persona se retira en la cima del logro; el Cielo preserva su nombre.
+  　　測曰　躬去于成讓不居也
+  　　→ Retirarse en la cima: cede y no se queda.
+  次七 (apreciación 7)　去其德貞三死不令
+  　　→ Se aparta de su virtud y rectitud; tres veces muerto, sin renombre.
+  　　測曰　去其德貞終死醜也
+  　　→ Apartarse de la virtud recta: al fin muere en vergüenza.
+  次八 (apreciación 8)　月高弦火幾縣不可以動動有愆
+  　　→ La luna alta, media tensa; el fuego casi colgado; no se debe mover; moverse es falta. [verso oscuro]
+  　　測曰　月弦火縣恐見咎也
+  　　→ Luna tensa y fuego colgado: teme incurrir en falta.
+  上九 (apreciación 9)　求我不得自我西北
+  　　→ Me busca y no me halla; desde mi noroeste.
+  　　測曰　求我不得安可久也
+  　　→ Buscarme sin hallarme: ¿cómo va a durar?
+
+━━━ 首 67 · 𝍈 · 晦 (Huì) · «Oscurecimiento» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 36 明夷 «El Oscurecimiento de la Luz» · Grados solares 297°–301.5° · Término 霜降 (Caída de la escarcha) · Tercio Hombre · Familia yang · 方州部家 3·2·2·1
+首辭　陰登于陽陽降于陰物咸喪明
+　　→ El yin sube al yang, el yang baja al yin; los seres todos pierden su luz.
+  初一 (apreciación 1)　同冥獨見幽貞
+  　　→ Uno con la tiniebla, a solas ve; oculto: recto.
+  　　測曰　同冥獨見中獨昭也
+  　　→ Uno con la tiniebla que ve solo: por dentro, a solas, es luminoso.
+  次二 (apreciación 2)　盲征否
+  　　→ Ciego, marcha: no.
+  　　測曰　盲征否明不見道也
+  　　→ Ciego que marcha: la claridad no ve la vía.
+  次三 (apreciación 3)　陰行陽從利作不凶
+  　　→ El yin va, el yang sigue; propicio obrar, sin infortunio.
+  　　測曰　陰行陽從事必外也
+  　　→ El yin va y el yang sigue: el asunto ha de ir afuera.
+  次四 (apreciación 4)　晦其類失金匱
+  　　→ Oscurece a los suyos; pierde el cofre de metal.
+  　　測曰　晦其類法度廢也
+  　　→ Oscurecer a los suyos: ley y medida caen en desuso.
+  次五 (apreciación 5)　日正中月正隆君子自晦不入窮
+  　　→ El sol en pleno mediodía, la luna en plenitud; el noble se oscurece a sí mismo y no entra en el aprieto.
+  　　測曰　日中月隆明恐挫也
+  　　→ Sol y luna en su colmo: la claridad teme ser quebrada.
+  次六 (apreciación 6)　玄鳥維愁明降于幽
+  　　→ El ave oscura sólo se apena; la claridad desciende a la penumbra.
+  　　測曰　玄鳥維愁將下昧也
+  　　→ El ave oscura que se apena: a punto de hundirse en lo oscuro.
+  次七 (apreciación 7)　睄睼明或遵之行
+  　　→ Apenas vislumbra la claridad; alguno la sigue en su andar. [verso oscuro]
+  　　測曰　睄睼明德將遵行也
+  　　→ Vislumbrar la clara virtud: será seguida.
+  次八 (apreciación 8)　視非其真夷其右目滅國喪家
+  　　→ Mira lo que no es verdadero; se hiere el ojo derecho; arruina el reino, pierde la casa.
+  　　測曰　視非夷目國以喪也
+  　　→ Mirar lo falso y herir el ojo: el reino se pierde por ello.
+  上九 (apreciación 9)　晦冥冥利于不明之貞
+  　　→ Oscureciendo, oscuro, oscuro; propicio en la rectitud de no relucir.
+  　　測曰　晦冥之利不得獨明也
+  　　→ El provecho de oscurecerse: no se debe relucir a solas.
+
+━━━ 首 68 · 𝍉 · 瞢 (Méng) · «Atenuación» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 36 明夷 «El Oscurecimiento de la Luz» · Grados solares 301.5°–306° · Término 霜降 (Caída de la escarcha) · Tercio Hombre · Familia yin · 方州部家 3·2·2·2
+首辭　陰征南陽征北物失明貞莫不瞢瞢
+　　→ El yin marcha al sur, el yang al norte; los seres pierden su recta claridad; no hay quien no se anuble.
+  初一 (apreciación 1)　瞢腹睒天不覩其畛
+  　　→ Vientre nublado ojea el Cielo; no ve sus lindes.
+  　　測曰　瞢腹睒天無能見也
+  　　→ Vientre nublado que ojea el Cielo: incapaz de ver.
+  次二 (apreciación 2)　明腹睒天覩其根
+  　　→ Vientre claro ojea el Cielo; ve su raíz.
+  　　測曰　明腹睒天中獨爛也
+  　　→ Vientre claro que ojea el Cielo: por dentro, a solas, arde.
+  次三 (apreciación 3)　師或導射豚其埻
+  　　→ El maestro tal vez guía el disparo; el lechón, en su blanco. [verso oscuro]
+  　　測曰　師或導射無以辨也
+  　　→ El maestro que guía el disparo: nada con qué distinguir.
+  次四 (apreciación 4)　鑒貞不迷于人攸資
+  　　→ El espejo, recto, no se confunde; aquello en que los hombres se apoyan.
+  　　測曰　鑒貞不迷誠可信也
+  　　→ El espejo recto que no se confunde: de veras es de fiar.
+  次五 (apreciación 5)　倍明仮光觸蒙昏
+  　　→ Da la espalda a la claridad, toma prestada una luz falsa; tropieza con la ceguera confusa.
+  　　測曰　倍明仮光人可頻也
+  　　→ Espalda a la claridad, luz prestada: los hombres fruncen el ceño.
+  次六 (apreciación 6)　瞢瞢之離不宜熒且𡛖
+  　　→ La partición de lo nublado; impropia; titilante y velada. [verso oscuro]
+  　　測曰　瞢瞢之離中薆薆也
+  　　→ La partición de lo nublado: por dentro, velada y velada.
+  次七 (apreciación 7)　瞢奸明其所惡
+  　　→ La traición nublada hace patente lo que aborrece.
+  　　測曰　瞢奸之惡著不可昧也
+  　　→ El mal de la traición nublada: manifiesto, no se puede ocultar.
+  次八 (apreciación 8)　昏辰利于月小貞未及星
+  　　→ La hora del ocaso favorece a la luna; rectitud pequeña; aún no llega a las estrellas.
+  　　測曰　昏辰利月尚可願也
+  　　→ La hora del ocaso favorece a la luna: aún cabe desearlo.
+  上九 (apreciación 9)　時𨲠𨲠不獲其嘉男子折笄婦人易哿
+  　　→ Los tiempos, nublados, nublados; no logra su ventura; el varón quiebra su horquilla, la mujer trueca su gozo. [verso oscuro]
+  　　測曰　不獲其嘉男死婦歎也
+  　　→ No lograr la ventura: el varón muere, la mujer suspira.
+
+━━━ 首 69 · 𝍊 · 窮 (Qióng) · «Agotamiento» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 47 困 «La Desazón» · Grados solares 306°–310.5° · Término 霜降 (Caída de la escarcha) · Tercio Hombre · Familia yang · 方州部家 3·2·2·3
+首辭　陰氣塞宇陽亡其所萬物窮遽
+　　→ El aliento yin tapona la bóveda, el yang pierde su sitio; los diez mil seres, acorralados y en apremio.
+  初一 (apreciación 1)　窮其窮而民好中
+  　　→ Agota su agotamiento, y el pueblo ama el centro.
+  　　測曰　窮其窮情在中也
+  　　→ Agotar el agotamiento: el sentir está en el centro.
+  次二 (apreciación 2)　窮不窮而民不中
+  　　→ Agotamiento no agotado, y el pueblo no centrado.
+  　　測曰　窮不窮詐可隆也
+  　　→ Agotamiento no agotado: el engaño puede crecer.
+  次三 (apreciación 3)　窮思達
+  　　→ Agotado, y aun así piensa atravesar.
+  　　測曰　窮思達師在心也
+  　　→ Agotado y pensando atravesar: el maestro está en el corazón.
+  次四 (apreciación 4)　土不和木科橢
+  　　→ La tierra sin concordia; los huecos del árbol, torcidos. [verso oscuro]
+  　　測曰　土不和病乎民也
+  　　→ La tierra sin concordia: enferma al pueblo.
+  次五 (apreciación 5)　羹無糝其腹坎坎不失其範
+  　　→ Caldo sin grano; su vientre hueco, hueco; y con todo no pierde su molde.
+  　　測曰　羹無糝猶不失其正也
+  　　→ Caldo sin grano: y aun así no pierde su rectitud.
+  次六 (apreciación 6)　山無角水無鱗困犯身
+  　　→ El monte sin cima, el agua sin escama; la penuria asalta el cuerpo.
+  　　測曰　山無角困百姓也
+  　　→ El monte sin cima: penuria para el pueblo.
+  次七 (apreciación 7)　正其足蹛于狴獄三歲見錄
+  　　→ Endereza sus pies; encadenado en la cárcel; en tres años lo inscriben.
+  　　測曰　正其足險得平也
+  　　→ Enderezar los pies: del peligro alcanza lo llano.
+  次八 (apreciación 8)　涉于霜雪纍項于䣛
+  　　→ Vadea escarcha y nieve; el cuello atado a la rodilla.
+  　　測曰　纍項于䣛亦不足生也
+  　　→ El cuello atado a la rodilla: no basta para vivir.
+  上九 (apreciación 9)　破璧毀圭臼竈生鼃天禍以他
+  　　→ Disco de jade roto, tablilla quebrada; mortero y fogón crían ranas; la desgracia del Cielo por otra vía.
+  　　測曰　破璧毀圭逢不幸也
+  　　→ Jade roto y tablilla quebrada: topa con la desventura.
+
+━━━ 首 70 · 𝍋 · 割 (Gē) · «Ruptura» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 23 剝 «La Desintegración» · Grados solares 310.5°–315° · Término 立冬 (Inicio del invierno) · Tercio Hombre · Familia yin · 方州部家 3·2·3·1
+首辭　陰氣割物陽形縣殺七日幾絕
+　　→ El aliento yin siega a los seres; la forma yang cuelga mermada; a los siete días, casi extinta.
+  初一 (apreciación 1)　割其耳目及其心腹厲
+  　　→ Corta sus oídos y ojos, y alcanza su corazón y su vientre: peligro.
+  　　測曰　割其耳目中無外也
+  　　→ Cortar oídos y ojos: por dentro, nada afuera.
+  次二 (apreciación 2)　割其肬贅利以無穢
+  　　→ Corta su verruga y su lobanillo; propicio, para estar sin tacha.
+  　　測曰　割其肬贅惡不得大也
+  　　→ Cortar verruga y lobanillo: el mal no puede crecer.
+  次三 (apreciación 3)　割鼻食口喪其息主
+  　　→ Corta la nariz, alimenta la boca; pierde a su dueño del aliento.
+  　　測曰　割鼻喪主損無榮也
+  　　→ Cortar la nariz: pérdida sin gloria.
+  次四 (apreciación 4)　宰割平平
+  　　→ El corte del carnicero, parejo, parejo.
+  　　測曰　宰割平平能有成也
+  　　→ El corte parejo: puede haber consumación.
+  次五 (apreciación 5)　割其股肱喪其服馬
+  　　→ Corta su muslo y su brazo; pierde su caballo de tiro.
+  　　測曰　割其股肱亡大臣也
+  　　→ Cortar muslo y brazo: pierde a los grandes ministros.
+  次六 (apreciación 6)　割之無創飽于四方
+  　　→ Lo corta sin herida; saciado en los cuatro rumbos.
+  　　測曰　割之無創道可分也
+  　　→ Cortar sin herida: la vía se puede repartir.
+  次七 (apreciación 7)　紫蜺矞雲朋圍日其疾不割
+  　　→ Arco iris morado, nubes en jirones cercan al sol; su mal no se corta. [verso oscuro]
+  　　測曰　紫蜺矞雲不知刊也
+  　　→ Arco iris y nubes: no sabe podarlo.
+  次八 (apreciación 8)　割其蠹得我心疾
+  　　→ Corta su carcoma; alivia el mal de mi corazón.
+  　　測曰　割其蠹國所便也
+  　　→ Cortar la carcoma: lo que conviene al reino.
+  上九 (apreciación 9)　割肉取骨滅頂于血
+  　　→ Corta la carne para sacar el hueso; ahoga la coronilla en sangre.
+  　　測曰　割肉滅血不能自全也
+  　　→ Cortar la carne y ahogar en sangre: no puede guardarse entero.
+
+━━━ 首 71 · 𝍌 · 止 (Zhǐ) · «Detención» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 52 艮 «El Aquietamiento (La Montaña)» · Grados solares 315°–319.5° · Término 立冬 (Inicio del invierno) · Tercio Hombre · Familia yang · 方州部家 3·2·3·2
+首辭　陰大止物於上陽亦止物於下下上俱止
+　　→ El yin detiene en grande a los seres arriba, el yang también los detiene abajo; abajo y arriba, todo se detiene.
+  初一 (apreciación 1)　止于止內明無咎
+  　　→ Se detiene en el punto de detenerse; claridad interior: sin falta.
+  　　測曰　止于止智足明也
+  　　→ Detenerse a tiempo: sabiduría bastante para ser claro.
+  次二 (apreciación 2)　車軔俟馬酋止
+  　　→ El carro frenado aguarda al caballo; maduramente se detiene.
+  　　測曰　車軔馬止不可以行也
+  　　→ Carro frenado, caballo detenido: no se puede andar.
+  次三 (apreciación 3)　關其門戶用止狂蠱
+  　　→ Atranca sus puertas para detener el veneno de la locura.
+  　　測曰　關其門戶禦不當也
+  　　→ Atrancar las puertas: ataja lo que no toca.
+  次四 (apreciación 4)　止于童木求其䟽穀
+  　　→ Se detiene en el arbolillo; busca en él su grano ralo.
+  　　測曰　止于童木其求窮也
+  　　→ Detenerse en el arbolillo: su búsqueda se agota.
+  次五 (apreciación 5)　柱奠廬蓋蓋車轂均䟽
+  　　→ El pilar apuntala el cobertizo; el cubo del carro, de rayos parejos. [verso oscuro]
+  　　測曰　柱及蓋轂貴中也
+  　　→ Pilar, cubierta y cubo: prizan el centro.
+  次六 (apreciación 6)　方輪廉軸坎軻其輿
+  　　→ Rueda cuadrada, eje anguloso; a tumbos, a tumbos su carruaje.
+  　　測曰　方輪坎軻還自震也
+  　　→ Rueda cuadrada a tumbos: sólo se sacude a sí misma.
+  次七 (apreciación 7)　車纍其傂馬擸其蹄止貞
+  　　→ El carro traba su rueda, el caballo arrastra su casco; se detiene: recto.
+  　　測曰　車纍馬擸行可鄰也
+  　　→ Carro trabado, caballo que arrastra: el andar puede acercarse.
+  次八 (apreciación 8)　弓善反弓惡反善馬恨惡馬恨絕弸破車終不偃
+  　　→ El buen arco rebota, el mal arco rebota; el buen caballo se resiente, el mal caballo se resiente; la cuerda salta, el carro se rompe; al fin no se detiene. [verso oscuro]
+  　　測曰　弓反馬恨終不可以也
+  　　→ Arco que rebota, caballo que se resiente: al fin, no puede ser.
+  上九 (apreciación 9)　折于株木輆于砭石止
+  　　→ Se quiebra en el tocón, se magulla en la piedra-lanceta; se detiene.
+  　　測曰　折木輆石君子所止也
+  　　→ Quebrarse en el tocón y la piedra: donde el noble se detiene.
+
+━━━ 首 72 · 𝍍 · 堅 (Jiān) · «Dureza» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 52 艮 «El Aquietamiento (La Montaña)» · Grados solares 319.5°–324° · Término 立冬 (Inicio del invierno) · Tercio Hombre · Familia yin · 方州部家 3·2·3·3
+首辭　陰形胼冒陽喪其緒物競堅彊
+　　→ La forma yin se encallece y cubre, el yang pierde su hilo; los seres compiten en dureza y fuerza.
+  初一 (apreciación 1)　磐石固內不化貞
+  　　→ Peña firme por dentro; inmutable: recto.
+  　　測曰　磐石固內不可化也
+  　　→ Peña firme por dentro: no se puede transformar.
+  次二 (apreciación 2)　堅白玉形內化貞
+  　　→ Dura forma de jade blanco; por dentro se transforma: recto. [verso oscuro]
+  　　測曰　堅白玉形變可為也
+  　　→ Dura forma de jade: el cambio se puede obrar.
+  次三 (apreciación 3)　堅不凌或泄其中
+  　　→ Dura, mas no domina; algo se filtra de su centro.
+  　　測曰　堅不凌不能持齊也
+  　　→ Dura sin dominar: no puede sostenerse pareja.
+  次四 (apreciación 4)　小蜂營營螮其蛡蛡不介在堅
+  　　→ La abejita, afanosa, afanosa, con sus larvas; no firme, aun puesta en lo duro. [verso oscuro]
+  　　測曰　小蜂營營固其氐也
+  　　→ La abejita afanosa: asegura su base.
+  次五 (apreciación 5)　蛡大螮小虛
+  　　→ La larva grande, la madre pequeña: vacío. [verso oscuro]
+  　　測曰　蛡大螮小國虛空也
+  　　→ Larva grande, madre pequeña: el reino, hueco y vacío.
+  次六 (apreciación 6)　韱螮紗紗縣于九州
+  　　→ Hilos finos, gasa y gasa, colgados sobre las Nueve Provincias. [verso oscuro]
+  　　測曰　韱螮之縣民以康也
+  　　→ Los hilos colgados: el pueblo por ello, en paz.
+  次七 (apreciación 7)　堅顛觸冢
+  　　→ Dura, se derrumba, golpeando el túmulo.
+  　　測曰　堅顛觸冢不知所行也
+  　　→ Dura y derrumbada: no sabe adónde ir.
+  次八 (apreciación 8)　怙堅禍惟用解𧋈之貞
+  　　→ Fiarse de la dureza, desgracia; sólo vale la rectitud de disolver el veneno.
+  　　測曰　怙堅禍用直方也
+  　　→ Fiarse de la dureza: usa lo recto y cuadrado.
+  上九 (apreciación 9)　蜂焚其蛡喪于尸
+  　　→ La abeja quema su propia cría; perdida, al cadáver.
+  　　測曰　蜂焚其蛡所憑喪也
+  　　→ La abeja que quema su cría: lo que la sostenía se pierde.
+
+━━━ 首 73 · 𝍎 · 成 (Chéng) · «Consumación» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 63 既濟 «Después de la Consumación» · Grados solares 324°–328.5° · Término 立冬 (Inicio del invierno) · Tercio Hombre · Familia yang · 方州部家 3·3·1·1
+首辭　陰氣方清陽藏於靈物濟成形
+　　→ El aliento yin recién límpido, el yang oculto en el numen; los seres se logran y cobran forma.
+  初一 (apreciación 1)　成若否其用不已冥
+  　　→ Consumado como si no; su uso incesante: oscuro.
+  　　測曰　成若否所以不敗也
+  　　→ Consumado como si no: por eso no fracasa.
+  次二 (apreciación 2)　成微改改未成而殆
+  　　→ Consuma apenas, cambiando, cambiando; aún no consumado, y en peligro.
+  　　測曰　成微改改不能自遂也
+  　　→ Consumar apenas, cambiando: no puede llevarse a cabo.
+  次三 (apreciación 3)　成躍以縮成飛不逐
+  　　→ Consuma el salto retrayéndose; consuma el vuelo, sin ser perseguido.
+  　　測曰　成躍以縮成德壯也
+  　　→ Consumar el salto retrayéndose: la virtud consumada es recia.
+  次四 (apreciación 4)　將成矜敗
+  　　→ A punto de consumar, mas ufano: derrota.
+  　　測曰　將成之矜成道病也
+  　　→ A punto de consumar, ufano: la vía de la consumación, enferma.
+  次五 (apreciación 5)　中成獨督大
+  　　→ Consumado en el centro; a solas vigila lo grande.
+  　　測曰　中成獨督能處中也
+  　　→ Consumado en el centro: capaz de morar en el centro.
+  次六 (apreciación 6)　成魁瑣以成獲禍
+  　　→ Consuma como cabecilla, mezquino; al consumar, cosecha la desgracia. [verso oscuro]
+  　　測曰　成之魁瑣不以讓也
+  　　→ Consumar mezquino: por no ceder.
+  次七 (apreciación 7)　成闕補
+  　　→ Consuma el remiendo de la brecha.
+  　　測曰　成闕之補固難承也
+  　　→ El remiendo de la brecha: de veras difícil de sostener.
+  次八 (apreciación 8)　時成不成天降亡貞
+  　　→ La hora de consumar, sin consumarse; el Cielo hace bajar la ruina: recto.
+  　　測曰　時成不成獨失中也
+  　　→ Hora de consumar sin consumar: a solas pierde el centro.
+  上九 (apreciación 9)　成窮入于敗毀成君子不成
+  　　→ La consumación agotada entra en la ruina, arruina el logro; el noble no consuma.
+  　　測曰　成窮以毀君子以終也
+  　　→ Consumación agotada en ruina: así el noble llega a su fin.
+
+━━━ 首 74 · 𝍏 · 䦯 (Xián) · «Cierre» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 21 噬嗑 «La Mordedura Tajante» · Grados solares 328.5°–333° · Término 小雪 (Nieve menor) · Tercio Hombre · Familia yin · 方州部家 3·3·1·2
+首辭　陰陽交跌相闔成一其禍泣萬物
+　　→ Yin y yang tropiezan al cruzarse, se cierran haciéndose uno; su desgracia hace llorar a los diez mil seres.
+  初一 (apreciación 1)　圜方杌棿其內窾換
+  　　→ Redondo y cuadrado, tambaleantes, vacilantes; por dentro, huecos que se truecan. [verso oscuro]
+  　　測曰　圜方杌棿內相失也
+  　　→ Redondo y cuadrado vacilantes: por dentro se pierden uno a otro.
+  次二 (apreciación 2)　䦯無間
+  　　→ Cerrado, sin resquicio.
+  　　測曰　無間之䦯一其二也
+  　　→ El cierre sin resquicio: hace uno de los dos.
+  次三 (apreciación 3)　龍襲非其穴光亡于室
+  　　→ El dragón se cuela en lo que no es su guarida; la luz se pierde en la alcoba.
+  　　測曰　龍襲非穴失其常也
+  　　→ El dragón en guarida ajena: pierde su constancia.
+  次四 (apreciación 4)　臭肥滅鼻利美貞
+  　　→ Grasa rancia ciega la nariz; propicio, sabroso: recto. [verso oscuro]
+  　　測曰　滅鼻之貞沒所芳也
+  　　→ La rectitud que ciega la nariz: anega lo que era fragante.
+  次五 (apreciación 5)　齧骨折齒滿缶
+  　　→ Roe el hueso, quiebra el diente; colma la vasija.
+  　　測曰　齧骨折齒大貪利也
+  　　→ Roer el hueso y quebrar el diente: gran codicia de ganancia.
+  次六 (apreciación 6)　飲汗吭吭得其膏滑
+  　　→ Bebe sudor, tragando, tragando; obtiene su grasa y su unto.
+  　　測曰　飲汗吭吭道足嗜也
+  　　→ Beber sudor tragando: la vía, colmada de avidez.
+  次七 (apreciación 7)　䦯其差前合後離
+  　　→ Cierra su discrepancia; unido antes, separado después.
+  　　測曰　䦯其差其合離也
+  　　→ Cerrar la discrepancia: su unión es una separación.
+  次八 (apreciación 8)　輔其折廅其缺其人暉且偈
+  　　→ Entablilla su fractura, colma su mella; el hombre, radiante y recio.
+  　　測曰　輔折廅缺猶可善也
+  　　→ Entablillar la fractura: aún se puede mejorar.
+  上九 (apreciación 9)　陰陽啟𠯒其變赤白
+  　　→ Yin y yang abren y cierran; su mudanza: rojo y blanco.
+  　　測曰　陰陽啟𠯒極則反也
+  　　→ Yin y yang abren y cierran: en el extremo, se invierte.
+
+━━━ 首 75 · 𝍐 · 失 (Shī) · «Fracaso» ━━━
+〔ficha〕 Fase 火 (Fuego) · Hexagrama 28 大過 «La Preponderancia de lo Grande» · Grados solares 333°–337.5° · Término 小雪 (Nieve menor) · Tercio Hombre · Familia yang · 方州部家 3·3·1·3
+首辭　陰大作賊陽不能得物陷不測
+　　→ El yin hace de bandido en grande, el yang no logra asirlo; los seres se hunden en lo insondable.
+  初一 (apreciación 1)　刺虛滅刃
+  　　→ Apuñala el vacío, embota el filo.
+  　　測曰　刺虛滅刃深自幾也
+  　　→ Apuñalar el vacío: se pone a sí mismo en hondo peligro.
+  次二 (apreciación 2)　藐德靈徵失
+  　　→ Desdeña la virtud; el signo numinoso se pierde.
+  　　測曰　藐德之失不知畏徵也
+  　　→ Desdeñar la virtud: no sabe temer el presagio.
+  次三 (apreciación 3)　卒而從而䘏而竦而于其心祖
+  　　→ Súbito, y siguiendo, y afligido, y sobresaltado, en el ancestro de su corazón. [verso oscuro]
+  　　測曰　卒而從而能自改也
+  　　→ Súbito y sobresaltado: capaz de enmendarse.
+  次四 (apreciación 4)　信過不食至于側匿
+  　　→ Confía en la falta, no come; llega a esconderse en un rincón.
+  　　測曰　信過不食失正祿也
+  　　→ Confiar en la falta sin comer: pierde la paga justa.
+  次五 (apreciación 5)　黃兒以中蕃君子以之洗于愆
+  　　→ El niño amarillo por el centro florece; el noble con ello se lava de su tacha.
+  　　測曰　黃兒以中過以洗也
+  　　→ El niño amarillo por el centro: la tacha se lava.
+  次六 (apreciación 6)　滿其倉蕪其田食其實不養其根
+  　　→ Colma su granero, deja yermo su campo; come el fruto, no cría la raíz.
+  　　測曰　滿倉蕪田不能脩本也
+  　　→ Granero lleno, campo yermo: no cultiva la raíz.
+  次七 (apreciación 7)　疾則藥巫則酌
+  　　→ Enfermo, pues el remedio; el chamán, pues la libación.
+  　　測曰　疾藥巫酌禍可轉也
+  　　→ Remedio y libación: la desgracia se puede desviar.
+  次八 (apreciación 8)　雌鳴于辰牝角魚木
+  　　→ La gallina canta a deshora; la hembra con cuernos; peces en el árbol.
+  　　測曰　雌鳴于辰厥正反也
+  　　→ La gallina que canta a deshora: su rectitud, invertida.
+  上九 (apreciación 9)　日月之逝改于尸
+  　　→ El pasar del sol y la luna; lo enmienda ante el cadáver.
+  　　測曰　改于尸尚不遠也
+  　　→ Enmendar ante el cadáver: aún no está lejos.
+
+━━━ 首 76 · 𝍑 · 劇 (Jù) · «Agravamiento» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 28 大過 «La Preponderancia de lo Grande» · Grados solares 337.5°–342° · Término 小雪 (Nieve menor) · Tercio Hombre · Familia yin · 方州部家 3·3·2·1
+首辭　陰窮大泣陽無介儔離之劇
+　　→ El yin, acorralado, llora a mares; el yang sin compañero ni par: el rigor de la separación.
+  初一 (apreciación 1)　骨纍其肉內幽
+  　　→ El hueso enredado en su carne; por dentro, tiniebla.
+  　　測曰　骨纍其肉賊內行也
+  　　→ El hueso enredado en su carne: la ruina obra por dentro.
+  次二 (apreciación 2)　血出之蝕凶貞
+  　　→ Brota la sangre, una carcoma; funesto: recto.
+  　　測曰　血出之蝕君子內傷也
+  　　→ La sangre que brota: el noble, herido por dentro.
+  次三 (apreciación 3)　酒作失德鬼睒其室
+  　　→ El vino hace su obra, la virtud se pierde; el espectro atisba su alcoba.
+  　　測曰　酒作失德不能將也
+  　　→ El vino que hace perder la virtud: no puede seguir adelante.
+  次四 (apreciación 4)　食于劇父母采餕若
+  　　→ Come en la penuria; padre y madre recogen las sobras. [verso oscuro]
+  　　測曰　食劇以若為順祿也
+  　　→ Comer en la penuria: lo toma como porción conforme.
+  次五 (apreciación 5)　出野見虛有虎牧豬搴絝與襦
+  　　→ Sale al yermo, ve el vacío; hay un tigre pastoreando cerdos; se arremanga calzón y camisa. [verso oscuro]
+  　　測曰　出野見虛無所措足也
+  　　→ Salir al yermo y ver el vacío: sin dónde poner el pie.
+  次六 (apreciación 6)　四國滿斯宅
+  　　→ Los cuatro reinos colman esta morada.
+  　　測曰　四國滿斯求安宅也
+  　　→ Los cuatro reinos que colman: busca una morada segura.
+  次七 (apreciación 7)　麃而丰而戴禍顏而
+  　　→ Recio así, exuberante así; lleva la desgracia en el rostro así. [verso oscuro]
+  　　測曰　麃而丰而戴禍較也
+  　　→ Recio y exuberante: lleva la desgracia a las claras.
+  次八 (apreciación 8)　缾纍于繘貞顇
+  　　→ El cántaro enredado en la soga; recto: extenuado.
+  　　測曰　缾纍于繘厥職迫也
+  　　→ El cántaro enredado en la soga: su cometido, acuciado.
+  上九 (apreciación 9)　海水群飛蔽于天杭
+  　　→ Las aguas del mar vuelan en bandadas, velando la barca del cielo. [verso oscuro]
+  　　測曰　海水群飛終不可語也
+  　　→ Las aguas que vuelan en bandadas: al fin, indecible.
+
+━━━ 首 77 · 𝍒 · 馴 (Xún) · «Conformidad» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 2 坤 «Lo Receptivo» · Grados solares 342°–346.5° · Término 大雪 (Nieve mayor) · Tercio Hombre · Familia yang · 方州部家 3·3·2·2
+首辭　陰氣大順渾沌無端莫見其根
+　　→ El aliento yin, del todo dócil; el caos sin cabo; nadie ve su raíz.
+  初一 (apreciación 1)　黃靈幽貞馴
+  　　→ Numen amarillo, oculto, recto, dócil.
+  　　測曰　黃靈幽貞順以正也
+  　　→ Numen amarillo, oculto y recto: dócil por la rectitud.
+  次二 (apreciación 2)　𡢘其膏女子之勞不靜亡命
+  　　→ Rica su grasa; la faena de la mujer; sin quietud, pierde la vida. [verso oscuro]
+  　　測曰　𡢘膏之亡不能清淨也
+  　　→ La pérdida de la grasa: no puede ser límpida y quieta.
+  次三 (apreciación 3)　牝貞常慈衛其根
+  　　→ La rectitud de la hembra, siempre tierna; guarda su raíz.
+  　　測曰　牝貞常慈不忘本也
+  　　→ La hembra siempre tierna: no olvida la raíz.
+  次四 (apreciación 4)　徇其勞不如五之豪
+  　　→ Pregona su faena; no vale como la excelencia del quinto. [verso oscuro]
+  　　測曰　徇其勞伐善也
+  　　→ Pregonar la faena: alardea de su bien.
+  次五 (apreciación 5)　靈囊大包其德珍黃
+  　　→ El saco numinoso abarca en grande; su virtud, preciado amarillo.
+  　　測曰　靈囊大包不敢自盛也
+  　　→ El saco que abarca en grande: no osa vanagloriarse.
+  次六 (apreciación 6)　囊失括泄珍器
+  　　→ El saco pierde su atadura; derrama el vaso precioso.
+  　　測曰　囊失括臣口溢也
+  　　→ El saco sin atadura: la boca del ministro se desborda.
+  次七 (apreciación 7)　方堅犯順利臣貞
+  　　→ Cuadrado y firme, contraría lo dócil; propicio: la rectitud del ministro.
+  　　測曰　方堅犯順守正節也
+  　　→ Contrariar lo dócil: guarda la recta mesura.
+  次八 (apreciación 8)　馴非其正不保厥命
+  　　→ Dócil, mas no a lo recto; no conserva su mandato.
+  　　測曰　馴非其正無所統一也
+  　　→ Dócil sin ser recto: nada que lo unifique.
+  上九 (apreciación 9)　馴義忘生賴于天貞
+  　　→ Dócil a la justicia, olvida la vida; se fía del Cielo: recto.
+  　　測曰　馴義忘生受命必也
+  　　→ Dócil a la justicia: acepta el mandato sin falta.
+
+━━━ 首 78 · 𝍓 · 將 (Jiāng) · «Al Borde» ━━━
+〔ficha〕 Fase 土 (Tierra) · Hexagrama 64 未濟 «Antes de la Consumación» · Grados solares 346.5°–351° · Término 大雪 (Nieve mayor) · Tercio Hombre · Familia yin · 方州部家 3·3·2·3
+首辭　陰氣濟物乎上陽信將復始之乎下
+　　→ El aliento yin remata a los seres arriba; la fe del yang está a punto de recomenzar abajo.
+  初一 (apreciación 1)　將造邪元厲
+  　　→ A punto de hacer, torcido en el origen: peligro.
+  　　測曰　將造邪危作主也
+  　　→ A punto de hacer, torcido: el peligro se hace dueño.
+  次二 (apreciación 2)　將無疵元睟
+  　　→ A punto de ser, sin tacha; radiante en el origen.
+  　　測曰　將無疵易為後也
+  　　→ A punto de ser sin tacha: fácil para lo que viene después.
+  次三 (apreciación 3)　鑪鈞否利用止
+  　　→ El horno y el torno del alfarero: no; propicio detenerse. [verso oscuro]
+  　　測曰　鑪鈞否化內傷也
+  　　→ El horno y el torno que no: la transformación hiere por dentro.
+  次四 (apreciación 4)　將飛得羽利以登于天
+  　　→ A punto de volar, gana sus plumas; propicio subir al Cielo.
+  　　測曰　將飛得羽其輔彊也
+  　　→ A punto de volar con plumas: su sostén es fuerte.
+  次五 (apreciación 5)　大爵將飛拔其翮毛羽雖眾不得適
+  　　→ El gran pájaro a punto de volar; le arrancan las plumas remeras; aunque sean muchas, no puede ir.
+  　　測曰　大雀拔翮不足賴也
+  　　→ Al gran pájaro sin remeras: no es de fiar.
+  次六 (apreciación 6)　日失烈烈君子將衰降
+  　　→ El sol pierde su fiero ardor; el noble a punto de menguar y descender.
+  　　測曰　日失烈烈自光大也
+  　　→ El sol que pierde su ardor: de suyo fue grande en luz.
+  次七 (apreciación 7)　趹舩跋車其害不遐
+  　　→ Da una coz a la barca, sacude el carro; su daño no está lejos. [verso oscuro]
+  　　測曰　趹舩跋車不遠害也
+  　　→ Cocear la barca y sacudir el carro: el daño no está lejos.
+  次八 (apreciación 8)　小子在淵丈人播舩
+  　　→ El pequeño en el abismo; el anciano rema la barca.
+  　　測曰　丈人播舩濟溺世也
+  　　→ El anciano que rema: hace cruzar a la época que se ahoga.
+  上九 (apreciación 9)　紅蠶緣于枯桑其繭不黃
+  　　→ El gusano rojo trepa por la morera seca; su capullo no amarillea.
+  　　測曰　緣于枯桑蠶功敗也
+  　　→ Trepar por la morera seca: la obra del gusano se malogra.
+
+━━━ 首 79 · 𝍔 · 難 (Nán) · «Dificultades» ━━━
+〔ficha〕 Fase 水 (Agua) · Hexagrama 39 蹇 «El Impedimento» · Grados solares 351°–355.5° · Término 大雪 (Nieve mayor) · Tercio Hombre · Familia yang · 方州部家 3·3·3·1
+首辭　陰氣方難水凝地坼陽弱於淵
+　　→ El aliento yin en su rigor; el agua se cuaja, la tierra se raja; el yang, débil en el abismo.
+  初一 (apreciación 1)　難我冥冥
+  　　→ La dificultad sobre mí, oscura, oscura.
+  　　測曰　難我冥冥未見形也
+  　　→ La dificultad oscura: su forma aún no se ve.
+  次二 (apreciación 2)　凍冰瀆狂馬椯木
+  　　→ Hielo helado en la acequia; el caballo loco golpea el árbol. [verso oscuro]
+  　　測曰　狂馬椯木妄生也
+  　　→ El caballo loco contra el árbol: crecer sin tino.
+  次三 (apreciación 3)　中堅剛難于非常
+  　　→ Firme y duro en el centro; dificultad en lo extraordinario.
+  　　測曰　中堅剛終莫傾也
+  　　→ Firme y duro en el centro: al fin nada lo vuelca.
+  次四 (apreciación 4)　卵破石毈
+  　　→ El huevo se rompe, la piedra se malogra.
+  　　測曰　卵破之毈小人難也
+  　　→ Huevo roto que no cuaja: la dificultad del hombre pequeño.
+  次五 (apreciación 5)　難無間雖大不勤
+  　　→ Dificultad sin resquicio; aunque grande, no se afana en vano.
+  　　測曰　難無間中密塞也
+  　　→ Dificultad sin resquicio: por dentro, densa y tupida.
+  次六 (apreciación 6)　大車川川上輆于山下觸于川
+  　　→ El gran carro, pesado, pesado; arriba lo traba el monte, abajo lo golpea el río.
+  　　測曰　大車川川上下軔也
+  　　→ El gran carro pesado: frenado arriba y abajo.
+  次七 (apreciación 7)　拔石䂦䂦力沒以引
+  　　→ Arranca la piedra, forcejeando, forcejeando; la fuerza se agota en el tirón.
+  　　測曰　拔石䂦䂦乘時也
+  　　→ Arrancar la piedra forcejeando: aprovecha el momento.
+  次八 (apreciación 8)　觸石決木維折角
+  　　→ Embiste la piedra, hiende la madera; sólo se rompe el cuerno.
+  　　測曰　觸石決木非所治也
+  　　→ Embestir la piedra y hender la madera: no es lo que puede dominar.
+  上九 (apreciación 9)　角解豸終以直其有施
+  　　→ Se desprende el cuerno de la bestia justiciera; al fin, por la rectitud, hay entrega.
+  　　測曰　角解豸終以直之也
+  　　→ El cuerno que se desprende: al fin, por la rectitud, se endereza.
+
+━━━ 首 80 · 𝍕 · 勤 (Qín) · «Fatiga» ━━━
+〔ficha〕 Fase 木 (Madera) · Hexagrama 39 蹇 «El Impedimento» · Grados solares 355.5°–360° · Término 冬至 (Solsticio de invierno) · Tercio Hombre · Familia yin · 方州部家 3·3·3·2
+首辭　陰凍沍戁創於外微陽邸冥膂力於內
+　　→ El yin hiela y congela, se atormenta y llaga por fuera; el yang tenue se aposenta en lo oscuro, guardando su fuerza por dentro.
+  初一 (apreciación 1)　勤謀于心否貞
+  　　→ Se afana en tramar en su corazón: no; recto.
+  　　測曰　勤謀否貞中不正也
+  　　→ Afanarse en tramar: no; el centro no es recto.
+  次二 (apreciación 2)　勞有恩勤悾悾君子有中
+  　　→ En la faena hay bondad; laborioso, sincero, sincero; el noble guarda el centro.
+  　　測曰　勞有恩勤有諸情也
+  　　→ En la faena hay bondad: tiene su verdadero sentir.
+  次三 (apreciación 3)　羈角之吾其泣呱呱未得繈扶
+  　　→ El niño con moños llora, ¡guá, guá!; aún no logra su faja que lo sostenga. [verso oscuro]
+  　　測曰　羈角之吾不得命也
+  　　→ El niño con moños: no logra su mandato.
+  次四 (apreciación 4)　勤于力放倍忘食大人有克
+  　　→ Se afana con fuerza, se entrega, redobla, olvida comer; el gran hombre prevalece.
+  　　測曰　勤力忘食大人德也
+  　　→ Afanarse y olvidar comer: la virtud del gran hombre.
+  次五 (apreciación 5)　往蹇蹇禍邇福遠
+  　　→ Va, cojeando, cojeando; la desgracia cerca, la dicha lejos.
+  　　測曰　往之蹇蹇遠乎福也
+  　　→ Ir cojeando: lejos de la dicha.
+  次六 (apreciación 6)　勤有成功幾于天
+  　　→ La fatiga tiene su logro; cerca del Cielo.
+  　　測曰　勤有成功天所來輔也
+  　　→ La fatiga con logro: el Cielo viene a sostenerla.
+  次七 (apreciación 7)　勞牽不其鼻于尾弊
+  　　→ Afanado, arrastra al buey no por el hocico sino por el rabo: extenuado. [verso oscuro]
+  　　測曰　勞牽之弊其道逆也
+  　　→ La extenuación de arrastrar: su vía va al revés.
+  次八 (apreciación 8)　勞踖踖心爽蒙柴不卻
+  　　→ Afanado, presuroso, presuroso; el corazón lúcido; en la maleza, sin recular.
+  　　測曰　勞踖踖躬殉國也
+  　　→ Afanado y presuroso: en persona muere por el reino.
+  上九 (apreciación 9)　其勤其勤抱車入淵負舟上山
+  　　→ Su fatiga, su fatiga: abraza el carro y entra en el abismo, carga la barca y sube al monte.
+  　　測曰　其勤其勤勞不得也
+  　　→ Su fatiga, su fatiga: se afana y nada gana.
+
+━━━ 首 81 · 𝍖 · 養 (Yǎng) · «Sustento / Crianza» ━━━
+〔ficha〕 Fase 金 (Metal) · Hexagrama 27 頤 «La Nutrición» · Grados solares 360°–364.5° · Término 冬至 (Solsticio de invierno) · Tercio Hombre · Familia yang · 方州部家 3·3·3·3
+首辭　陰弸于野陽蓲萬物赤之於下
+　　→ El yin se tensa por el yermo; el yang incuba a los diez mil seres y los enrojece abajo.
+  初一 (apreciación 1)　藏心于淵美厥靈根
+  　　→ Esconde el corazón en el abismo; hermosea su raíz numinosa.
+  　　測曰　藏心于淵神不外也
+  　　→ Esconder el corazón en el abismo: el espíritu no se vuelca afuera.
+  次二 (apreciación 2)　墨養邪元函否貞
+  　　→ Crianza refrenada, torcida en el origen, encerrada: no; recto. [verso oscuro]
+  　　測曰　墨養邪中心敗也
+  　　→ Crianza torcida: el corazón íntimo, arruinado.
+  次三 (apreciación 3)　糞以肥丘育厥根荄
+  　　→ Estercola para engordar el cerro; cría sus raíces y raicillas.
+  　　測曰　糞以肥丘中光大也
+  　　→ Estercolar el cerro: por dentro, luminoso y grande.
+  次四 (apreciación 4)　燕食扁扁其志𠑩𠑩利用征賈
+  　　→ Festeja y se nutre, revoloteando, revoloteando; su anhelo, alto, alto; propicio marchar y comerciar. [verso oscuro]
+  　　測曰　燕食扁扁志在賴也
+  　　→ Festejar revoloteando: su anhelo puesto en la ganancia.
+  次五 (apreciación 5)　黃心在腹白骨生肉孚德不復
+  　　→ Corazón amarillo en el vientre; el hueso blanco engendra carne; la virtud confiada no retorna.
+  　　測曰　黃心在腹上得天也
+  　　→ Corazón amarillo en el vientre: arriba, alcanza el Cielo.
+  次六 (apreciación 6)　次次一日三餼祇牛之兆肥不利
+  　　→ Por orden, un día tres raciones; el augurio del buey del sacrificio; gordo: adverso. [verso oscuro]
+  　　測曰　次次之餼肥無身也
+  　　→ La ración por orden: gordo, mas sin cuerpo propio.
+  次七 (apreciación 7)　小子牽象婦人徽猛君子養病
+  　　→ El pequeño lleva al elefante; la mujer amansa lo fiero; el noble cría su dolencia. [verso oscuro]
+  　　測曰　牽象養病不相因也
+  　　→ Llevar el elefante y criar la dolencia: no dependen uno de otro.
+  次八 (apreciación 8)　鯁不脫毒疾發鬼上壟
+  　　→ La espina no se desprende; el mal venenoso estalla; el espectro sube al túmulo.
+  　　測曰　鯁疾之發歸于墳也
+  　　→ El mal de la espina que estalla: vuelve a la tumba.
+  上九 (apreciación 9)　星如歲如復繼之初
+  　　→ Como el astro, como el año; de nuevo enlaza con el comienzo.
+  　　測曰　星如歲如終始養也
+  　　→ Como el astro, como el año: fin y comienzo se nutren uno a otro.
+  【踦贊】　凍登赤天晏入玄泉
+  　　→ Helado, sube al cielo rojo; sereno, entra en la fuente oscura.
+  　　測曰　凍登赤天陰作首也
+  　　→ Helado, subiendo al cielo rojo: el yin se hace cabeza.
+  【嬴贊】　一虛一嬴踦奇所生
+  　　→ Uno vacío, uno lleno; del resto impar nace lo que nace.
+  　　測曰　虛嬴踦踦禪無已也
+  　　→ Vacío y lleno, resto sobre resto: la cesión sucesiva sin fin.
+
+==============================================================================
+81/81 cabezas · 731/731 apreciaciones · ficha y figura completas. 太玄之玄.
