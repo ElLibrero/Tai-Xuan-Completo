@@ -8,7 +8,7 @@ español** (CC0). Un regalo para la humanidad.
 
 ## Descargas — todo a un clic
 
-- 📜 **Texto canónico completo en chino** (.txt) — [descargar / leer](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_completo_chino.txt)
+- 📜 **Texto canónico completo en chino** (.txt) — [descargar / leer](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_completoenchino.txt)
 - 📖 **PDF** de lectura bilingüe (imprimible, se abre en cualquier dispositivo) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/releases/download/v1.0/Tai_Xuan_Jing_espanol_bilingue.pdf)
 - 📱 **EPUB** (e-readers y apps de lectura; es el formato para subir a **Kindle/KDP**) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_espanol.epub)
 - 🔖 **AZW3** (Kindle nativo, para *sideload* / prueba) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_espanol.azw3)
