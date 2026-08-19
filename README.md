@@ -12,7 +12,7 @@ La **edición de lectura** —el canon bilingüe con guía de uso (el *Sistema 9
 matriz de los dos bigramas, el calendario anual y el índice clicable de las 81 cabezas— está lista
 para descargar:
 
-- 📖 **PDF** (imprimible, se abre en cualquier dispositivo) — (https://github.com/ElLibrero/Tai-Xuan-Completo/releases/download/v1.0/Tai_Xuan_Jing_espanol_bilingue.pdf)
+- 📖 **PDF** (imprimible, se abre en cualquier dispositivo) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/releases/download/v1.0/Tai_Xuan_Jing_espanol_bilingue.pdf)
 - 📱 **EPUB** (e-readers y apps de lectura; es el formato para subir a **Kindle/KDP**) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_espanol.epub)
 - 🔖 **AZW3** (Kindle nativo, para *sideload* / prueba en el propio dispositivo) — [descargar](https://github.com/ElLibrero/Tai-Xuan-Completo/raw/main/Tai_Xuan_Jing_espanol.azw3)
 
